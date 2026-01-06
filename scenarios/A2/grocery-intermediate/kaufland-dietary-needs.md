@@ -150,5 +150,5 @@ You're in the grocery section at Kaufland, looking for specific products that fi
 
 ## Next Steps
 
-- [Asking Recommendations](/scenarios/A2/grocery-intermediate/auchan-recommendations.html) - Comparing products
-- [Farmers Market Negotiating](/scenarios/A2/grocery-intermediate/farmers-market-negotiating.html) - Asking about organic produce
+- [Asking Recommendations]({{ '/scenarios/A2/grocery-intermediate/auchan-recommendations.html' | relative_url }}) - Comparing products
+- [Farmers Market Negotiating]({{ '/scenarios/A2/grocery-intermediate/farmers-market-negotiating.html' | relative_url }}) - Asking about organic produce

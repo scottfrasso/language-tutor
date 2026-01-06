@@ -144,5 +144,5 @@ Friday evening, you're in the elevator going up. A neighbor you know slightly ge
 
 ## Next Steps
 
-- [Elevator Greeting](/scenarios/A1/social/elevator-greeting.html) (A1) - Basic greeting version
-- [Asking About Area](/scenarios/A2/social/neighbor-asking-about-area.html) - More specific questions
+- [Elevator Greeting]({{ '/scenarios/A1/social/elevator-greeting.html' | relative_url }}) (A1) - Basic greeting version
+- [Asking About Area]({{ '/scenarios/A2/social/neighbor-asking-about-area.html' | relative_url }}) - More specific questions

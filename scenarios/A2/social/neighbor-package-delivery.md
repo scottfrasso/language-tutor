@@ -143,5 +143,5 @@ Your neighbor knocks on your door. They're holding a package and look apologetic
 
 ## Next Steps
 
-- [Accepting Package](/scenarios/A1/social/neighbor-accepting-package.html) (A1) - When package is correctly delivered to neighbor
-- [Asking About Area](/scenarios/A2/social/neighbor-asking-about-area.html) - More extended neighbor conversations
+- [Accepting Package]({{ '/scenarios/A1/social/neighbor-accepting-package.html' | relative_url }}) (A1) - When package is correctly delivered to neighbor
+- [Asking About Area]({{ '/scenarios/A2/social/neighbor-asking-about-area.html' | relative_url }}) - More extended neighbor conversations

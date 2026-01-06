@@ -199,8 +199,8 @@ This is enough for a successful purchase!
 ## Next Steps
 
 **Similar Scenarios:**
-- [Ordering Pastry at Cukiernia](/scenarios/A1/specialty-shops/cukiernia-ordering-pastry.html) - Similar shop interaction
-- [Buying Bread at Auchan](/scenarios/A1/grocery-basics/auchan-buying-bread.html) - Less interaction, bigger store
+- [Ordering Pastry at Cukiernia]({{ '/scenarios/A1/specialty-shops/cukiernia-ordering-pastry.html' | relative_url }}) - Similar shop interaction
+- [Buying Bread at Auchan]({{ '/scenarios/A1/grocery-basics/auchan-buying-bread.html' | relative_url }}) - Less interaction, bigger store
 
 **Progression:**
-- [Special Order at Piekarnia](/scenarios/A2/specialty-shops/piekarnia-special-order.html) (A2) - Ordering for tomorrow, special requests
+- [Special Order at Piekarnia]({{ '/scenarios/A2/specialty-shops/piekarnia-special-order.html' | relative_url }}) (A2) - Ordering for tomorrow, special requests

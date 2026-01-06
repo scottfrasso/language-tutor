@@ -167,5 +167,5 @@ Morning after a gathering. You see your neighbor in the hallway and want to apol
 
 ## Next Steps
 
-- [Elevator Greeting](/scenarios/A1/social/elevator-greeting.html) (A1) - Normal neighbor interactions after this
-- [Package Delivery](/scenarios/A2/social/neighbor-package-delivery.html) - Other neighbor situations
+- [Elevator Greeting]({{ '/scenarios/A1/social/elevator-greeting.html' | relative_url }}) (A1) - Normal neighbor interactions after this
+- [Package Delivery]({{ '/scenarios/A2/social/neighbor-package-delivery.html' | relative_url }}) - Other neighbor situations

@@ -162,5 +162,5 @@ You're at a local cukiernia. There's a glass display case with various cakes and
 ## Next Steps
 
 **Similar Scenarios:**
-- [Buying Bread at Piekarnia](/scenarios/A1/specialty-shops/piekarnia-buying-bread.html) - Similar shop interaction
-- [Custom Cake at Cukiernia](/scenarios/A2/specialty-shops/cukiernia-custom-cake.html) (A2) - Ordering special cake
+- [Buying Bread at Piekarnia]({{ '/scenarios/A1/specialty-shops/piekarnia-buying-bread.html' | relative_url }}) - Similar shop interaction
+- [Custom Cake at Cukiernia]({{ '/scenarios/A2/specialty-shops/cukiernia-custom-cake.html' | relative_url }}) (A2) - Ordering special cake

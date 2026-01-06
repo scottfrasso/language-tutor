@@ -62,4 +62,4 @@ Essential greetings and simple conversations with neighbors.
 
 ## Ready for more?
 
-Once you're comfortable with A1 scenarios, move to [A2 Level](/scenarios/A2/index.html) for more complex conversations!
+Once you're comfortable with A1 scenarios, move to [A2 Level]({{ '/scenarios/A2/index.html' | relative_url }}) for more complex conversations!

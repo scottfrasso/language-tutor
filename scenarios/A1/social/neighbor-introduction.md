@@ -180,8 +180,8 @@ You meet a neighbor in the hallway for the first time. They seem friendly and yo
 ## Next Steps
 
 **Similar Scenarios:**
-- [Elevator Greeting](/scenarios/A1/social/elevator-greeting.html) - After you've met, this is your standard greeting
-- [Accepting Package](/scenarios/A1/social/neighbor-accepting-package.html) - Neighbor interaction with purpose
+- [Elevator Greeting]({{ '/scenarios/A1/social/elevator-greeting.html' | relative_url }}) - After you've met, this is your standard greeting
+- [Accepting Package]({{ '/scenarios/A1/social/neighbor-accepting-package.html' | relative_url }}) - Neighbor interaction with purpose
 
 **Progression:**
-- [Asking About the Area](/scenarios/A2/social/neighbor-asking-about-area.html) (A2) - Asking for recommendations
+- [Asking About the Area]({{ '/scenarios/A2/social/neighbor-asking-about-area.html' | relative_url }}) (A2) - Asking for recommendations

@@ -195,5 +195,5 @@ You're at a local farmers market (targ). There are stalls with fruits and vegeta
 ## Next Steps
 
 **Similar Scenarios:**
-- [Shopping at Kaufland](/scenarios/A1/grocery-basics/kaufland-shopping-list.html) - Different setting, similar vocabulary
-- [Negotiating at Farmers Market](/scenarios/A2/grocery-intermediate/farmers-market-negotiating.html) (A2) - More complex interactions
+- [Shopping at Kaufland]({{ '/scenarios/A1/grocery-basics/kaufland-shopping-list.html' | relative_url }}) - Different setting, similar vocabulary
+- [Negotiating at Farmers Market]({{ '/scenarios/A2/grocery-intermediate/farmers-market-negotiating.html' | relative_url }}) (A2) - More complex interactions

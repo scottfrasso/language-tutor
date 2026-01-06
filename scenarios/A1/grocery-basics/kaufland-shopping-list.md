@@ -159,8 +159,8 @@ You're at Kaufland supermarket with your three items. You've gathered everything
 ## Next Steps
 
 **Similar Scenarios:**
-- [Finding Items at Kaufland](/scenarios/A1/grocery-basics/kaufland-finding-items.html) - Asking where things are
-- [Buying Bread at Auchan](/scenarios/A1/grocery-basics/auchan-buying-bread.html) - Similar checkout process
+- [Finding Items at Kaufland]({{ '/scenarios/A1/grocery-basics/kaufland-finding-items.html' | relative_url }}) - Asking where things are
+- [Buying Bread at Auchan]({{ '/scenarios/A1/grocery-basics/auchan-buying-bread.html' | relative_url }}) - Similar checkout process
 
 **Progression:**
-- [Dietary Needs at Kaufland](/scenarios/A2/grocery-intermediate/kaufland-dietary-needs.html) (A2) - Asking about ingredients, allergens
+- [Dietary Needs at Kaufland]({{ '/scenarios/A2/grocery-intermediate/kaufland-dietary-needs.html' | relative_url }}) (A2) - Asking about ingredients, allergens

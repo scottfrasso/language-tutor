@@ -165,8 +165,8 @@ You're in the dairy section at Auchan. You're holding a package of cheese (ser) 
 ## Next Steps
 
 **Similar Scenarios:**
-- [Buying Bread at Auchan](/scenarios/A1/grocery-basics/auchan-buying-bread.html) - Basic checkout conversation
-- [Finding Items at Kaufland](/scenarios/A1/grocery-basics/kaufland-finding-items.html) - Asking "Where is...?"
+- [Buying Bread at Auchan]({{ '/scenarios/A1/grocery-basics/auchan-buying-bread.html' | relative_url }}) - Basic checkout conversation
+- [Finding Items at Kaufland]({{ '/scenarios/A1/grocery-basics/kaufland-finding-items.html' | relative_url }}) - Asking "Where is...?"
 
 **Progression:**
-- [Comparing Products at Auchan](/scenarios/A2/grocery-intermediate/auchan-recommendations.html) (A2) - Asking which is better
+- [Comparing Products at Auchan]({{ '/scenarios/A2/grocery-intermediate/auchan-recommendations.html' | relative_url }}) (A2) - Asking which is better

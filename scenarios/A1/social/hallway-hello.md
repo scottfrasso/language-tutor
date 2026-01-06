@@ -171,8 +171,8 @@ You're in the hallway of your apartment building. You're heading out and meet a 
 ## Next Steps
 
 **Similar Scenarios:**
-- [Elevator Greeting](/scenarios/A1/social/elevator-greeting.html) - Similar brief greeting
-- [Meeting New Neighbor](/scenarios/A1/social/neighbor-introduction.html) - Slightly longer interaction
+- [Elevator Greeting]({{ '/scenarios/A1/social/elevator-greeting.html' | relative_url }}) - Similar brief greeting
+- [Meeting New Neighbor]({{ '/scenarios/A1/social/neighbor-introduction.html' | relative_url }}) - Slightly longer interaction
 
 **Progression:**
-- [Small Talk in Elevator](/scenarios/A2/social/elevator-small-talk.html) (A2) - Extended conversations
+- [Small Talk in Elevator]({{ '/scenarios/A2/social/elevator-small-talk.html' | relative_url }}) (A2) - Extended conversations

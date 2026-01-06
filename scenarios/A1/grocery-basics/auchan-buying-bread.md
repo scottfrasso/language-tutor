@@ -184,12 +184,12 @@ You don't need to say anything else for a successful transaction!
 ## Next Steps
 
 **Similar Scenarios:**
-- [Asking Prices at Auchan](/scenarios/A1/grocery-basics/auchan-asking-prices.html) - Practice asking "Ile kosztuje?"
-- [Shopping List at Kaufland](/scenarios/A1/grocery-basics/kaufland-shopping-list.html) - Buying multiple items
+- [Asking Prices at Auchan]({{ '/scenarios/A1/grocery-basics/auchan-asking-prices.html' | relative_url }}) - Practice asking "Ile kosztuje?"
+- [Shopping List at Kaufland]({{ '/scenarios/A1/grocery-basics/kaufland-shopping-list.html' | relative_url }}) - Buying multiple items
 
 **Progression:**
-- [Handling Upsells at Auchan](/scenarios/A2/grocery-intermediate/auchan-handling-upsell.html) (A2) - Responding to loyalty card offers
-- [Dietary Needs at Kaufland](/scenarios/A2/grocery-intermediate/kaufland-dietary-needs.html) (A2) - Asking about ingredients
+- [Handling Upsells at Auchan]({{ '/scenarios/A2/grocery-intermediate/auchan-handling-upsell.html' | relative_url }}) (A2) - Responding to loyalty card offers
+- [Dietary Needs at Kaufland]({{ '/scenarios/A2/grocery-intermediate/kaufland-dietary-needs.html' | relative_url }}) (A2) - Asking about ingredients
 
 **Different Setting:**
-- [Buying Bread at Piekarnia](/scenarios/A1/specialty-shops/piekarnia-buying-bread.html) - More interaction, smaller shop
+- [Buying Bread at Piekarnia]({{ '/scenarios/A1/specialty-shops/piekarnia-buying-bread.html' | relative_url }}) - More interaction, smaller shop

@@ -228,7 +228,7 @@ A: Only if you already have basic Polish. A2 assumes you know A1 vocabulary and 
 ## Next Steps
 
 Ready to start? Go to:
-- [A1 Scenarios](/scenarios/A1/index.html) - If you're a beginner
-- [A2 Scenarios](/scenarios/A2/index.html) - If you have basic Polish
+- [A1 Scenarios]({{ '/scenarios/A1/index.html' | relative_url }}) - If you're a beginner
+- [A2 Scenarios]({{ '/scenarios/A2/index.html' | relative_url }}) - If you have basic Polish
 
 Good luck! Powodzenia! 🇵🇱

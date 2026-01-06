@@ -178,5 +178,5 @@ You're at the apteka (pharmacy). You don't feel well and need help finding the r
 
 ## Next Steps
 
-- [Buying Basic Medicine](/scenarios/A1/specialty-shops/apteka-basic-medicine.html) (A1) - When you know the medicine name
-- [Dietary Needs at Kaufland](/scenarios/A2/grocery-intermediate/kaufland-dietary-needs.html) - Describing needs/restrictions
+- [Buying Basic Medicine]({{ '/scenarios/A1/specialty-shops/apteka-basic-medicine.html' | relative_url }}) (A1) - When you know the medicine name
+- [Dietary Needs at Kaufland]({{ '/scenarios/A2/grocery-intermediate/kaufland-dietary-needs.html' | relative_url }}) - Describing needs/restrictions

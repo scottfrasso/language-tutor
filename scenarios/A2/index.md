@@ -72,4 +72,4 @@ Once you're comfortable with A2, you're ready for everyday life in Poland! Consi
 
 ## Need review?
 
-If A2 feels too difficult, go back to [A1 Level](/scenarios/A1/index.html) and build your foundation!
+If A2 feels too difficult, go back to [A1 Level]({{ '/scenarios/A1/index.html' | relative_url }}) and build your foundation!

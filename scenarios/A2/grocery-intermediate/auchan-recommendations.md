@@ -118,5 +118,5 @@ You're in the dairy section at Auchan, holding two different yogurt brands, look
 
 ## Next Steps
 
-- [Handling Upsell at Auchan](/scenarios/A2/grocery-intermediate/auchan-handling-upsell.html) - Dealing with loyalty cards
-- [Dietary Needs at Kaufland](/scenarios/A2/grocery-intermediate/kaufland-dietary-needs.html) - More specific requests
+- [Handling Upsell at Auchan]({{ '/scenarios/A2/grocery-intermediate/auchan-handling-upsell.html' | relative_url }}) - Dealing with loyalty cards
+- [Dietary Needs at Kaufland]({{ '/scenarios/A2/grocery-intermediate/kaufland-dietary-needs.html' | relative_url }}) - More specific requests

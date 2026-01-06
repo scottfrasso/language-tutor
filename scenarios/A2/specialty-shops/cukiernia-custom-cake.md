@@ -158,5 +158,5 @@ You're at a cukiernia (pastry shop). You want to order a special cake for next w
 
 ## Next Steps
 
-- [Ordering Pastry at Cukiernia](/scenarios/A1/specialty-shops/cukiernia-ordering-pastry.html) (A1) - Simple purchase
-- [Special Bread Order](/scenarios/A2/specialty-shops/piekarnia-special-order.html) - Similar advance order process
+- [Ordering Pastry at Cukiernia]({{ '/scenarios/A1/specialty-shops/cukiernia-ordering-pastry.html' | relative_url }}) (A1) - Simple purchase
+- [Special Bread Order]({{ '/scenarios/A2/specialty-shops/piekarnia-special-order.html' | relative_url }}) - Similar advance order process

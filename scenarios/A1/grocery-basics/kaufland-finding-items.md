@@ -171,8 +171,8 @@ You're walking through Kaufland and can't find the coffee aisle. You see an empl
 ## Next Steps
 
 **Similar Scenarios:**
-- [Asking Prices at Auchan](/scenarios/A1/grocery-basics/auchan-asking-prices.html) - Asking "How much?"
-- [Shopping List at Kaufland](/scenarios/A1/grocery-basics/kaufland-shopping-list.html) - Checking out with items
+- [Asking Prices at Auchan]({{ '/scenarios/A1/grocery-basics/auchan-asking-prices.html' | relative_url }}) - Asking "How much?"
+- [Shopping List at Kaufland]({{ '/scenarios/A1/grocery-basics/kaufland-shopping-list.html' | relative_url }}) - Checking out with items
 
 **Progression:**
-- [Dietary Needs at Kaufland](/scenarios/A2/grocery-intermediate/kaufland-dietary-needs.html) (A2) - Asking about specific product features
+- [Dietary Needs at Kaufland]({{ '/scenarios/A2/grocery-intermediate/kaufland-dietary-needs.html' | relative_url }}) (A2) - Asking about specific product features

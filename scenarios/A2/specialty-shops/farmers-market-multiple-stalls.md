@@ -152,5 +152,5 @@ You're at the farmers market. You see multiple vendors selling similar products.
 
 ## Next Steps
 
-- [Buying Fruit at Market](/scenarios/A1/specialty-shops/farmers-market-buying-fruit.html) (A1) - Basic market purchase
-- [Negotiating at Market](/scenarios/A2/grocery-intermediate/farmers-market-negotiating.html) - Price negotiation
+- [Buying Fruit at Market]({{ '/scenarios/A1/specialty-shops/farmers-market-buying-fruit.html' | relative_url }}) (A1) - Basic market purchase
+- [Negotiating at Market]({{ '/scenarios/A2/grocery-intermediate/farmers-market-negotiating.html' | relative_url }}) - Price negotiation

@@ -168,5 +168,5 @@ You meet your neighbor in the hallway. You decide to ask for their advice about 
 
 ## Next Steps
 
-- [Elevator Small Talk](/scenarios/A2/social/elevator-small-talk.html) - Extended neighbor conversations
-- [Package Delivery](/scenarios/A2/social/neighbor-package-delivery.html) - Other neighbor interactions
+- [Elevator Small Talk]({{ '/scenarios/A2/social/elevator-small-talk.html' | relative_url }}) - Extended neighbor conversations
+- [Package Delivery]({{ '/scenarios/A2/social/neighbor-package-delivery.html' | relative_url }}) - Other neighbor interactions

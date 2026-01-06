@@ -145,5 +145,5 @@ You're at your local piekarnia (bakery). You want to place an advance order for 
 
 ## Next Steps
 
-- [Buying Bread at Piekarnia](/scenarios/A1/specialty-shops/piekarnia-buying-bread.html) (A1) - Basic purchase
-- [Custom Cake at Cukiernia](/scenarios/A2/specialty-shops/cukiernia-custom-cake.html) - Similar advance order
+- [Buying Bread at Piekarnia]({{ '/scenarios/A1/specialty-shops/piekarnia-buying-bread.html' | relative_url }}) (A1) - Basic purchase
+- [Custom Cake at Cukiernia]({{ '/scenarios/A2/specialty-shops/cukiernia-custom-cake.html' | relative_url }}) - Similar advance order

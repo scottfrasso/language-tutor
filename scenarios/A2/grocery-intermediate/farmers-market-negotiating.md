@@ -149,5 +149,5 @@ You're at the farmers market. A vendor has beautiful strawberries. You want to b
 
 ## Next Steps
 
-- [Buying Fruit at Market](/scenarios/A1/specialty-shops/farmers-market-buying-fruit.html) (A1) - Basic market interaction
-- [Multiple Stalls](/scenarios/A2/specialty-shops/farmers-market-multiple-stalls.html) - Comparing different vendors
+- [Buying Fruit at Market]({{ '/scenarios/A1/specialty-shops/farmers-market-buying-fruit.html' | relative_url }}) (A1) - Basic market interaction
+- [Multiple Stalls]({{ '/scenarios/A2/specialty-shops/farmers-market-multiple-stalls.html' | relative_url }}) - Comparing different vendors

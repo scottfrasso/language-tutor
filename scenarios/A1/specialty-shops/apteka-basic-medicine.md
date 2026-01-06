@@ -173,5 +173,5 @@ You're at a local apteka. There's a pharmacist behind the counter. In Poland, ev
 ## Next Steps
 
 **Similar Scenarios:**
-- [Buying at Cukiernia](/scenarios/A1/specialty-shops/cukiernia-ordering-pastry.html) - Similar asking and ordering
-- [Describing Symptoms at Apteka](/scenarios/A2/specialty-shops/apteka-describing-symptoms.html) (A2) - When you don't know the medicine name
+- [Buying at Cukiernia]({{ '/scenarios/A1/specialty-shops/cukiernia-ordering-pastry.html' | relative_url }}) - Similar asking and ordering
+- [Describing Symptoms at Apteka]({{ '/scenarios/A2/specialty-shops/apteka-describing-symptoms.html' | relative_url }}) (A2) - When you don't know the medicine name

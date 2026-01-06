@@ -144,5 +144,5 @@ You're at the Auchan checkout. The cashier is scanning your items and will ask a
 
 ## Next Steps
 
-- [Asking for Recommendations](/scenarios/A2/grocery-intermediate/auchan-recommendations.html) - More complex interactions
-- [Dietary Needs](/scenarios/A2/grocery-intermediate/kaufland-dietary-needs.html) - Specific product questions
+- [Asking for Recommendations]({{ '/scenarios/A2/grocery-intermediate/auchan-recommendations.html' | relative_url }}) - More complex interactions
+- [Dietary Needs]({{ '/scenarios/A2/grocery-intermediate/kaufland-dietary-needs.html' | relative_url }}) - Specific product questions

@@ -149,8 +149,8 @@ You're waiting for the elevator in your apartment building. An elderly neighbor 
 ## Next Steps
 
 **Similar Scenarios:**
-- [Greeting in Hallway](/scenarios/A1/social/hallway-hello.html) - Similar greeting, different setting
-- [Meeting New Neighbor](/scenarios/A1/social/neighbor-introduction.html) - More extended introduction
+- [Greeting in Hallway]({{ '/scenarios/A1/social/hallway-hello.html' | relative_url }}) - Similar greeting, different setting
+- [Meeting New Neighbor]({{ '/scenarios/A1/social/neighbor-introduction.html' | relative_url }}) - More extended introduction
 
 **Progression:**
-- [Small Talk in Elevator](/scenarios/A2/social/elevator-small-talk.html) (A2) - Extended conversation about weekend plans
+- [Small Talk in Elevator]({{ '/scenarios/A2/social/elevator-small-talk.html' | relative_url }}) (A2) - Extended conversation about weekend plans

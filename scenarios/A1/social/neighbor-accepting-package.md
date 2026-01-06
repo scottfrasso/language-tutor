@@ -173,8 +173,8 @@ Your neighbor knocks on your door or stops you in the hallway. They're holding a
 ## Next Steps
 
 **Similar Scenarios:**
-- [Elevator Greeting](/scenarios/A1/social/elevator-greeting.html) - After this, normal greetings resume
-- [Neighbor Introduction](/scenarios/A1/social/neighbor-introduction.html) - If you haven't met yet
+- [Elevator Greeting]({{ '/scenarios/A1/social/elevator-greeting.html' | relative_url }}) - After this, normal greetings resume
+- [Neighbor Introduction]({{ '/scenarios/A1/social/neighbor-introduction.html' | relative_url }}) - If you haven't met yet
 
 **Progression:**
-- [Package Not Yours](/scenarios/A2/social/neighbor-package-delivery.html) (A2) - What if the package isn't yours?
+- [Package Not Yours]({{ '/scenarios/A2/social/neighbor-package-delivery.html' | relative_url }}) (A2) - What if the package isn't yours?
