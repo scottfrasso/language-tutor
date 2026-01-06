@@ -1,0 +1,26 @@
+# Dependencies
+node_modules/
+vendor/
+
+# Jekyll
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+
+# Playwright
+.playwright-mcp/
+
+# Logs
+*.log
