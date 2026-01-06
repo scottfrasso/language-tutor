@@ -27,19 +27,22 @@ Navigate more complex shopping situations with questions and preferences.
 
 ---
 
-## Specialty Shops Intermediate (5 scenarios)
+## Specialty Shops Intermediate (8 scenarios)
 
 Order ahead, describe problems, and handle more complex transactions.
 
 - [Special Order at Piekarnia](specialty-shops/piekarnia-special-order.html) ⭐ - Ordering bread for party
 - [Custom Cake at Cukiernia](specialty-shops/cukiernia-custom-cake.html) - Describing what you want
 - [Describing Symptoms at Apteka](specialty-shops/apteka-describing-symptoms.html) - When you don't know medicine name
+- [Digestive Medicine at Apteka](specialty-shops/apteka-digestive-medicine.html) - Lactocontrol, simethicone, bloating
+- [Cold Medicine for Yourself](specialty-shops/apteka-cold-medicine-self.html) - Cough, stuffy nose, cold symptoms
+- [Medicine for Sick Daughter](specialty-shops/apteka-medicine-for-daughter.html) - Children's medicine and dosing
 - [Comparing Vendors at Farmers Market](specialty-shops/farmers-market-multiple-stalls.html) - Shopping at multiple stalls
 - [TEMPLATE-A2](specialty-shops/TEMPLATE-A2.html) - Create your own scenario
 
 ---
 
-## Social Intermediate (4 scenarios)
+## Social Intermediate (7 scenarios)
 
 Extended conversations, handling problems, and building relationships.
 
@@ -47,6 +50,9 @@ Extended conversations, handling problems, and building relationships.
 - [Package Delivery Mix-up](social/neighbor-package-delivery.html) - Returning misdelivered package
 - [Asking About Area](social/neighbor-asking-about-area.html) - Getting recommendations for services
 - [Noise Apology](social/neighbor-noise-apology.html) - Apologizing proactively
+- [Neighbor Asking About Daughter](social/neighbor-asking-about-daughter.html) - Questions about your child's age, preschool
+- [Daughter Home Sick](social/neighbor-daughter-home-sick.html) - Explaining why she's not at preschool
+- [Small Talk About Wife](social/neighbor-asking-about-wife.html) - Questions about your spouse
 
 ---
 
