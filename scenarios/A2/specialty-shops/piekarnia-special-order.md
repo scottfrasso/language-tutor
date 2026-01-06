@@ -1,76 +1,163 @@
 ---
 layout: scenario
-title: "Special Order at Piekarnia for Party"
+title: "Bakery Special Order - When It Goes Wrong"
 level: A2
 category: specialty-shops
 difficulty: 4
 vocabulary_count: 22
 ---
 
-## Scenario: Ordering Bread for Party Tomorrow
+## Scenario: Advance Bread Orders That Don't Go Smoothly
 
 ### Your Goal
-You're having a party tomorrow and need to order multiple loaves of bread. You want to ensure they'll be fresh and ready.
+You want to order bread in advance for a party. But complications arise: they can't do your timeline, there's a miscommunication about quantity, the order is wrong at pickup, or they forgot entirely.
 
 ### Setting
-You're at your local piekarnia (bakery). You want to place an advance order for tomorrow.
+You're at a piekarnia (bakery) trying to place a special order. Things might not go as planned.
 
 ---
 
-## Dialogue
+## Complication 1: They Can't Do Your Timeline
 
-### Opening
+**You need bread tomorrow, but they can't make that work.**
 
-**You:** Dzień dobry. `(jen DOB-rih)` - Good day.
+**You:** Chciałbym/Chciałabym zamówić pięć chlebów na jutro. `(HCHAW-bim/HCHAW-abim za-MOO-veech pyench HLE-boof na YOO-tro)` - I'd like to order five loaves for tomorrow.
 
-**Baker:** Dzień dobry! Słucham? `(jen DOB-rih! SWOO-ham)` - Good day! Yes?
+**Baker:** Na jutro? O której? `(na YOO-tro? o KTOO-rey)` - For tomorrow? At what time?
 
----
+**You:** Na dziewiątą rano. `(na jeh-VYON-tong RA-no)` - For nine in the morning.
 
-### Stating Your Need
+**Baker:** Na dziewiątą nie damy rady. Może na jedenastą? `(na jeh-VYON-tong nyeh DA-mih RA-dih. MO-zheh na ye-DE-nas-tong)` - We can't do nine. Maybe eleven?
 
-**You:** Chciałbym/Chciałabym zamówić chleb na jutro. `(HCHAW-bim/HCHAW-abim za-MOO-veech hleb na YOO-tro)` - I would like to order bread for tomorrow. *(bim for men, abim for women)*
+**Your options:**
 
-**Alternative:**
-- **You:** Czy mogę zamówić chleb na jutro? `(chih MO-geh za-MOO-veech hleb na YOO-tro)` - Can I order bread for tomorrow?
+**Option A - Adjust time:**
+- **You:** Dobrze, jedenasta będzie. `(DOB-zheh, ye-de-NAS-ta BEN-jeh)` - Okay, eleven works.
 
-**Baker:** Oczywiście! Ile i jaki? `(o-chih-VEESH-cheh! EE-leh ee YA-kee)` - Of course! How many and what kind?
+**Option B - Too late for you:**
+- **You:** To za późno. Muszę mieć wcześniej. `(to za POOZH-no. MOO-sheh myech VCHESH-nyey)` - That's too late. I need it earlier.
+- **Baker:** Przepraszam, piekarnia zaczyna o szóstej. `(psheh-PRA-sham, pyeh-KAR-nya za-CHI-na o SHOOS-tey)` - Sorry, the bakery starts at six.
 
----
-
-### Specifying Your Order
-
-**You:** Pięć chlebów pszennych i trzy razowe. `(pyench HLE-boof PSHEN-nih ee tshih ra-ZO-veh)` - Five wheat breads and three whole wheat.
-
-**Baker might ask:**
-- **Baker:** Na którą godzinę? `(na KTOO-rong go-JEE-neh)` - For what time?
-- **You:** Na dziesiątą rano. `(na jeh-SHON-tong RA-no)` - For ten in the morning.
-
-**OR:**
-- **Baker:** Kiedy pan/pani odbierze? `(KYEH-dih pan/PA-nee od-BYEH-zheh)` - When will you pick [them] up?
-- **You:** Jutro rano, około dziesiątej. `(YOO-tro RA-no, O-ko-wo jeh-SHON-tey)` - Tomorrow morning, around ten.
+**Option C - Ask about today:**
+- **You:** A co macie teraz? `(a tso MA-cheh TE-ras)` - What do you have now?
 
 ---
 
-### Confirming Details
+## Complication 2: Miscommunication About Quantity
 
-**Baker:** Dobrze. Pięć pszennych, trzy razowe. Na jutro, dziesiąta. `(DOB-zheh. pyench PSHEN-nih, tshih ra-ZO-veh. na YOO-tro, jeh-SHON-ta)` - Okay. Five wheat, three whole wheat. For tomorrow, ten o'clock.
+**You said five, they heard fifteen.**
 
-**You:** Tak, dokładnie. Ile będzie kosztować? `(tak, dok-WAD-nyeh. EE-leh BEN-jeh kosh-TO-vach)` - Yes, exactly. How much will it cost?
+**At ordering:**
+**You:** Pięć chlebów pszennych. `(pyench HLE-boof PSHEN-nih)` - Five wheat loaves.
 
-**Baker:** Czterdzieści złotych. `(chter-JESH-chee ZWO-tih)` - Forty złoty.
+**At pickup:**
+**Baker:** Proszę, piętnaście chlebów. `(PRO-sheh, pyet-NASH-cheh HLE-boof)` - Here, fifteen loaves.
 
-**Baker:** Proszę nazwisko. `(PRO-sheh naz-VEES-ko)` - [Your] name, please.
+**You:** Piętnaście?! Mówiłem pięć! `(pyet-NASH-cheh?! moo-VEE-wem pyench)` - Fifteen?! I said five!
 
-**You:** [Your surname]. `([surname])`
+**Baker:** A, słyszałam piętnaście. `(a, SWIH-sha-wam pyet-NASH-cheh)` - Oh, I heard fifteen.
+
+**Your options:**
+
+**Option A - Take only what you need:**
+- **You:** Wezmę tylko pięć. `(VEZ-meh TIL-ko pyench)` - I'll take only five.
+
+**Option B - Negotiate:**
+- **You:** To nie moja wina. Czy mogę wziąć pięć? `(to nyeh MO-ya VEE-na. chih MO-geh vzhonch pyench)` - It's not my fault. Can I take five?
+
+**Option C - Take them anyway (if useful):**
+- **You:** Ile kosztuje wszystko? Może wezmę więcej. `(EE-leh kosh-TOO-ye VSHIST-ko? MO-zheh VEZ-meh VYEN-tsey)` - How much for all? Maybe I'll take more.
 
 ---
 
-### Closing
+## Complication 3: Wrong Type of Bread
 
-**You:** Dziękuję bardzo. Do zobaczenia jutro. `(jen-KOO-yeh BAR-dzo. do zo-ba-CHE-nya YOO-tro)` - Thank you very much. See you tomorrow.
+**You ordered wheat, they made rye.**
 
-**Baker:** Do zobaczenia! `(do zo-ba-CHE-nya)` - See you!
+**You:** *Look in bag* To jest żytni! Zamawiałem pszenny! `(to yest ZHIT-nee! za-mav-YA-wem PSHEN-nih)` - This is rye! I ordered wheat!
+
+**Baker:** Naprawdę? Mam tu zapisane żytni. `(na-PRAV-deh? mam too za-PEE-sa-neh ZHIT-nee)` - Really? I have rye written down here.
+
+**Your options:**
+
+**Option A - Ask for correct bread:**
+- **You:** Czy macie pszenny? Potrzebuję pszenny. `(chih MA-cheh PSHEN-nih? po-TSHEH-boo-yeh PSHEN-nih)` - Do you have wheat? I need wheat.
+
+**Option B - Accept substitution:**
+- **You:** Dobrze, wezmę żytni. `(DOB-zheh, VEZ-meh ZHIT-nee)` - Okay, I'll take rye.
+- *If it doesn't matter*
+
+**Option C - Ask to wait:**
+- **You:** Kiedy będzie pszenny gotowy? `(KYEH-dih BEN-jeh PSHEN-nih go-TO-vih)` - When will wheat be ready?
+
+---
+
+## Complication 4: They Forgot Your Order Entirely
+
+**You arrive. No order exists.**
+
+**You:** Dzień dobry. Przyszedłem po zamówienie. Nazwisko [name]. `(jen DOB-rih. pshih-SHED-wem po za-MOO-vyeh-nyeh. naz-VEES-ko [name])` - Good day. I came for my order. Name [name].
+
+**Baker:** *Checks* Przepraszam, nie mamy takiego zamówienia. `(psheh-PRA-sham, nyeh MA-mih ta-KYEH-go za-MOO-vyeh-nya)` - Sorry, we don't have that order.
+
+**You:** Zamawiałem w środę! Pięć chlebów! `(za-mav-YA-wem v SHRO-deh! pyench HLE-boof)` - I ordered on Wednesday! Five loaves!
+
+**Your options:**
+
+**Option A - Show proof if you have it:**
+- **You:** Mam SMS z potwierdzeniem. `(mam es-em-es z po-tver-DZE-nyem)` - I have a confirmation SMS.
+
+**Option B - Ask what they can do now:**
+- **You:** Co można teraz zrobić? Potrzebuję chleb na dzisiaj. `(tso MOZH-na TE-ras ZRO-beech? po-TSHEH-boo-yeh hleb na JEE-shay)` - What can you do now? I need bread for today.
+
+**Option C - Take what's available:**
+- **You:** Co macie teraz? `(tso MA-cheh TE-ras)` - What do you have now?
+
+---
+
+## Complication 5: Bread Not Fresh / Stale
+
+**The bread doesn't seem fresh.**
+
+**You:** *Feel bread* To nie jest świeże. To jest twarde. `(to nyeh yest SHVYEH-zheh. to yest TFAR-deh)` - This isn't fresh. It's hard.
+
+**Baker:** To jest z dzisiaj rano. `(to yest z JEE-shay RA-no)` - It's from this morning.
+
+**Your options:**
+
+**Option A - Ask for fresher:**
+- **You:** Macie coś świeższego? `(MA-cheh tsosh shvyezh-SHE-go)` - Do you have something fresher?
+
+**Option B - Ask when next batch comes:**
+- **You:** Kiedy będzie następna partia? `(KYEH-dih BEN-jeh nas-TEMP-na PAR-tya)` - When's the next batch?
+
+**Option C - Decline:**
+- **You:** Przepraszam, to nie wystarczy. Wezmę gdzie indziej. `(psheh-PRA-sham, to nyeh vih-STAR-chih. VEZ-meh gjeh EEN-jey)` - Sorry, this won't do. I'll get it elsewhere.
+
+---
+
+## Complication 6: Price Different Than Expected
+
+**They're charging more than usual.**
+
+**You:** Ile? `(EE-leh)` - How much?
+
+**Baker:** Siedemdziesiąt złotych. `(sheh-dem-jeh-SHONT ZWO-tih)` - Seventy złoty.
+
+**You:** Ale normalnie jest czterdzieści! `(ALE nor-MAL-nyeh yest chter-JESH-chee)` - But normally it's forty!
+
+**Baker:** To specjalne zamówienie. Cena inna. `(to spe-TSYAL-neh za-MOO-vyeh-nyeh. TSE-na EEN-na)` - It's a special order. Different price.
+
+**Your options:**
+
+**Option A - Question it:**
+- **You:** Dlaczego? Nikt mi nie mówił. `(dla-CHE-go? neekt mee nyeh MOO-veew)` - Why? Nobody told me.
+
+**Option B - Negotiate:**
+- **You:** To za dużo. Może pięćdziesiąt? `(to za DOO-zho. MO-zheh pyen-jeh-SHONT)` - That's too much. Maybe fifty?
+
+**Option C - Accept reluctantly:**
+- **You:** Dobrze, ale następnym razem proszę powiedzieć wcześniej. `(DOB-zheh, ALE nas-TEMP-nim RA-zem PRO-sheh po-VYEH-jech VCHESH-nyey)` - Okay, but next time please tell me earlier.
 
 ---
 
@@ -78,72 +165,72 @@ You're at your local piekarnia (bakery). You want to place an advance order for 
 
 | Polish | Pronunciation | English |
 |--------|---------------|---------|
-| Chciałbym/abym | HCHAW-bim/abim | I would like (m/f) |
-| Zamówić | za-MOO-veech | To order |
-| Jutro | YOO-tro | Tomorrow |
-| Na którą godzinę | na KTOO-rong go-JEE-neh | For what time |
-| Odebrać | od-EB-rach | To pick up |
-| Około | O-ko-wo | Around / About |
-| Dokładnie | dok-WAD-nyeh | Exactly |
-| Kosztować | kosh-TO-vach | To cost |
-| Nazwisko | naz-VEES-ko | Surname / Last name |
-| Do zobaczenia | do zo-ba-CHE-nya | See you |
-| Dziesiąta | jeh-SHON-ta | Ten o'clock |
-| Rano | RA-no | Morning |
+| Zamówienie | za-MOO-vyeh-nyeh | Order |
+| Nie damy rady | nyeh DA-mih RA-dih | We can't do it |
+| Za późno | za POOZH-no | Too late |
+| Zapisane | za-PEE-sa-neh | Written down |
+| Świeży | SHVYEH-zhih | Fresh |
+| Twardy | TFAR-dih | Hard/Stale |
+| Następna partia | nas-TEMP-na PAR-tya | Next batch |
+| Potwierdzenie | po-tver-DZE-nyeh | Confirmation |
+| Specjalne zamówienie | spe-TSYAL-neh za-MOO-vyeh-nyeh | Special order |
+| Wcześniej | VCHESH-nyey | Earlier |
 
 ---
 
-## Time Expressions
+## Bread Types (For Clarification)
 
 | Polish | Pronunciation | English |
 |--------|---------------|---------|
-| Jutro | YOO-tro | Tomorrow |
-| Pojutrze | po-YOO-tsheh | Day after tomorrow |
-| Rano | RA-no | Morning |
-| Po południu | po po-WOOD-nyoo | Afternoon |
-| Wieczorem | vyeh-CHO-rem | In the evening |
-| O dziesiątej | o jeh-SHON-tey | At ten |
-| Około dziesiątej | O-ko-wo jeh-SHON-tey | Around ten |
+| Pszenny | PSHEN-nih | Wheat |
+| Żytni | ZHIT-nee | Rye |
+| Razowy | ra-ZO-vih | Whole wheat |
+| Mieszany | myeh-SHA-nih | Mixed |
+| Bułki | BOOW-kee | Rolls |
+| Bagietka | ba-GYET-ka | Baguette |
 
 ---
 
-## Useful Ordering Phrases
+## Problem-Solving Phrases
 
 | Polish | Pronunciation | English |
 |--------|---------------|---------|
-| Czy mogę zamówić...? | chih MO-geh za-MOO-veech | Can I order...? |
-| Ile będzie kosztować? | EE-leh BEN-jeh kosh-TO-vach | How much will it cost? |
-| Kiedy mogę odebrać? | KYEH-dih MO-geh od-EB-rach | When can I pick [it] up? |
-| Na kiedy? | na KYEH-dih | For when? |
-| Czy będzie gotowe? | chih BEN-jeh go-TO-veh | Will it be ready? |
+| To nie jest to, co zamówiłem | to nyeh yest to, tso za-MOO-vee-wem | This isn't what I ordered |
+| Nie mam takiego zamówienia | nyeh mam ta-KYEH-go za-MOO-vyeh-nya | I don't have that order |
+| Co można teraz zrobić? | tso MOZH-na TE-ras ZRO-beech | What can we do now? |
+| Potrzebuję to wcześniej | po-TSHEH-boo-yeh to VCHESH-nyey | I need it earlier |
+| Kiedy będzie gotowe? | KYEH-dih BEN-jeh go-TO-veh | When will it be ready? |
+| Nikt mi nie mówił | neekt mee nyeh MOO-veew | Nobody told me |
 
 ---
 
 ## Cultural Notes
 
-- **Advance orders are common**: Polish bakeries often take advance orders, especially for parties or weekends.
-- **Name for pickup**: They'll usually ask for your surname (nazwisko) to tag your order.
-- **Payment**: Some bakeries want payment when ordering, others when picking up. They'll tell you which.
-- **Fresh daily**: Polish bakeries make fresh bread daily, so advance orders ensure you get exactly what you want.
-- **Be specific**: Specify the type of bread clearly - pszenny (wheat), razowy (whole wheat), żytni (rye), etc.
+- **Bakeries start early**: Most Polish bakeries begin work around 5-6 AM. Early pickup times are often possible.
+- **Write it down**: For special orders, ask them to write down your order and give you a copy or confirmation.
+- **Bread is taken seriously**: Poles care about bread quality. Complaining about freshness is acceptable.
+- **Phone vs in-person**: Some bakeries take phone orders, others prefer in-person. Ask "Czy można zamówić telefonicznie?"
+- **Weekend orders**: Order Thursday for Saturday/Sunday - bakeries are busier on weekends.
 
 ---
 
 ## Practice Variations
 
 ### Intermediate Version
-- "Chciałbym zamówić chleb na jutro"
-- Specify: "Pięć chlebów"
-- "Dziękuję, do zobaczenia jutro"
+- Order: "Pięć chlebów na jutro"
+- If problem: "Przepraszam, to jest źle"
+- Accept alternative: "Dobrze, wezmę to"
 
 ### Advanced Version
-- Give full details: "Potrzebuję pięć chlebów pszennych na jutro na dziesiątą rano" (I need five wheat breads for tomorrow at ten AM)
-- Ask about availability: "Czy będzie świeży?" (Will it be fresh?)
-- Confirm: "Zapisał pan moje zamówienie?" (Did you write down my order?)
+- Detailed order: "Chciałbym zamówić pięć chlebów pszennych i trzy razowe na sobotę na dziesiątą"
+- Handle error: "To jest żytni, nie pszenny! Zamawiałem pszenny!"
+- Negotiate: "Nikt mi nie mówił o wyższej cenie. Dlaczego siedemdziesiąt?"
 
 ---
 
 ## Next Steps
 
+**Similar Scenarios:**
 - [Buying Bread at Piekarnia]({{ '/scenarios/A1/specialty-shops/piekarnia-buying-bread.html' | relative_url }}) (A1) - Basic purchase
-- [Custom Cake at Cukiernia]({{ '/scenarios/A2/specialty-shops/cukiernia-custom-cake.html' | relative_url }}) - Similar advance order
+- [Custom Cake at Cukiernia]({{ '/scenarios/A2/specialty-shops/cukiernia-custom-cake.html' | relative_url }}) - Similar advance order complications
+

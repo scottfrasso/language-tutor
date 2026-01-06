@@ -1,107 +1,172 @@
 ---
 layout: scenario
-title: "Explaining Why Daughter Is Home Sick"
+title: "Daughter Home Sick - When Neighbors Get Too Involved"
 level: A2
 category: social
 difficulty: 4
-vocabulary_count: 20
+vocabulary_count: 22
 ---
 
-## Scenario: Neighbor Asks Why Your Daughter Is Home
+## Scenario: Explaining Sick Daughter When Neighbors Overreact
 
 ### Your Goal
-Your daughter is sick and staying home from preschool. A neighbor notices and asks if everything is okay. You need to explain she's sick and handle their concerned questions.
+Your daughter is sick and home from preschool. A neighbor notices and asks. But complications arise: they give medical advice you don't want, they criticize something, they want too many details, or they suggest you're doing something wrong.
 
 ### Setting
-It's a weekday morning or afternoon. You're in the hallway, elevator, or near the mailboxes with your daughter. A neighbor who knows she usually goes to preschool notices she's home.
+It's a weekday. You're in the hallway with your sick daughter. A neighbor notices she's not at preschool.
 
 ---
 
-## Dialogue
+## Complication 1: Neighbor Gives Unwanted Medical Advice
 
-### Opening - Neighbor Notices
+**They have opinions about treatment.**
 
-**Variation A - Direct question:**
+**Neighbor:** Biedactwo! Co jej dajesz? `(byeh-DATS-tvo! tso yey DA-yesh)` - Poor thing! What are you giving her?
 
-**Neighbor:** Dzień dobry! Córeczka dziś w domu? `(jen DOB-rih! tsoo-RECH-ka jeesh v DO-moo)` - Good day! Little one at home today?
+**You:** Paracetamol i dużo wody.
 
-**You:** Tak, niestety jest chora. `(tak, nyes-TE-tih yest HO-ra)` - Yes, unfortunately she's sick.
+**Neighbor:** Paracetamol?! Ja bym dała antybiotyk! Musisz iść do lekarza! `(pa-ra-TSE-ta-mol?! ya bim DA-wa an-tih-BYO-tik! MOO-sheesh eeshch do le-KA-zha)` - Paracetamol?! I would give antibiotics! You must go to the doctor!
 
-**Variation B - More concerned:**
+**Your options:**
 
-**Neighbor:** O, widzę że malutka nie w przedszkolu. Wszystko w porządku? `(o, VEE-dzeh zheh ma-LOOT-ka nyeh v pshed-SHKO-loo. VSHIST-ko v po-ZHOND-koo)` - Oh, I see the little one isn't at preschool. Everything okay?
+**Option A - Polite disagreement:**
+- **You:** Dziękuję, ale na przeziębienie nie trzeba antybiotyku. `(jen-KOO-yeh, ALE na pshe-zhem-BYEH-nyeh nyeh TSHE-ba an-tih-byo-TIH-koo)` - Thanks, but for a cold you don't need antibiotics.
 
-**You:** Jest przeziębiona. Została w domu. `(yest pshe-zhem-BYO-na. zos-TA-wa v DO-moo)` - She has a cold. She stayed home.
+**Option B - End discussion:**
+- **You:** Dziękuję za troskę. Radzimy sobie. `(jen-KOO-yeh za TROS-keh. RA-jee-mih SO-byeh)` - Thanks for the concern. We're managing.
 
----
-
-### Describing the Illness
-
-**Neighbor:** Biedactwo! Co jej jest? `(byeh-DATS-tvo! tso yey yest)` - Poor thing! What's wrong with her?
-
-**Your responses:**
-
-**Option A - Cold symptoms:**
-- **You:** Ma katar i trochę kaszlu. `(ma KA-tar ee TRO-heh KASH-loo)` - She has a runny nose and a bit of a cough.
-
-**Option B - Fever:**
-- **You:** Ma gorączkę. Wczoraj miała trzydzieści osiem stopni. `(ma go-RONCH-keh. FCHO-ray MYA-wa tshih-JESH-chee O-shem STOP-nee)` - She has a fever. Yesterday she had 38 degrees.
-
-**Option C - General:**
-- **You:** Jest przeziębiona. Nic poważnego, ale zostaje w domu. `(yest pshe-zhem-BYO-na. neets po-VAZH-ne-go, ALE zos-TA-ye v DO-moo)` - She has a cold. Nothing serious, but she's staying home.
+**Option C - Agree to end it:**
+- **You:** Może ma pani rację. Zobaczymy. `(MO-zheh ma PA-nee RATS-yeh. zo-BA-chih-mih)` - Maybe you're right. We'll see.
 
 ---
 
-### Neighbor's Sympathetic Response
+## Complication 2: They Criticize Your Decision to Keep Her Home
 
-**Neighbor:** Och, biedactwo. Dużo pije? `(okh, byeh-DATS-tvo. DOO-zho PEE-ye)` - Oh, poor thing. Is she drinking a lot?
+**They think she should be at preschool.**
 
-**You:** Tak, herbatę z miodem i dużo wody. `(tak, her-BA-teh z MYO-dem ee DOO-zho VO-dih)` - Yes, tea with honey and lots of water.
+**Neighbor:** Tylko katar i w domu? Moje dzieci chodziły z katarem! `(TIL-ko KA-tar ee v DO-moo? MO-yeh JEH-chee ho-JEE-wih z ka-TA-rem)` - Just a runny nose and she's home? My kids went with runny noses!
 
-**Neighbor:** To dobrze. Odpoczynek jest najważniejszy. `(to DOB-zheh. ot-po-CHI-nek yest nay-vazh-NYEY-shih)` - That's good. Rest is most important.
+**You:** *Feel judged*
 
----
+**Your options:**
 
-### Duration / Getting Better
+**Option A - Brief explanation:**
+- **You:** Przedszkole wymaga żeby zostać w domu. `(pshed-SHKO-le vih-MA-ga ZHEH-bih zos-TACH v DO-moo)` - Preschool requires staying home.
 
-**Neighbor:** Od kiedy choruje? `(ot KYEH-dih ho-ROO-ye)` - Since when has she been sick?
+**Option B - Don't justify:**
+- **You:** Wolę żeby odpoczęła. `(VO-leh ZHEH-bih ot-po-CHEN-wa)` - I prefer she rests.
 
-**Your responses:**
-
-**Option A - Recent:**
-- **You:** Od wczoraj. `(ot FCHO-ray)` - Since yesterday.
-
-**Option B - Few days:**
-- **You:** Od poniedziałku. Ale już jest lepiej. `(ot po-nyeh-JAW-koo. ALE yoosh yest LE-pyey)` - Since Monday. But she's already better.
-
-**Option C - Getting better:**
-- **You:** Trzeci dzień, ale gorączka spadła. `(TSHE-chee jen, ALE go-RONCH-ka SPAD-wa)` - Third day, but the fever went down.
+**Option C - Deflect:**
+- **You:** Może ma pani rację. `(MO-zheh ma PA-nee RATS-yeh)` - Maybe you're right.
+- *Don't argue - just end it*
 
 ---
 
-### Neighbor's Advice (Common!)
+## Complication 3: They Want Too Many Medical Details
 
-**Neighbor:** Moja wnuczka też ostatnio chorowała. Teraz dużo chorób chodzi. `(MO-ya VNOO-chka tesh os-TAT-nyo ho-ro-VA-wa. TE-raz DOO-zho ho-ROOP HO-jee)` - My granddaughter was also sick recently. There are a lot of illnesses going around now.
+**Questions get too specific.**
 
-**You:** Tak, w przedszkolu połowa dzieci choruje. `(tak, v pshed-SHKO-loo po-WO-va JEH-chee ho-ROO-ye)` - Yes, at preschool half the kids are sick.
+**Neighbor:** Co jej jest dokładnie? Jaka temperatura? Kaszle? Jakie leki? Była u lekarza? Co powiedział? `(tso yey yest dok-WAD-nyeh? YA-ka tem-pe-ra-TOO-ra? KASH-le? YA-kyeh LE-kee? BIH-wa oo le-KA-zha? tso po-VYEH-jaw)` - What exactly is wrong? What temperature? Coughing? What medicine? Was she at the doctor? What did he say?
 
-**Neighbor:** Zima... Proszę jej podać witaminę C! `(ZEE-ma... PRO-sheh yey PO-dach vee-ta-MEE-neh tse)` - Winter... Give her vitamin C!
+**You:** *Overwhelmed by questions*
 
-**You:** Dziękuję za radę! `(jen-KOO-yeh za RA-deh)` - Thanks for the advice!
+**Your options:**
+
+**Option A - Brief answer:**
+- **You:** Przeziębienie. Nic poważnego. `(pshe-zhem-BYEH-nyeh. neets po-VAZH-ne-go)` - A cold. Nothing serious.
+
+**Option B - Set boundary:**
+- **You:** Przepraszam, za dużo pytań. Jest chora, ale będzie dobrze. `(psheh-PRA-sham, za DOO-zho pih-TAN. yest HO-ra, ALE BEN-jeh DOB-zheh)` - Sorry, too many questions. She's sick, but she'll be fine.
+
+**Option C - Exit:**
+- **You:** Przepraszam, muszę iść. Potrzebuje odpoczynku. `(psheh-PRA-sham, MOO-sheh eeshch. po-tshe-BOO-ye ot-po-CHIN-koo)` - Sorry, I have to go. She needs rest.
 
 ---
 
-### Closing
+## Complication 4: They Suggest It's Your Fault
 
-**Neighbor:** No, szybkiego powrotu do zdrowia! `(no, shihp-KYEH-go pov-RO-too do ZDRO-vya)` - Well, speedy recovery!
+**Implying you caused the illness.**
 
-**You:** Dziękuję bardzo! `(jen-KOO-yeh BAR-dzo)` - Thank you very much!
+**Neighbor:** Widziałam ją wczoraj bez kurtki! Dlatego jest chora! `(vee-JA-wam yoh FCHO-ray bez KOORT-kee! dla-TE-go yest HO-ra)` - I saw her yesterday without a jacket! That's why she's sick!
 
-**Alternative closings:**
+**You:** *Feeling blamed*
 
-**Neighbor:** Trzymajcie się! `(tshih-MAY-cheh sheh)` - Take care! (plural)
+**Your options:**
 
-**You:** Dzięki! Do widzenia! `(JEN-kee! do vee-JEN-ya)` - Thanks! Goodbye!
+**Option A - Don't argue:**
+- **You:** Możliwe. `(mozh-LEE-veh)` - Possible.
+- *Easiest exit*
+
+**Option B - Gentle correction:**
+- **You:** Przeziębienia to wirusy, nie zimno. Ale dziękuję za troskę. `(pshe-zhem-BYEH-nya to VEE-roo-sih, nyeh ZHEEM-no. ALE jen-KOO-yeh za TROS-keh)` - Colds are viruses, not cold weather. But thanks for the concern.
+
+**Option C - Deflect:**
+- **You:** Może. Teraz musi odpocząć. `(MO-zheh. TE-raz MOO-shee ot-po-CHONCH)` - Maybe. Now she needs to rest.
+
+---
+
+## Complication 5: They Share Horror Stories
+
+**They tell scary stories about illnesses.**
+
+**Neighbor:** Córka sąsiadki miała to samo i potem zapalenie płuc! Uważajcie! `(TSOOR-ka son-SHAD-kee MYA-wa to SA-mo ee PO-tem za-pa-LE-nyeh PWUTS! oo-VA-zhay-cheh)` - The neighbor's daughter had the same thing and then got pneumonia! Be careful!
+
+**You:** *Now worried*
+
+**Your options:**
+
+**Option A - Stay calm:**
+- **You:** Dziękuję. Pilnujemy. `(jen-KOO-yeh. peel-NOO-ye-mih)` - Thanks. We're watching.
+
+**Option B - Don't engage with fear:**
+- **You:** To pewnie było co innego. `(to PEV-nyeh BIH-wo tso EEN-ne-go)` - That was probably something else.
+
+**Option C - Change subject:**
+- **You:** Mam nadzieję że będzie dobrze. Muszę iść. `(mam na-JEH-yeh zheh BEN-jeh DOB-zheh. MOO-sheh eeshch)` - I hope she'll be fine. I have to go.
+
+---
+
+## Complication 6: They Offer to Help (Too Much)
+
+**They want to be involved.**
+
+**Neighbor:** Mogę coś przynieść? Zupę? Herbatę? Mogę z nią posiedzieć! `(MO-geh tsosh pshih-NYESHCH? ZOO-peh? her-BA-teh? MO-geh z nyoh po-sheh-JECH)` - Can I bring something? Soup? Tea? I can sit with her!
+
+**You:** *Don't want neighbor involvement*
+
+**Your options:**
+
+**Option A - Decline politely:**
+- **You:** Bardzo dziękuję, ale mamy wszystko. `(BAR-dzo jen-KOO-yeh, ALE MA-mih VSHIST-ko)` - Thank you very much, but we have everything.
+
+**Option B - Firm decline:**
+- **You:** Dziękuję, ale potrzebuje spokoju. `(jen-KOO-yeh, ALE po-tshe-BOO-ye spo-KO-yoo)` - Thanks, but she needs quiet.
+
+**Option C - Accept minimally:**
+- **You:** Dziękuję! Może jeśli pani coś potrzebuje z apteki... `(jen-KOO-yeh! MO-zheh YESH-lee PA-nee tsosh po-tshe-BOO-ye z ap-TEH-kee)` - Thanks! Maybe if you need something from the pharmacy...
+- *Redirect the helping instinct*
+
+---
+
+## Complication 7: They Judge You for Being Home From Work
+
+**They noticed you're home on a weekday.**
+
+**Neighbor:** A pan nie w pracy? `(a pan nyeh v PRA-tsih)` - And you're not at work?
+
+**You:** *Feeling judged for taking time off*
+
+**Your options:**
+
+**Option A - Brief explanation:**
+- **You:** Pracuję z domu dzisiaj. `(pra-TSOO-yeh z DO-moo jee-SHAY)` - Working from home today.
+
+**Option B - Don't explain:**
+- **You:** Córka jest chora. `(TSOOR-ka yest HO-ra)` - Daughter is sick.
+- *That's enough explanation*
+
+**Option C - Matter of fact:**
+- **You:** Wziąłem wolne. `(VZYON-wem VOL-neh)` - I took time off.
 
 ---
 
@@ -110,94 +175,68 @@ It's a weekday morning or afternoon. You're in the hallway, elevator, or near th
 | Polish | Pronunciation | English |
 |--------|---------------|---------|
 | Chora | HO-ra | Sick (f) |
-| Przeziębiona | pshe-zhem-BYO-na | Has a cold (f) |
+| Przeziębienie | pshe-zhem-BYEH-nyeh | Cold |
 | Gorączka | go-RONCH-ka | Fever |
 | Katar | KA-tar | Runny nose |
 | Kaszel | KA-shel | Cough |
 | Biedactwo | byeh-DATS-tvo | Poor thing |
-| Choruje | ho-ROO-ye | Is sick / Is ill |
-| Zdrowieje | zdro-VYEH-ye | Is getting better |
-
----
-
-## Key Vocabulary - Care & Recovery
-
-| Polish | Pronunciation | English |
-|--------|---------------|---------|
 | Odpoczynek | ot-po-CHI-nek | Rest |
-| Herbata z miodem | her-BA-ta z MYO-dem | Tea with honey |
-| Dużo pije | DOO-zho PEE-ye | Drinks a lot |
-| Gorączka spadła | go-RONCH-ka SPAD-wa | Fever went down |
-| Jest lepiej | yest LE-pyey | It's better |
-| Zostaje w domu | zos-TA-ye v DO-moo | Is staying home |
+| Antybiotyk | an-tih-BYO-tik | Antibiotic |
 
 ---
 
-## Time Expressions for Illness
+## Boundary Phrases
 
 | Polish | Pronunciation | English |
 |--------|---------------|---------|
-| Od wczoraj | ot FCHO-ray | Since yesterday |
-| Od poniedziałku | ot po-nyeh-JAW-koo | Since Monday |
-| Trzeci dzień | TSHE-chee jen | Third day |
-| Cały tydzień | TSA-wih TIH-jen | The whole week |
-| Już jest lepiej | yoosh yest LE-pyey | Already better |
+| Dziękuję za troskę | jen-KOO-yeh za TROS-keh | Thanks for the concern |
+| Radzimy sobie | RA-jee-mih SO-byeh | We're managing |
+| Za dużo pytań | za DOO-zho pih-TAN | Too many questions |
+| Potrzebuje spokoju | po-tshe-BOO-ye spo-KO-yoo | She needs quiet |
+| Mamy wszystko | MA-mih VSHIST-ko | We have everything |
+| Będzie dobrze | BEN-jeh DOB-zheh | She'll be fine |
 
 ---
 
-## Fever Temperature Phrases
+## Reassuring Closings
 
 | Polish | Pronunciation | English |
 |--------|---------------|---------|
-| Trzydzieści siedem | tshih-JESH-chee SHEH-dem | 37 (degrees) |
-| Trzydzieści osiem | tshih-JESH-chee O-shem | 38 (degrees) |
-| Trzydzieści dziewięć | tshih-JESH-chee JEH-vyench | 39 (degrees) |
-| Stopni | STOP-nee | Degrees |
-| Nie ma gorączki | nyeh ma go-RONCH-kee | No fever |
+| Nic poważnego | neets po-VAZH-ne-go | Nothing serious |
+| Już jest lepiej | yoosh yest LE-pyey | She's already better |
+| Pilnujemy | peel-NOO-ye-mih | We're watching |
+| Dziękuję za troskę | jen-KOO-yeh za TROS-keh | Thanks for the concern |
 
 ---
 
 ## Cultural Notes
 
-- **Poles are very sympathetic about sick children**: Expect genuine concern and lots of advice!
-- **"Biedactwo"**: Very common expression of sympathy, especially for children.
-- **Unsolicited advice is normal**: Neighbors often share home remedies and tips. Accept graciously!
-- **Vitamin C obsession**: Poles strongly believe in vitamin C for colds. You'll hear this advice a lot.
-- **"Choroba chodzi"**: Common phrase meaning "illness is going around." You'll hear it during cold season.
-- **Celsius temperatures**: Poland uses Celsius. 38°C (100.4°F) is considered a fever.
-
----
-
-## Common Symptoms to Describe
-
-| Polish | Pronunciation | English |
-|--------|---------------|---------|
-| Ma katar | ma KA-tar | Has runny nose |
-| Ma kaszel | ma KA-shel | Has a cough |
-| Ma gorączkę | ma go-RONCH-keh | Has a fever |
-| Boli ją gardło | BO-lee yoh GARD-wo | Her throat hurts |
-| Boli ją brzuszek | BO-lee yoh BZHOO-shek | Her tummy hurts |
-| Jest zmęczona | yest zmen-CHO-na | She's tired |
-| Nie chce jeść | nyeh htse yeshch | Doesn't want to eat |
+- **Poles are very concerned about sick children**: Expect lots of advice and opinions.
+- **Antibiotics culture**: Older Poles often believe antibiotics cure everything. Politely disagree if needed.
+- **Jacket obsession**: Many Poles believe cold weather causes illness. Don't argue - just nod.
+- **Horror stories are "helpful"**: Neighbors share scary stories to warn you, not scare you. Accept graciously.
+- **Offers to help**: Usually genuine. Decline politely but firmly if you don't want it.
 
 ---
 
 ## Practice Variations
 
 ### Intermediate Version
-- Explain simply: "Jest chora. Ma katar."
-- Respond to concern: "Dziękuję, już jest lepiej."
-- Close: "Do widzenia!"
+- Explain: "Jest chora. Przeziębienie."
+- Decline help: "Dziękuję, mamy wszystko."
+- Exit: "Muszę iść. Do widzenia!"
 
 ### Advanced Version
-- Give details: "Jest przeziębiona od poniedziałku. Miała gorączkę, ale już spadła. Teraz tylko katar i kaszel."
-- Respond to advice: "Tak, dajemy jej dużo herbaty z miodem i witaminę C."
-- Share context: "W przedszkolu teraz dużo dzieci choruje. To normalne zimą."
+- Handle advice: "Dziękuję za troskę, ale lekarz powiedział że antybiotyk nie jest potrzebny."
+- Set boundary: "Przepraszam, za dużo pytań. Po prostu przeziębienie, nic poważnego."
+- Decline firmly: "Dziękuję za ofertę, ale teraz potrzebuje spokoju i odpoczynku."
 
 ---
 
 ## Next Steps
 
-- [Buying Medicine for Daughter]({{ '/scenarios/A2/specialty-shops/apteka-medicine-for-daughter.html' | relative_url }}) - Getting children's medicine at pharmacy
-- [Describing Symptoms at Apteka]({{ '/scenarios/A2/specialty-shops/apteka-describing-symptoms.html' | relative_url }}) - When you need medicine yourself
+**Similar Scenarios:**
+- [Buying Medicine for Daughter]({{ '/scenarios/A2/specialty-shops/apteka-medicine-for-daughter.html' | relative_url }}) - Getting children's medicine
 - [Neighbor Asking About Daughter]({{ '/scenarios/A2/social/neighbor-asking-about-daughter.html' | relative_url }}) - General questions about your child
+- [Describing Symptoms at Apteka]({{ '/scenarios/A2/specialty-shops/apteka-describing-symptoms.html' | relative_url }}) - When you need medicine
+

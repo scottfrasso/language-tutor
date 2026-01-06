@@ -1,83 +1,170 @@
 ---
 layout: scenario
-title: "Apologizing for Noise to Neighbor"
+title: "Noise Apology - When They're Actually Angry"
 level: A2
 category: social
 difficulty: 4
-vocabulary_count: 20
+vocabulary_count: 22
 ---
 
-## Scenario: Apologizing for Last Night's Noise
+## Scenario: Apologizing for Noise When It Doesn't Go Well
 
 ### Your Goal
-You had guests last night and it was noisy. You want to apologize to your neighbor proactively.
+You need to apologize for noise, but things don't go smoothly. Maybe the neighbor is actually angry, they complain about something you didn't do, they threaten to call the building manager, or they won't accept your apology.
 
 ### Setting
-Morning after a gathering. You see your neighbor in the hallway and want to apologize before they complain.
+Morning after a gathering, or neighbor knocks on your door to complain. The conversation may be tense.
 
 ---
 
-## Dialogue
+## Complication 1: Neighbor Is Actually Angry
 
-### Opening and Apology
+**They're not politely accepting your apology.**
 
-**You:** Dzień dobry. Przepraszam za wczorajszy wieczór. `(jen DOB-rih. psheh-PRA-sham za fcho-RAY-shih VYE-choor)` - Good day. Sorry about last night.
+**You:** Przepraszam za wczorajszy hałas. `(psheh-PRA-sham za fcho-RAY-shih HA-was)` - Sorry about the noise yesterday.
 
-**Alternative:**
-- **You:** Dzień dobry. Chciałem/chciałam przeprosić za hałas wczoraj. `(jen DOB-rih. HCHA-wem/HCHA-wam psheh-PRO-sheech za HA-was FCHO-ray)` - Good day. I wanted to apologize for the noise yesterday. *(wem for men, wam for women)*
+**Neighbor (angry):** To było nie do zniesienia! Nie mogłem spać do trzeciej! `(to BIH-wo nyeh do znyeh-SHEH-nya! nyeh MOG-wem spach do TSHEH-chey)` - It was unbearable! I couldn't sleep until three!
 
----
+**Your options:**
 
-### Neighbor's Responses
+**Option A - Full apology:**
+- **You:** Bardzo, bardzo przepraszam. To się nie powtórzy. `(BAR-dzo BAR-dzo psheh-PRA-sham. to sheh nyeh pof-TOO-zhih)` - I'm very, very sorry. It won't happen again.
 
-**Response A - Understanding:**
-- **Neighbor:** Och, nic się nie stało! Trochę słyszałem/słyszałam, ale nie przeszkadzało. `(okh, neets sheh nyeh STA-wo! TRO-heh SWIH-sha-wem/wam, ALE nyeh pshe-shka-JA-wo)` - Oh, it's nothing! I heard a little, but it didn't bother me.
-- **You:** Naprawdę? Bardzo mi głupio. Miałem/miałam gości. `(na-PRAV-deh? BAR-dzo mee GWOOP-yo. MYA-wem/MYA-wam GOSH-chee)` - Really? I feel bad. I had guests.
+**Option B - Explain but apologize:**
+- **You:** Przepraszam. Mieliśmy gości, ale to nie wymówka. Przepraszam. `(psheh-PRA-sham. myeh-LEESH-mih GOSH-chee, ALE to nyeh vih-MOOV-ka. psheh-PRA-sham)` - I'm sorry. We had guests, but that's no excuse. I'm sorry.
 
-**Response B - Mildly annoyed but polite:**
-- **Neighbor:** No, było głośno. Trudno było zasnąć. `(no, BIH-wo GWOSH-no. TROOD-no BIH-wo ZAS-nonch)` - Well, it was loud. It was hard to fall asleep.
-- **You:** Bardzo przepraszam. To się więcej nie powtórzy. `(BAR-dzo psheh-PRA-sham. to sheh VYEN-tsey nyeh pof-TOO-zhih)` - I'm very sorry. It won't happen again.
-
-**Response C - Didn't hear anything:**
-- **Neighbor:** Naprawdę? Ja nic nie słyszałem/słyszałam. `(na-PRAV-deh? ya neets nyeh SWIH-sha-wem/wam)` - Really? I didn't hear anything.
-- **You:** To dobrze! Ale i tak przepraszam. `(to DOB-zheh! ALE ee tak psheh-PRA-sham)` - That's good! But I apologize anyway.
+**Option C - Take responsibility:**
+- **You:** Ma pan rację. To było za głośno. Przepraszam. `(ma pan RATS-yeh. to BIH-wo za GWOSH-no. psheh-PRA-sham)` - You're right. It was too loud. I'm sorry.
 
 ---
 
-### Explanation
+## Complication 2: They Complain About Something You Didn't Do
 
-**You:** Świętowaliśmy urodziny. Przepraszam, że było tak głośno. `(shvyen-to-VA-leesh-mih oo-ro-JEE-nih. psheh-PRA-sham, zheh BIH-wo tak GWOSH-no)` - We were celebrating a birthday. Sorry it was so loud.
+**They accuse you of noise that wasn't you.**
 
-**Alternative:**
-- **You:** Mieliśmy gości. Trochę się zagadaliśmy. `(myeh-LEESH-mih GOSH-chee. TRO-heh sheh za-ga-DA-leesh-mih)` - We had guests. We got a bit carried away talking.
+**Neighbor:** Pana muzyka do trzeciej w nocy! `(PA-na MOO-zih-ka do TSHEH-chey v NO-tsih)` - Your music until three in the morning!
 
----
+**You:** *But you were asleep by eleven*
 
-### Neighbor's Response
+**Your options:**
 
-**Neighbor:** Rozumiem. Następnym razem proszę trochę ciszej. `(ro-ZOO-myem. nas-TEMP-nim RA-zem PRO-sheh TRO-heh CHEE-shey)` - I understand. Next time please a bit quieter.
+**Option A - Politely correct:**
+- **You:** Przepraszam, ale to chyba nie my. Spaliśmy od jedenastej. `(psheh-PRA-sham, ALE to HIH-ba nyeh mih. SPA-leesh-mih ot ye-de-NAS-tey)` - Sorry, but that probably wasn't us. We were asleep from eleven.
 
-**You:** Oczywiście. Jeszcze raz przepraszam. `(o-chih-VEESH-cheh. YESH-cheh raz psheh-PRA-sham)` - Of course. Sorry again.
+**Option B - Suggest neighbor:**
+- **You:** Może sąsiad obok? Z góry? `(MO-zheh son-SHAD O-bok? z GOO-rih)` - Maybe the neighbor next door? From upstairs?
 
-**Neighbor:** W porządku. `(v po-ZHOND-koo)` - It's okay.
-
----
-
-### Offering to Make Amends
-
-**You:** Jeśli przeszkadzaliśmy, to naprawdę przepraszam. Może kawa w ramach przeprosin? `(YESH-lee pshe-shka-JA-leesh-mih, to na-PRAV-deh psheh-PRA-sham. MO-zheh KA-va v RA-makh pshe-PRO-sheen)` - If we bothered you, I'm truly sorry. Maybe coffee as an apology?
-
-**Neighbor:** Nie, nie trzeba! Ale dziękuję. To naprawdę nic takiego. `(nyeh, nyeh TSHE-ba! ALE jen-KOO-yeh. to na-PRAV-deh neets ta-KYEH-go)` - No, no need! But thank you. It's really nothing.
+**Option C - Don't argue:**
+- **You:** Naprawdę? Bardzo przepraszam. `(na-PRAV-deh? BAR-dzo psheh-PRA-sham)` - Really? I'm very sorry.
+- *Sometimes easier to apologize than argue*
 
 ---
 
-### Closing
+## Complication 3: They Threaten to Call Building Manager
 
-**You:** Dobrze. Ale gdyby coś, proszę powiedzieć. `(DOB-zheh. ALE GDI-bih tsosh, PRO-sheh po-vyeh-JECH)` - Okay. But if anything, please tell me.
+**Neighbor escalates the situation.**
 
-**Neighbor:** Jasne. Miłego dnia! `(YAS-neh. mee-WEH-go dnya)` - Sure. Have a nice day!
+**Neighbor:** Następnym razem zadzwonię do administracji! `(nas-TEMP-nim RA-zem za-DZVO-nyeh do ad-mee-nees-TRATS-yee)` - Next time I'll call the building management!
 
-**You:** Nawzajem! I jeszcze raz przepraszam! `(nav-ZA-yem! ee YESH-cheh raz psheh-PRA-sham)` - You too! And sorry again!
+**Your options:**
+
+**Option A - Promise improvement:**
+- **You:** Proszę nie dzwonić. To się nie powtórzy. Obiecuję. `(PRO-sheh nyeh DZVO-neech. to sheh nyeh pof-TOO-zhih. o-byeh-TSOO-yeh)` - Please don't call. It won't happen again. I promise.
+
+**Option B - Accept consequence:**
+- **You:** Rozumiem. Ma pan prawo. Przepraszam. `(ro-ZOO-myem. ma pan PRA-vo. psheh-PRA-sham)` - I understand. You have the right. I'm sorry.
+
+**Option C - De-escalate:**
+- **You:** Proszę, porozmawiajmy. Przepraszam bardzo. `(PRO-sheh, po-roz-ma-VYAY-mih. psheh-PRA-sham BAR-dzo)` - Please, let's talk. I'm very sorry.
+
+---
+
+## Complication 4: They Won't Accept Your Apology
+
+**You keep apologizing but they stay angry.**
+
+**You:** Naprawdę przepraszam. To się nie powtórzy.
+**Neighbor:** Mówił pan tak samo miesiąc temu! `(MOO-veew pan tak SA-mo MYEH-shonts TE-moo)` - You said the same thing a month ago!
+
+**You:** *Don't remember making noise a month ago*
+
+**Your options:**
+
+**Option A - Acknowledge their frustration:**
+- **You:** Rozumiem że pan jest zły. Przepraszam. `(ro-ZOO-myem zheh pan yest zwih. psheh-PRA-sham)` - I understand you're angry. I'm sorry.
+
+**Option B - Offer concrete solution:**
+- **You:** Proszę pukać do drzwi kiedy jest za głośno. Natychmiast uciszymy się. `(PRO-sheh POO-kach do dzhvee KYEH-dih yest za GWOSH-no. na-TIH-myast oo-CHEE-shih-mih sheh)` - Please knock on the door when it's too loud. We'll quiet down immediately.
+
+**Option C - Give space:**
+- **You:** Rozumiem. Jeszcze raz przepraszam. `(ro-ZOO-myem. YESH-cheh raz psheh-PRA-sham)` - I understand. Sorry again.
+- *Walk away, let them cool down*
+
+---
+
+## Complication 5: Neighbor Knocks During the Noise
+
+**They come to your door while the party is happening.**
+
+*Knock knock*
+
+**Neighbor (at door):** Przepraszam, ale jest bardzo głośno! `(psheh-PRA-sham, ALE yest BAR-dzo GWOSH-no)` - Excuse me, but it's very loud!
+
+**You:** *Embarrassed, guests inside*
+
+**Your options:**
+
+**Option A - Apologize immediately:**
+- **You:** Przepraszam! Już uciszymy się! `(psheh-PRA-sham! yoosh oo-CHEE-shih-mih sheh)` - Sorry! We'll quiet down right away!
+
+**Option B - Give timeline:**
+- **You:** Przepraszam. Kończymy o dziesiątej. `(psheh-PRA-sham. kon-CHIH-mih o jeh-SHON-tey)` - Sorry. We're finishing at ten.
+
+**Option C - Turn down music:**
+- **You:** Przepraszam! Ściszam muzykę teraz. `(psheh-PRA-sham! SHCHEE-sham moo-ZIH-keh TE-raz)` - Sorry! I'm turning down the music now.
+
+---
+
+## Complication 6: Language Barrier Makes It Worse
+
+**They're complaining but you don't understand all the details.**
+
+**Neighbor:** ...i zawsze w środku nocy, a ja rano muszę być w pracy o szóstej, i mam problemy ze zdrowiem, i lekarz mówi że muszę spać... `(...ee ZAV-she v SHROT-koo NO-tsih, a ya RA-no MOO-sheh bich v PRA-tsih o SHOOS-tey, ee mam prob-LEH-mih ze zdro-VYEM...)` - ...and always in the middle of the night, and I have to be at work at six in the morning, and I have health problems, and the doctor says I have to sleep...
+
+**You:** *Can't follow everything*
+
+**Your options:**
+
+**Option A - Show understanding anyway:**
+- **You:** Rozumiem. Bardzo mi przykro. Przepraszam. `(ro-ZOO-myem. BAR-dzo mee PSHIH-kro. psheh-PRA-sham)` - I understand. I'm very sorry. I apologize.
+
+**Option B - Focus on key message:**
+- **You:** Przepraszam za hałas. Będzie cicho. `(psheh-PRA-sham za HA-was. BEN-jeh CHEE-ho)` - Sorry for the noise. It will be quiet.
+
+**Option C - Acknowledge you're trying:**
+- **You:** Przepraszam, mój polski... ale rozumiem - za głośno. Przepraszam. `(psheh-PRA-sham, mooy POL-skee... ALE ro-ZOO-myem - za GWOSH-no. psheh-PRA-sham)` - Sorry, my Polish... but I understand - too loud. I'm sorry.
+
+---
+
+## Complication 7: They Want Something From You
+
+**They're hinting at compensation or extra consideration.**
+
+**Neighbor:** Pan wie, trzeba było wziąć tabletki na uspokojenie... `(pan vyeh, TSHE-ba BIH-wo vzyonch tab-LET-kee na oos-po-ko-YEH-nyeh...)` - You know, I had to take calming pills...
+
+**You:** *Not sure if they're just complaining or wanting something*
+
+**Your options:**
+
+**Option A - Offer apology gift:**
+- **You:** Może mogę jakoś to wynagrodzić? Kawa? Kwiaty? `(MO-zheh MO-geh YA-kosh to vih-na-GRO-jeech? KA-va? KVYA-tih)` - Maybe I can make it up somehow? Coffee? Flowers?
+
+**Option B - Just apologize:**
+- **You:** Bardzo mi przykro. Przepraszam serdecznie. `(BAR-dzo mee PSHIH-kro. psheh-PRA-sham ser-DECH-nyeh)` - I'm very sorry. I sincerely apologize.
+
+**Option C - Set boundary:**
+- **You:** Przepraszam za hałas. Będę uważać. `(psheh-PRA-sham za HA-was. BEN-deh oo-VA-zhach)` - I'm sorry for the noise. I'll be careful.
+- *Don't over-promise*
 
 ---
 
@@ -85,87 +172,70 @@ Morning after a gathering. You see your neighbor in the hallway and want to apol
 
 | Polish | Pronunciation | English |
 |--------|---------------|---------|
-| Przepraszam | psheh-PRA-sham | I'm sorry / Excuse me |
 | Hałas | HA-was | Noise |
-| Wczoraj | FCHO-ray | Yesterday |
-| Wieczór | VYE-choor | Evening |
-| Głośno | GWOSH-no | Loudly / Loud |
-| Przeszkadzać | pshe-shka-JACH | To bother / To disturb |
-| Goście | GOSH-chee | Guests |
-| Głupio mi | GWOOP-yo mee | I feel bad |
-| Zasnąć | ZAS-nonch | To fall asleep |
-| Powtórzyć się | pof-TOO-zhich sheh | To repeat / To happen again |
-| Świętować | shvyen-TO-vach | To celebrate |
-| Zagadać się | za-GA-dach sheh | To get carried away talking |
-| Ciszej | CHEE-shey | Quieter |
-| W ramach przeprosin | v RA-makh pshe-PRO-sheen | As an apology |
-| Nic takiego | neets ta-KYEH-go | Nothing (like that) |
-| Gdyby coś | GDI-bih tsosh | If anything |
-| Powiedzieć | po-vyeh-JECH | To tell / To say |
+| Głośno | GWOSH-no | Loud |
+| Przepraszam | psheh-PRA-sham | I'm sorry |
+| Powtórzyć się | pof-TOO-zhich sheh | To repeat/happen again |
+| Administracja | ad-mee-nees-TRATS-ya | Building management |
+| Uciszyć się | oo-CHEE-shich sheh | To quiet down |
+| Ściszyć | SHCHEE-shich | To turn down (volume) |
+| Zły | zwih | Angry |
+| Rację | RATS-yeh | Right (correctness) |
+| Obiecuję | o-byeh-TSOO-yeh | I promise |
 
 ---
 
-## Apology Phrases
+## Strong Apology Phrases
 
 | Polish | Pronunciation | English |
 |--------|---------------|---------|
 | Bardzo przepraszam | BAR-dzo psheh-PRA-sham | I'm very sorry |
-| Głupio mi | GWOOP-yo mee | I feel bad |
+| Bardzo mi przykro | BAR-dzo mee PSHIH-kro | I'm very sorry (emotionally) |
 | To się nie powtórzy | to sheh nyeh pof-TOO-zhih | It won't happen again |
-| Jeszcze raz przepraszam | YESH-cheh raz psheh-PRA-sham | Sorry again |
-| Chciałem przeprosić | HCHA-wem psheh-PRO-sheech | I wanted to apologize |
+| Ma pan/pani rację | ma pan/PA-nee RATS-yeh | You're right |
+| Przepraszam serdecznie | psheh-PRA-sham ser-DECH-nyeh | I sincerely apologize |
+| Obiecuję | o-byeh-TSOO-yeh | I promise |
 
 ---
 
-## Reasons for Noise
+## De-escalation Phrases
 
 | Polish | Pronunciation | English |
 |--------|---------------|---------|
-| Urodziny | oo-ro-JEE-nih | Birthday |
-| Imieniny | ee-myeh-NEE-nih | Name day |
-| Goście | GOSH-chee | Guests |
-| Impreza | eem-PREH-za | Party |
-| Remont | REH-mont | Renovation |
-| Przeprowadzka | pshe-pro-VADZH-ka | Moving |
+| Proszę, porozmawiajmy | PRO-sheh, po-roz-ma-VYAY-mih | Please, let's talk |
+| Rozumiem pana/panią | ro-ZOO-myem PA-na/PA-nyoh | I understand you |
+| Proszę się nie denerwować | PRO-sheh sheh nyeh de-ner-VO-vach | Please don't get upset |
+| Zaraz to naprawię | ZA-raz to na-PRA-vyeh | I'll fix this right away |
 
 ---
 
 ## Cultural Notes
 
-- **Proactive apology is appreciated**: Apologizing before being confronted shows respect and awareness.
-- **Neighbors remember**: Being considerate about noise helps maintain good neighbor relations.
-- **"Głupio mi"**: Common Polish phrase meaning "I feel bad" / "I'm embarrassed"
-- **Quiet hours**: In Poland, typically 22:00-6:00 on weekdays, and all day Sunday are quiet times in residential buildings.
-- **Offering coffee**: Offering to make amends (even if declined) shows genuine regret.
-- **Building rules**: Most apartment buildings have noise rules (regulamin) posted.
-
----
-
-## If Neighbor Complains First
-
-**Neighbor:** Przepraszam, ale wczoraj było bardzo głośno. `(psheh-PRA-sham, ALE FCHO-ray BIH-wo BAR-dzo GWOSH-no)` - Excuse me, but yesterday it was very loud.
-
-**You:** O nie! Bardzo przepraszam! Nie wiedziałem/wiedziałam że tak głośno. `(o nyeh! BAR-dzo psheh-PRA-sham! nyeh vyeh-JA-wem/wam zheh tak GWOSH-no)` - Oh no! I'm very sorry! I didn't know it was so loud.
-
-**You:** To się więcej nie zdarzy. Przepraszam. `(to sheh VYEN-tsey nyeh ZDA-zhih. psheh-PRA-sham)` - It won't happen again. Sorry.
+- **Noise rules are serious**: Most Polish buildings have "cisza nocna" (night quiet) from 22:00 to 6:00, and all day Sunday.
+- **Administracja complaints**: Building management complaints go on record. Multiple complaints can lead to warnings.
+- **Proactive apology helps**: Apologizing before they complain shows respect and often defuses tension.
+- **Accept blame gracefully**: Even if you don't think you were that loud, arguing rarely helps.
+- **Repeated offenses**: Poles remember. If you've been warned before, be extra apologetic.
 
 ---
 
 ## Practice Variations
 
 ### Intermediate Version
-- Apologize: "Przepraszam za hałas wczoraj"
-- Explain: "Mieliśmy gości"
+- Apologize simply: "Przepraszam za hałas wczoraj"
 - Promise: "To się nie powtórzy"
+- Accept criticism: "Ma pan rację"
 
 ### Advanced Version
-- Be specific: "Bardzo przepraszam za hałas wczoraj wieczorem około jedenastej" (Very sorry for the noise yesterday evening around eleven)
-- Offer solution: "Następnym razem zamkniemy okna" (Next time we'll close the windows)
-- Follow up: "Gdyby znowu było za głośno, proszę pukać do drzwi" (If it's too loud again, please knock on my door)
+- Handle accusation: "Przepraszam, ale w nocy nie było nas w domu. Może sąsiad z góry?"
+- De-escalate threat: "Proszę nie dzwonić do administracji. Obiecuję że będzie cicho."
+- Offer solution: "Następnym razem proszę pukać - natychmiast uciszymy się."
 
 ---
 
 ## Next Steps
 
-- [Elevator Greeting]({{ '/scenarios/A1/social/elevator-greeting.html' | relative_url }}) (A1) - Normal neighbor interactions after this
+**Similar Scenarios:**
+- [Elevator Greeting]({{ '/scenarios/A1/social/elevator-greeting.html' | relative_url }}) (A1) - Normal interactions after this
 - [Package Delivery]({{ '/scenarios/A2/social/neighbor-package-delivery.html' | relative_url }}) - Other neighbor situations
+

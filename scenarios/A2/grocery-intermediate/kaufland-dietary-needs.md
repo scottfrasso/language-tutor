@@ -1,69 +1,169 @@
 ---
 layout: scenario
-title: "Asking About Dietary Needs at Kaufland"
+title: "Dietary Needs - When They Don't Understand"
 level: A2
 category: grocery-intermediate
 difficulty: 4
-vocabulary_count: 20
+vocabulary_count: 22
 ---
 
-## Scenario: Asking About Dietary Needs at Kaufland
+## Scenario: Finding Special Diet Products When It Gets Complicated
 
 ### Your Goal
-You need to find products that meet your dietary requirements (gluten-free, lactose-free, vegan, etc.). You need to ask an employee for help.
+You need gluten-free, lactose-free, vegan, or allergy-safe products. But the employee might not understand what you need, might give wrong information, or the section might not exist. Learn to navigate these complications.
 
 ### Setting
-You're in the grocery section at Kaufland, looking for specific products that fit your dietary needs.
+You're in a Polish supermarket looking for products that meet your dietary requirements. You need to ask for help, but help isn't always helpful.
 
 ---
 
-## Dialogue
+## Complication 1: Employee Doesn't Know What "Gluten-Free" Means
 
-### Getting Attention
+**You ask for gluten-free products. They look confused.**
 
-**You:** Przepraszam. `(psheh-PRA-sham)` - Excuse me.
+**You:** Przepraszam, gdzie są produkty bezglutenowe? `(psheh-PRA-sham, gjeh song pro-DOOK-tih bez-gloo-te-NO-veh)` - Excuse me, where are gluten-free products?
 
-**Employee:** Tak? Słucham? `(tak? SWOO-ham)` - Yes?
+**Employee:** Bez... co? `(bez... tso)` - Without... what?
+**Employee:** Nie rozumiem. `(nyeh ro-ZOO-myem)` - I don't understand.
 
----
+**Your options:**
 
-### Explaining Your Needs
+**Option A - Explain differently:**
+- **You:** Bez glutenu. Bez mąki. `(bez GLOO-te-noo. bez MON-kee)` - Without gluten. Without flour.
+- **You:** Dla alergików. `(dla a-ler-GEE-koof)` - For people with allergies.
 
-**Option A - Gluten-free:**
-- **You:** Szukam produktów bezglutenowych. `(SHOO-kam pro-DOOK-toof bez-gloo-te-NO-vih)` - I'm looking for gluten-free products.
-- **Employee:** Mamy specjalną półkę. Tam. `(MA-mih spe-TSYAL-nong POOW-keh. tam)` - We have a special shelf. There.
+**Option B - Ask about health food section:**
+- **You:** Gdzie jest dział "zdrowa żywność"? `(gjeh yest jaw ZDRO-va ZHIV-noshch)` - Where is the "healthy food" section?
 
-**Option B - Lactose-free:**
-- **You:** Czy macie mleko bez laktozy? `(chih MA-cheh MLE-ko bez lak-TO-zih)` - Do you have lactose-free milk?
-- **Employee:** Tak, w dziale z mlekiem. Pokażę. `(tak, v JA-leh z MLE-kyem. po-KA-zheh)` - Yes, in the dairy section. I'll show [you].
-
-**Option C - Vegan:**
-- **You:** Czy to jest wegańskie? `(chih to yest ve-GAN-skyeh)` - Is this vegan?
-- **Employee:** Tak, tutaj jest oznaczenie. `(tak, TOO-tay yest oz-na-CHE-nyeh)` - Yes, here is the label.
-
-**Option D - Allergens:**
-- **You:** Czy to zawiera orzechy? `(chih to za-VYEH-ra o-ZHE-hih)` - Does this contain nuts?
-- **Employee:** Proszę sprawdzić skład na opakowaniu. `(PRO-sheh SPRAV-jeech skwat na o-pa-KO-va-nyoo)` - Please check the ingredients on the package.
+**Option C - Ask someone else:**
+- **You:** Dziękuję. Zapytam kogoś innego. `(jen-KOO-yeh. za-PIH-tam KO-gosh EEN-ne-go)` - Thank you. I'll ask someone else.
 
 ---
 
-### Follow-up Questions
+## Complication 2: Employee Gives Confidently Wrong Information
 
-**Asking about ingredients:**
-- **You:** Co jest w środku? `(tso yest v SHROD-koo)` - What's inside?
-- **Employee:** Proszę przeczytać etykietę. `(PRO-sheh pshe-CHIH-tach e-tih-KYEH-teh)` - Please read the label.
+**They point you somewhere, but it's wrong.**
 
-**Asking about availability:**
-- **You:** Czy macie więcej opcji? `(chih MA-cheh VYEN-tsey OP-tsyee)` - Do you have more options?
-- **Employee:** To wszystko co mamy. `(to VSHIST-ko tso MA-mih)` - That's all we have.
+**Employee:** Tam, przy mące. `(tam, pshih MON-tse)` - There, by the flour.
+*You go there. It's regular flour. Not gluten-free.*
+
+**What to do:**
+
+**Option A - Go back and clarify:**
+- **You:** Przepraszam, to jest normalna mąka. `(psheh-PRA-sham, to yest nor-MAL-na MON-ka)` - Sorry, this is normal flour.
+
+**Option B - Find it yourself:**
+- Look for labels: "BIO", "Zdrowa żywność", "Bez glutenu"
+- Ask at customer service desk
+
+**Option C - Accept and search:**
+- Wander until you find it
+- Look for international brands you recognize
 
 ---
 
-### Closing
+## Complication 3: Special Section Doesn't Exist
 
-**You:** Dziękuję za pomoc. `(jen-KOO-yeh za PO-mots)` - Thank you for the help.
+**This store doesn't have a dedicated dietary section.**
 
-**Employee:** Proszę bardzo! `(PRO-sheh BAR-dzo)` - You're very welcome!
+**Employee:** Nie mamy takiego działu. `(nyeh MA-mih ta-KYEH-go JA-woo)` - We don't have that section.
+**Employee:** Może w Lidlu? `(MO-zheh v LEED-loo)` - Maybe at Lidl?
+
+**Your options:**
+
+**Option A - Ask about specific products:**
+- **You:** Ale macie mleko bez laktozy? `(ALE MA-cheh MLE-ko bez lak-TO-zih)` - But do you have lactose-free milk?
+- **Employee:** Tak, przy mleku normalnym. `(tak, pshih MLE-koo nor-MAL-nim)` - Yes, with regular milk.
+
+**Option B - Ask about another store:**
+- **You:** Który sklep ma? `(KTOO-rih sklep ma)` - Which store has [it]?
+
+**Option C - Thank and leave:**
+- **You:** Dobrze, dziękuję. `(DOB-zheh, jen-KOO-yeh)` - Okay, thank you.
+
+---
+
+## Complication 4: Product Label Is Confusing
+
+**You found something that might be okay, but the label is confusing.**
+
+**Label says:** "Może zawierać śladowe ilości glutenu" `(MO-zheh za-VYEH-rach shla-DO-veh ee-LOSH-chee GLOO-te-noo)` - May contain traces of gluten.
+
+**You're not sure if it's safe:**
+
+**Option A - Ask employee:**
+- **You:** Przepraszam, czy to jest bezpieczne dla alergika? `(psheh-PRA-sham, chih to yest bez-PYECH-neh dla a-ler-GEE-ka)` - Sorry, is this safe for someone with allergies?
+
+**Option B - Look for certified symbols:**
+- Look for crossed grain symbol (gluten-free certified)
+- "Bezglutenowe" clearly marked
+
+**Option C - Don't risk it:**
+- **You:** *Put it back*
+- Find something with clearer labeling
+
+---
+
+## Complication 5: They Don't Understand Your Pronunciation
+
+**You're saying "bezglutenowy" but they don't understand.**
+
+**You:** Bezglutenowy. `(bez-gloo-te-NO-vih)`
+**Employee:** Słucham? `(SWOO-ham)` - What?
+**You:** Bez... glutenu? `(bez... GLOO-te-noo)`
+**Employee:** *Confused look*
+
+**Your options:**
+
+**Option A - Write it down:**
+- **You:** *Show phone with "bezglutenowy" typed*
+
+**Option B - Say "English" term:**
+- **You:** Gluten-free? No gluten?
+- *Sometimes the English is recognized*
+
+**Option C - Point at packaging:**
+- **You:** *Show a product you know is GF* Coś takiego. `(tsosh ta-KYEH-go)` - Something like this.
+
+---
+
+## Complication 6: Allergy Questions You Don't Understand
+
+**You're asking about allergens and they respond with questions.**
+
+**You:** Czy to zawiera orzechy? `(chih to za-VYEH-ra o-ZHE-hih)` - Does this contain nuts?
+
+**Employee:** Jakie orzechy? Ziemne? Laskowe? `(YA-kyeh o-ZHE-hih? JYEM-neh? las-KO-veh)` - What nuts? Peanuts? Hazelnuts?
+
+**If you don't understand the types:**
+- **You:** Wszystkie. Żadne orzechy. `(VSHIST-kyeh. ZHAD-neh o-ZHE-hih)` - All of them. No nuts.
+
+**If you know which:**
+- **Peanuts:** Orzechy ziemne `(o-ZHE-hih JYEM-neh)`
+- **Tree nuts:** Orzechy laskowe `(o-ZHE-hih las-KO-veh)`
+- **Walnuts:** Orzechy włoskie `(o-ZHE-hih VWOS-kyeh)`
+
+---
+
+## Complication 7: "Just Read the Label"
+
+**Employee doesn't want to help and tells you to read the label.**
+
+**Employee:** Proszę sprawdzić na opakowaniu. `(PRO-sheh SPRAV-jeech na o-pa-KO-va-nyoo)` - Please check on the package.
+
+**But the label is all in Polish and you can't read it fast enough.**
+
+**Your options:**
+
+**Option A - Ask for help reading:**
+- **You:** Przepraszam, nie czytam dobrze po polsku. `(psheh-PRA-sham, nyeh CHIH-tam DOB-zheh po POL-skoo)` - Sorry, I don't read Polish well.
+
+**Option B - Use translation app:**
+- Take photo and translate
+
+**Option C - Look for key words:**
+- "Zawiera:" (Contains:) + allergen list
+- Bold text = allergens (EU law)
 
 ---
 
@@ -74,81 +174,75 @@ You're in the grocery section at Kaufland, looking for specific products that fi
 | Bezglutenowy | bez-gloo-te-NO-vih | Gluten-free |
 | Bez laktozy | bez lak-TO-zih | Lactose-free |
 | Wegański | ve-GAN-skee | Vegan |
-| Wegetariański | ve-ge-tar-YAN-skee | Vegetarian |
-| Zawierać | za-VYEH-rach | To contain |
-| Orzechy | o-ZHE-hih | Nuts |
-| Skład | skwat | Ingredients / Composition |
-| Etykieta | e-tih-KYEH-ta | Label |
+| Dla alergików | dla a-ler-GEE-koof | For allergy sufferers |
+| Zdrowa żywność | ZDRO-va ZHIV-noshch | Healthy food |
+| Zawiera | za-VYEH-ra | Contains |
+| Może zawierać | MO-zheh za-VYEH-rach | May contain |
+| Śladowe ilości | shla-DO-veh ee-LOSH-chee | Trace amounts |
+| Bezpieczne | bez-PYECH-neh | Safe |
 | Opakowanie | o-pa-KO-va-nyeh | Package |
-| Alergen | a-LER-gen | Allergen |
-| Uczulony na | oo-choo-LO-nih na | Allergic to |
-| Półka | POOW-ka | Shelf |
-| Dział | jaw | Section / Department |
+| Skład | skwat | Ingredients |
 
 ---
 
-## Common Dietary Terms
-
-| Polish | Pronunciation | English |
-|--------|---------------|---------|
-| Bezglutenowy | bez-gloo-te-NO-vih | Gluten-free |
-| Bez cukru | bez TSOO-kroo | Sugar-free |
-| Bez laktozy | bez lak-TO-zih | Lactose-free |
-| Bez konserwantów | bez kon-ser-VAN-toof | Preservative-free |
-| Ekologiczny / Bio | e-ko-lo-GEECH-nih / bio | Organic |
-| Niskokaloryczny | nees-ko-ka-lo-RICH-nih | Low-calorie |
-| Pełne ziarna | PEW-neh ZHAR-na | Whole grain |
-
----
-
-## Common Allergens
+## Allergen Vocabulary
 
 | Polish | Pronunciation | English |
 |--------|---------------|---------|
 | Orzechy | o-ZHE-hih | Nuts |
+| Orzechy ziemne | o-ZHE-hih JYEM-neh | Peanuts |
+| Orzechy laskowe | o-ZHE-hih las-KO-veh | Hazelnuts |
 | Mleko | MLE-ko | Milk |
 | Jajka | YAY-ka | Eggs |
-| Gluten | GLOO-ten | Gluten |
 | Soja | SO-ya | Soy |
+| Pszenica | psheh-NEE-tsa | Wheat |
 | Ryby | RIH-bih | Fish |
 | Skorupiaki | sko-roo-PYA-kee | Shellfish |
 
 ---
 
-## Cultural Notes
-
-- **Special sections**: Most larger Polish stores have dedicated sections for dietary needs (usually labeled "Zdrowa żywność" - healthy food, or "BIO")
-- **Labels matter**: EU regulations require clear allergen labeling. Look for bold text in ingredient lists.
-- **"Wegański" vs "Wegetariański"**: Veganism is growing in Poland, but vegetarianism is more common. Labels distinguish clearly.
-- **Ask for help**: Employees can point you to the right section, but may not know specific product ingredients - check labels yourself.
-
----
-
-## Useful Phrases
+## Helpful Phrases for Complications
 
 | Polish | Pronunciation | English |
 |--------|---------------|---------|
-| Jestem uczulony/a na... | YES-tem oo-choo-LO-nih/a na | I'm allergic to... |
-| Nie mogę jeść... | nyeh MO-geh yeshch | I can't eat... |
-| Czy to jest bez...? | chih to yest bez | Is this without...? |
-| Gdzie są produkty bio? | gjeh song pro-DOOK-tih bio | Where are organic products? |
+| Zapytam kogoś innego | za-PIH-tam KO-gosh EEN-ne-go | I'll ask someone else |
+| Nie czytam dobrze po polsku | nyeh CHIH-tam DOB-zheh po POL-skoo | I don't read Polish well |
+| Czy to jest bezpieczne? | chih to yest bez-PYECH-neh | Is this safe? |
+| Nie mamy | nyeh MA-mih | We don't have |
+| Może w innym sklepie | MO-zheh v EEN-nim SKLE-pyeh | Maybe in another store |
+
+---
+
+## Cultural Notes
+
+- **Health food awareness varies**: Smaller stores may not understand dietary terms. Large chains (Auchan, Carrefour) usually have dedicated sections.
+- **EU labeling law helps**: All allergens must be in bold on ingredient lists - learn to spot them.
+- **Polish brands exist**: Look for brands like "Incola" (gluten-free) or "Alpro" (plant-based).
+- **Pharmacy alternative**: Some dietary supplements and specialty foods are in pharmacies (apteka).
+- **Employee knowledge varies**: Some are very helpful, others don't know. Don't take it personally.
 
 ---
 
 ## Practice Variations
 
 ### Intermediate Version
-- State your need: "Szukam produktów bezglutenowych"
-- Follow employee's directions
-- "Dziękuję"
+- Ask for section: "Gdzie są produkty bezglutenowe?"
+- If confused: "Dla alergików"
+- Thank and search yourself
 
 ### Advanced Version
-- Explain in detail: "Jestem uczulona na orzechy. Czy to jest bezpieczne?" (I'm allergic to nuts. Is this safe?)
-- Ask about alternatives: "Czy macie inne opcje bez mleka?" (Do you have other options without milk?)
+- Clarify your needs: "Jestem uczulony na gluten i orzechy"
+- Read labels: Look for "Zawiera:" section
+- Ask follow-ups: "Czy macie inne opcje?"
 
 ---
 
 ## Next Steps
 
-- [Asking Recommendations]({{ '/scenarios/A2/grocery-intermediate/auchan-recommendations.html' | relative_url }}) - Comparing products
-- [Farmers Market Negotiating]({{ '/scenarios/A2/grocery-intermediate/farmers-market-negotiating.html' | relative_url }}) - Asking about organic produce
+**Similar Scenarios:**
+- [Basic Pharmacy Visit]({{ '/scenarios/A1/specialty-shops/apteka-basic-medicine.html' | relative_url }}) (A1) - May have dietary products
+- [Asking Recommendations]({{ '/scenarios/A2/grocery-intermediate/auchan-recommendations.html' | relative_url }}) - Getting help choosing products
+
+**Progression:**
+- [Describing Symptoms at Pharmacy]({{ '/scenarios/A2/specialty-shops/apteka-describing-symptoms.html' | relative_url }}) - Related health communication
+

@@ -1,125 +1,164 @@
 ---
 layout: scenario
-title: "Buying Cold Medicine for Yourself"
+title: "Cold Medicine - When Buying Gets Complicated"
 level: A2
 category: specialty-shops
 difficulty: 3
 vocabulary_count: 22
 ---
 
-## Scenario: Buying Cold/Cough Medicine for Yourself
+## Scenario: Buying Cold Medicine When Things Go Wrong
 
 ### Your Goal
-You have a cold with symptoms like stuffy nose, runny nose, cough, or sore throat. You need to describe your symptoms and get appropriate medicine for yourself.
+You have cold symptoms and need medicine. But complications arise: they don't have what you want, they ask questions you don't understand, the medicine you want requires a prescription, or you can't follow the dosage instructions.
 
 ### Setting
-You're at the apteka (pharmacy). You feel unwell and need something to help with your cold symptoms.
+You're at an apteka (pharmacy) feeling unwell. Getting cold medicine may not be straightforward.
 
 ---
 
-## Dialogue - Stuffy/Runny Nose
+## Complication 1: They Don't Have Your Brand
 
-### Opening
+**You ask for Gripex. They're out.**
 
-**You:** Dzień dobry. Mam zatkany nos. Coś na to? `(jen DOB-rih. mam zat-KA-nih nos. tsosh na to)` - Good day. I have a stuffy nose. Something for that?
+**You:** Poproszę Gripex. `(po-PRO-sheh GREE-peks)` - I'd like Gripex.
 
-**Pharmacist:** Dzień dobry. Zatkany, czy też cieknie? `(jen DOB-rih. zat-KA-nih, chih tesh CHEK-nyeh)` - Good day. Stuffy, or also runny?
+**Pharmacist:** Gripex się skończył. `(GREE-peks sheh skon-CHIHW)` - Gripex is sold out.
 
-**You:** Oba. Rano zatkany, wieczorem cieknie. `(O-ba. RA-no zat-KA-nih, vyeh-CHO-rem CHEK-nyeh)` - Both. In the morning stuffy, in the evening runny.
+**Your options:**
 
----
+**Option A - Ask for alternative:**
+- **You:** A coś podobnego? `(a tsosh po-DOB-ne-go)` - And something similar?
+- **Pharmacist:** Mamy Theraflu albo Fervex. `(MA-mih te-ra-FLOO AL-bo fer-VEKS)` - We have Theraflu or Fervex.
 
-### Pharmacist's Questions & Recommendation
+**Option B - Describe symptoms instead:**
+- **You:** Mam przeziębienie. Katar, kaszel. Co poleca pani? `(mam pshe-zhem-BYEH-nyeh. KA-tar, KA-shel. tso po-LEH-tsa PA-nee)` - I have a cold. Runny nose, cough. What do you recommend?
 
-**Pharmacist:** Od kiedy? `(ot KYEH-dih)` - Since when?
-
-**You:** Od dwóch dni. `(ot DVOO-h dnee)` - Since two days.
-
-**Pharmacist:** Polecam spray do nosa i tabletki na przeziębienie. `(po-LEH-tsam spray do NO-sa ee tab-LET-kee na pshe-zhem-BYEH-nyeh)` - I recommend nose spray and cold tablets.
-
-**You:** Spray nie wysusza? `(spray nyeh vih-SOO-sha)` - The spray doesn't dry out?
-
-**Pharmacist:** Ten jest nawilżający. Można używać tydzień. `(ten yest na-veel-ZHA-yon-tsih. MOZH-na oo-ZHIH-vach TIH-jen)` - This one is moisturizing. You can use it for a week.
+**Option C - Ask about other pharmacy:**
+- **You:** Może inna apteka ma? `(MO-zheh EEN-na ap-TEH-ka ma)` - Maybe another pharmacy has it?
 
 ---
 
-## Dialogue - Cough
+## Complication 2: They Ask About Cough Type (You Don't Know)
 
-### Describing the Cough
+**They need to know if your cough is dry or wet.**
 
-**You:** Mam kaszel. Nie mogę spać w nocy. `(mam KA-shel. nyeh MO-geh spach v NO-tsih)` - I have a cough. I can't sleep at night.
+**Pharmacist:** Kaszel suchy czy mokry? `(KA-shel SOO-hih chih MOK-rih)` - Dry or wet cough?
 
-**Pharmacist:** Suchy czy mokry kaszel? `(SOO-hih chih MOK-rih KA-shel)` - Dry or wet cough?
+**You:** *Don't understand the difference*
 
-**Your responses:**
+**Your options:**
 
-**Option A - Dry cough:**
-- **You:** Suchy. Nic nie odkrztuszam. `(SOO-hih. neets nyeh ot-KSHTOO-sham)` - Dry. I'm not coughing anything up.
-- **Pharmacist:** Na suchy kaszel polecam ten syrop. Działa na noc. `(na SOO-hih KA-shel po-LEH-tsam ten SIH-rop. JA-wa na nots)` - For dry cough I recommend this syrup. It works at night.
+**Option A - Ask what it means:**
+- **You:** Przepraszam, jaka różnica? `(psheh-PRA-sham, YA-ka ROOZH-nee-tsa)` - Sorry, what's the difference?
+- **Pharmacist:** Suchy - nic nie wychodzi. Mokry - jest flegma. `(SOO-hih - neets nyeh vih-HO-jee. MOK-rih - yest FLEG-ma)` - Dry - nothing comes out. Wet - there's phlegm.
 
-**Option B - Wet cough:**
-- **You:** Mokry, z flegmą. `(MOK-rih, z FLEG-moh)` - Wet, with phlegm.
-- **Pharmacist:** Wtedy trzeba coś wykrztuśnego. Ten syrop pomoże. `(VTE-dih TSHEH-ba tsosh vih-kshtoos-NE-go. ten SIH-rop po-MO-zheh)` - Then you need an expectorant. This syrup will help.
+**Option B - Describe what happens:**
+- **You:** Nic nie wychodzi. `(neets nyeh vih-HO-jee)` - Nothing comes out.
+- Or: Jest coś, flegma. `(yest tsosh, FLEG-ma)` - There's something, phlegm.
 
-**Option C - Not sure:**
-- **You:** Nie wiem. Czasem suchy, czasem coś jest. `(nyeh vyem. CHA-sem SOO-hih, CHA-sem tsosh yest)` - I don't know. Sometimes dry, sometimes there's something.
-- **Pharmacist:** Dam panu coś uniwersalnego. `(dam PA-noo tsosh oo-nee-ver-SAL-ne-go)` - I'll give you something universal.
-
----
-
-## Dialogue - Sore Throat
-
-**You:** Boli mnie gardło. Bardzo suche i drapie. `(BO-lee mnyeh GARD-wo. BAR-dzo SOO-he ee DRA-pyeh)` - My throat hurts. Very dry and scratchy.
-
-**Pharmacist:** Polecam pastylki do ssania. Mamy też spray do gardła. `(po-LEH-tsam pas-TIL-kee do SSA-nya. MA-mih tesh spray do GARD-wa)` - I recommend lozenges. We also have throat spray.
-
-**You:** Co jest skuteczniejsze? `(tso yest skoo-tech-NYEY-she)` - What's more effective?
-
-**Pharmacist:** Spray działa szybciej, pastylki dłużej. `(spray JA-wa SHIHP-chey, pas-TIL-kee DWOO-zhey)` - Spray works faster, lozenges longer.
-
-**You:** Poproszę oba. `(po-PRO-sheh O-ba)` - I'll take both.
+**Option C - Ask for universal option:**
+- **You:** Coś na obydwa? `(tsosh na o-BIH-dva)` - Something for both?
 
 ---
 
-## Dialogue - Multiple Symptoms
+## Complication 3: Day vs Night Version Confusion
 
-### Describing Everything
+**They ask which version and you don't know the difference.**
 
-**You:** Mam przeziębienie. Katar, kaszel, boli gardło. `(mam pshe-zhem-BYEH-nyeh. KA-tar, KA-shel, BO-lee GARD-wo)` - I have a cold. Runny nose, cough, sore throat.
+**Pharmacist:** Wersja na dzień czy na noc? `(VER-sya na jen chih na nots)` - Day version or night version?
 
-**Pharmacist:** Czy ma pan gorączkę? `(chih ma pan go-RONCH-keh)` - Do you have a fever?
+**You:** Jaka różnica? `(YA-ka ROOZH-nee-tsa)` - What's the difference?
 
-**You:** Trochę. Około trzydzieści siedem i pół. `(TRO-heh. o-KO-wo tshih-JESH-chee SHEH-dem ee poow)` - A little. About 37.5.
+**Pharmacist:** Na noc ma środek nasenny. `(na nots ma SHRO-dek na-SEN-nih)` - Night version has a sleep aid.
 
-**Pharmacist:** Polecam preparat złożony - na wszystkie objawy naraz. `(po-LEH-tsam pre-pa-RAT zwo-ZHO-nih - na VSHIST-kyeh ob-YA-vih NA-ras)` - I recommend a combination product - for all symptoms at once.
+**Your decision:**
 
-**You:** Czy mogę pracować po tym? `(chih MO-geh pra-TSO-vach po tim)` - Can I work after taking this?
+**Option A - Day only:**
+- **You:** Na dzień. Muszę pracować. `(na jen. MOO-sheh pra-TSO-vach)` - Day. I have to work.
 
-**Pharmacist:** Ten nie powoduje senności. Ale lepiej odpoczywać! `(ten nyeh po-vo-DOO-ye SEN-nosh-chee. ALE LE-pyey ot-po-CHI-vach)` - This one doesn't cause drowsiness. But better to rest!
+**Option B - Night only:**
+- **You:** Na noc. Nie mogę spać od kaszlu. `(na nots. nyeh MO-geh spach ot KASH-loo)` - Night. I can't sleep from coughing.
 
----
-
-### Night vs Day Medicine
-
-**Pharmacist:** Chce pan wersję na dzień czy na noc? `(htse pan VER-syeh na jen chih na nots)` - Do you want the day or night version?
-
-**You:** Co jest różnica? `(tso yest ROOZH-nee-tsa)` - What's the difference?
-
-**Pharmacist:** Na noc ma środek nasenny. Pomoże spać. `(na nots ma SHRO-dek na-SEN-nih. po-MO-zheh spach)` - The night one has a sleep aid. It'll help you sleep.
-
-**You:** Poproszę oba - na dzień i na noc. `(po-PRO-sheh O-ba - na jen ee na nots)` - I'll take both - day and night.
+**Option C - Both:**
+- **You:** Poproszę oba. `(po-PRO-sheh O-ba)` - I'll take both.
 
 ---
 
-### Payment
+## Complication 4: Medicine Requires Prescription
 
-**Pharmacist:** To będzie czterdzieści dwa złote. `(to BEN-jeh chter-JESH-chee dva ZWO-te)` - That'll be forty-two złoty.
+**You want something strong but it's prescription-only.**
 
-**You:** Proszę. Kartą. `(PRO-sheh. KAR-toh)` - Here. By card.
+**You:** Coś silnego na ból gardła. `(tsosh SHEEL-ne-go na bool GARD-wa)` - Something strong for sore throat.
 
-**Pharmacist:** Proszę. Dużo pić i odpoczywać! `(PRO-sheh. DOO-zho peech ee ot-po-CHI-vach)` - There you go. Drink lots and rest!
+**Pharmacist:** Antybiotyki na receptę. `(an-tih-BYO-tih-kee na re-TSEP-teh)` - Antibiotics are prescription.
 
-**You:** Dziękuję bardzo. `(jen-KOO-yeh BAR-dzo)` - Thank you very much.
+**Your options:**
+
+**Option A - Accept OTC:**
+- **You:** A bez recepty? `(a bez re-TSEP-tih)` - And without prescription?
+- **Pharmacist:** Spray do gardła lub pastylki. `(spray do GARD-wa loob pas-TIL-kee)` - Throat spray or lozenges.
+
+**Option B - Ask about doctor:**
+- **You:** Gdzie jest lekarz? `(gjeh yest LE-kazh)` - Where is a doctor?
+
+**Option C - Clarify you don't need antibiotics:**
+- **You:** Nie antybiotyk, tylko coś na ból. `(nyeh an-tih-BYO-tik, TIL-ko tsosh na bool)` - Not antibiotic, just something for pain.
+
+---
+
+## Complication 5: Too Many Options
+
+**They offer multiple products. You're overwhelmed.**
+
+**Pharmacist:** Mamy spray, pastylki, syrop, i tabletki do ssania. Co pan woli? `(MA-mih spray, pas-TIL-kee, SIH-rop, ee tab-LET-kee do SSA-nya. tso pan VO-lee)` - We have spray, lozenges, syrup, and tablets. What do you prefer?
+
+**You:** *Too many choices*
+
+**Your options:**
+
+**Option A - Ask what's best:**
+- **You:** Co jest najlepsze? `(tso yest nay-LEP-she)` - What's best?
+
+**Option B - Ask what they'd take:**
+- **You:** Co pani by wzięła? `(tso PA-nee bih VZYEN-wa)` - What would you take?
+
+**Option C - Pick familiar format:**
+- **You:** Tabletki, poproszę. `(tab-LET-kee, po-PRO-sheh)` - Tablets, please.
+
+---
+
+## Complication 6: Dosage Instructions Are Confusing
+
+**They explain dosage but it's too fast.**
+
+**Pharmacist:** Cztery razy dziennie po jednej, nie przekraczać ośmiu tabletek na dobę, przerwa minimum cztery godziny... `(CHTE-rih RA-zih JEN-nyeh po YED-ney, nyeh pshe-kra-CHACH OSH-myoo tab-LE-tek na DO-beh...)` - Four times daily one each, don't exceed eight tablets per day, minimum four hour gap...
+
+**Your options:**
+
+**Option A - Ask for written instructions:**
+- **You:** Może pani napisać? `(MO-zheh PA-nee na-PEE-sach)` - Can you write it down?
+
+**Option B - Confirm basics:**
+- **You:** Ile razy dziennie? `(EE-leh RA-zih JEN-nyeh)` - How many times daily?
+
+**Option C - Ask about package:**
+- **You:** Jest na opakowaniu? `(yest na o-pa-ko-VA-nyoo)` - Is it on the package?
+
+---
+
+## Complication 7: You Have Allergies
+
+**They recommend something but you need to check for allergies.**
+
+**Pharmacist:** Polecam ten syrop. `(po-LEH-tsam ten SIH-rop)` - I recommend this syrup.
+
+**You:** Jestem uczulony/a na ibuprofen. Czy jest w tym? `(YES-tem oo-choo-LO-nih/a na ee-boo-PRO-fen. chih yest v tim)` - I'm allergic to ibuprofen. Is it in this?
+
+**Pharmacist:** Nie, tu jest paracetamol. `(nyeh, too yest pa-ra-TSE-ta-mol)` - No, this has paracetamol.
+
+**Your follow-up:**
+- **You:** A jeszcze na co muszę uważać? `(a YESH-che na tso MOO-sheh oo-VA-zhach)` - And what else should I watch out for?
 
 ---
 
@@ -129,95 +168,70 @@ You're at the apteka (pharmacy). You feel unwell and need something to help with
 |--------|---------------|---------|
 | Przeziębienie | pshe-zhem-BYEH-nyeh | Cold (illness) |
 | Katar | KA-tar | Runny nose |
-| Zatkany nos | zat-KA-nih nos | Stuffy nose |
 | Kaszel | KA-shel | Cough |
 | Suchy kaszel | SOO-hih KA-shel | Dry cough |
 | Mokry kaszel | MOK-rih KA-shel | Wet cough |
 | Gardło | GARD-wo | Throat |
-| Boli gardło | BO-lee GARD-wo | Sore throat |
 | Gorączka | go-RONCH-ka | Fever |
+| Flegma | FLEG-ma | Phlegm |
 
 ---
 
-## Key Vocabulary - Medicine Types
+## Medicine Types
 
 | Polish | Pronunciation | English |
 |--------|---------------|---------|
 | Syrop | SIH-rop | Syrup |
 | Tabletki | tab-LET-kee | Tablets |
-| Spray do nosa | spray do NO-sa | Nose spray |
-| Spray do gardła | spray do GARD-wa | Throat spray |
-| Pastylki do ssania | pas-TIL-kee do SSA-nya | Lozenges |
+| Spray | spray | Spray |
+| Pastylki | pas-TIL-kee | Lozenges |
 | Krople | KROP-le | Drops |
-| Preparat złożony | pre-pa-RAT zwo-ZHO-nih | Combination medicine |
-
----
-
-## Day vs Night Vocabulary
-
-| Polish | Pronunciation | English |
-|--------|---------------|---------|
 | Na dzień | na jen | For daytime |
 | Na noc | na nots | For nighttime |
-| Środek nasenny | SHRO-dek na-SEN-nih | Sleep aid |
-| Senność | SEN-noshch | Drowsiness |
-| Nie powoduje senności | nyeh po-vo-DOO-ye SEN-nosh-chee | Doesn't cause drowsiness |
 
 ---
 
-## Useful Questions to Ask
+## Problem-Solving Phrases
 
 | Polish | Pronunciation | English |
 |--------|---------------|---------|
-| Jak często brać? | yak CHENS-to brach | How often to take? |
-| Ile razy dziennie? | EE-leh RA-zih JEN-nyeh | How many times per day? |
-| Czy mogę prowadzić? | chih MO-geh pro-VA-jeech | Can I drive? |
-| Co jest najsilniejsze? | tso yest nay-sheel-NYEY-she | What's strongest? |
-| Czy jest coś naturalnego? | chih yest tsosh na-too-RAL-ne-go | Is there something natural? |
+| Się skończył | sheh skon-CHIHW | It's sold out |
+| Coś podobnego? | tsosh po-DOB-ne-go | Something similar? |
+| Jaka różnica? | YA-ka ROOZH-nee-tsa | What's the difference? |
+| Co jest najlepsze? | tso yest nay-LEP-she | What's best? |
+| Jest na opakowaniu? | yest na o-pa-ko-VA-nyoo | Is it on the package? |
+| Jestem uczulony/a na... | YES-tem oo-choo-LO-nih/a na... | I'm allergic to... |
 
 ---
 
 ## Cultural Notes
 
-- **Pharmacists are helpful**: Polish pharmacists will ask detailed questions to recommend the right product.
-- **"Suchy czy mokry?"**: This is the first question about coughs - they need to know to give correct medicine.
-- **Day/Night versions**: Many cold medicines come in two versions - drowsy (na noc) and non-drowsy (na dzień).
-- **Rest advice is genuine**: Poles believe strongly in rest for recovery. "Odpoczywać!" is sincere advice.
-- **Brand names work**: Ask for brands like "Gripex," "Theraflu," "Fervex" if you know them.
-- **Combination products**: "Preparat złożony" treats multiple symptoms - very common and convenient.
-
----
-
-## Common Polish Cold Medicine Brands
-
-| Brand | What It's For |
-|-------|---------------|
-| Gripex | Multi-symptom cold |
-| Theraflu | Hot drink for cold/flu |
-| Fervex | Hot drink for cold |
-| Sudafed | Stuffy nose |
-| Sinupret | Sinus problems |
-| Mucosolvan | Wet cough |
-| Herbapect | Cough syrup |
+- **Pharmacists recommend**: Polish pharmacists are trained to recommend cold medicines based on symptoms.
+- **Day/Night versions**: Many cold medicines have two versions. Day (na dzień) won't make you drowsy.
+- **Dry vs wet cough**: This distinction matters for Polish pharmacists. Wrong medicine can make symptoms worse.
+- **Brand recognition**: International brands (Gripex, Theraflu, Fervex) are widely known and available.
+- **No prescription for most**: Most cold medicines are over-the-counter in Poland.
 
 ---
 
 ## Practice Variations
 
 ### Intermediate Version
-- Describe symptom: "Mam katar i kaszel"
-- Answer questions: "Od wczoraj. Suchy kaszel."
+- Describe symptom: "Mam kaszel"
+- Answer question: "Suchy" or "Mokry"
 - Accept recommendation: "Dobrze, poproszę"
 
 ### Advanced Version
-- Detailed description: "Mam przeziębienie od trzech dni. Rano nos zatkany, wieczorem cieknie. Kaszel suchy, szczególnie w nocy, nie mogę spać."
-- Ask about side effects: "Czy to powoduje senność? Muszę pracować."
-- Request specifics: "Wolę tabletki niż syrop. I coś na noc, żebym mógł spać."
+- Detailed description: "Mam przeziębienie od trzech dni. Kaszel suchy, szczególnie w nocy"
+- Handle allergy: "Jestem uczulony na aspirynę. Czy to ma aspirynę?"
+- Ask for comparison: "Jaka różnica między Gripex a Theraflu?"
 
 ---
 
 ## Next Steps
 
-- [Digestive Medicine]({{ '/scenarios/A2/specialty-shops/apteka-digestive-medicine.html' | relative_url }}) - Stomach/digestion issues
+**Similar Scenarios:**
+- [Digestive Medicine]({{ '/scenarios/A2/specialty-shops/apteka-digestive-medicine.html' | relative_url }}) - Similar pharmacy complications
 - [Medicine for Daughter]({{ '/scenarios/A2/specialty-shops/apteka-medicine-for-daughter.html' | relative_url }}) - Children's medicine
 - [Describing Symptoms]({{ '/scenarios/A2/specialty-shops/apteka-describing-symptoms.html' | relative_url }}) - General symptom description
+

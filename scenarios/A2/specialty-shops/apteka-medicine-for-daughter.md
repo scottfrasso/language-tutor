@@ -1,123 +1,156 @@
 ---
 layout: scenario
-title: "Buying Medicine for Sick Daughter"
+title: "Medicine for Daughter - When It Gets Complicated"
 level: A2
 category: specialty-shops
 difficulty: 4
 vocabulary_count: 22
 ---
 
-## Scenario: Buying Children's Medicine for Your Daughter
+## Scenario: Buying Children's Medicine When Things Go Wrong
 
 ### Your Goal
-Your daughter is sick with a fever, cold, or other symptoms. You need to buy appropriate medicine for a child, making sure to mention her age so the pharmacist can recommend the right dosage and safe products.
+Your daughter is sick and you need medicine for her. But complications arise: they give wrong age-group medicine, they ask questions you can't follow, dosage is confusing, or they don't have children's versions.
 
 ### Setting
-You're at the apteka (pharmacy). Your daughter is sick and you need children's medicine.
+You're at an apteka (pharmacy). Your child is sick and communication challenges may arise.
 
 ---
 
-## Dialogue - Fever Medicine
+## Complication 1: They Give Adult Medicine By Mistake
 
-### Opening
+**They start reaching for adult medicine.**
 
-**You:** Dzień dobry. Córka ma gorączkę. Coś dla dzieci na gorączkę? `(jen DOB-rih. TSOOR-ka ma go-RONCH-keh. tsosh dla JEH-chee na go-RONCH-keh)` - Good day. My daughter has a fever. Something for children for fever?
+**You:** Coś na gorączkę. `(tsosh na go-RONCH-keh)` - Something for fever.
 
-**Pharmacist:** Dzień dobry. Ile ma lat? `(jen DOB-rih. EE-leh ma lat)` - Good day. How old is she?
+**Pharmacist:** *Reaches for adult paracetamol*
 
-**You:** Trzy lata. `(tshih LA-ta)` - Three years old.
+**You:** Nie! Dla dziecka! `(nyeh! dla JEH-tska)` - No! For a child!
 
----
+**Pharmacist:** A, dla dziecka. Ile ma lat? `(a, dla JEH-tska. EE-leh ma lat)` - Oh, for a child. How old?
 
-### Pharmacist's Recommendation
-
-**Pharmacist:** Dla trzylatka polecam Nurofen lub Paracetamol w syropie. `(dla tshih-LAT-ka po-LEH-tsam NOO-ro-fen loob pa-ra-TSE-ta-mol v sih-RO-pyeh)` - For a three-year-old I recommend Nurofen or Paracetamol in syrup.
-
-**You:** Która jest lepsza? `(KTOO-ra yest LEP-sha)` - Which is better?
-
-**Pharmacist:** Paracetamol jest delikatniejszy. Nurofen silniejszy, ale działa na ból. `(pa-ra-TSE-ta-mol yest de-lee-kat-NYEY-shih. NOO-ro-fen sheel-NYEY-shih, ALE JA-wa na bool)` - Paracetamol is gentler. Nurofen is stronger, but works on pain too.
+**Important clarification:**
+- **You:** To dla córki. `(to dla TSOOR-kee)` - It's for my daughter.
+- **You:** Dziecko ma trzy lata. `(JEH-tsko ma tshih LA-ta)` - The child is three years old.
 
 ---
 
-### Dosage Questions
+## Complication 2: Dosage Questions You Don't Understand
 
-**You:** Jaka dawka dla trzyletniego dziecka? `(YA-ka DAV-ka dla tshih-LET-nyeh-go JEH-tska)` - What dose for a three-year-old child?
+**They ask about weight, age, previous medicines...**
 
-**Pharmacist:** Pięć mililitrów co sześć godzin. Nie więcej niż cztery razy dziennie. `(pyench mee-lee-LEET-roof tso sheshch go-JEEN. nyeh VYEN-tsey neesh CHTE-rih RA-zih JEN-nyeh)` - Five milliliters every six hours. No more than four times per day.
+**Pharmacist:** Ile waży? Brała coś wcześniej? Czy ma alergie? Jaka jest temperatura? `(EE-leh VA-zhih? BRA-wa tsosh VCHESH-nyey? chih ma a-LER-gyeh? YA-ka yest tem-pe-ra-TOO-ra)` - How much does she weigh? Did she take something earlier? Does she have allergies? What's the temperature?
 
-**You:** Czy można podawać na pusty żołądek? `(chih MOZH-na po-DA-vach na POOS-tih zho-WON-dek)` - Can I give it on an empty stomach?
+**You:** *Overwhelmed*
 
-**Pharmacist:** Lepiej po jedzeniu, ale można na pusty w razie silnej gorączki. `(LE-pyey po ye-JE-nyoo, ALE MOZH-na na POOS-tih v RA-zheh SHEEL-ney go-RONCH-kee)` - Better after eating, but you can on empty if fever is high.
+**Your options:**
 
----
+**Option A - Ask them to slow down:**
+- **You:** Wolniej, proszę. Nie rozumiem. `(VOL-nyey, PRO-sheh. nyeh ro-ZOO-myem)` - Slower, please. I don't understand.
 
-## Dialogue - Cold/Cough for Child
+**Option B - Answer what you know:**
+- **You:** Trzy lata. Piętnaście kilo. Gorączka trzydzieści osiem. `(tshih LA-ta. pyet-NASH-cheh KEE-lo. go-RONCH-ka tshih-JESH-chee O-shem)` - Three years. Fifteen kilos. Fever thirty-eight.
 
-### Describing Symptoms
-
-**You:** Córka jest przeziębiona. Ma katar i kaszel. `(TSOOR-ka yest pshe-zhem-BYO-na. ma KA-tar ee KA-shel)` - My daughter has a cold. She has runny nose and cough.
-
-**Pharmacist:** Ile ma lat? `(EE-leh ma lat)` - How old is she?
-
-**You:** Trzy i pół. `(tshih ee poow)` - Three and a half.
-
-**Pharmacist:** Na katar mamy krople do nosa dla dzieci. Na kaszel - syrop. `(na KA-tar MA-mih KROP-le do NO-sa dla JEH-chee. na KA-shel - SIH-rop)` - For runny nose we have nose drops for children. For cough - syrup.
+**Option C - One question at a time:**
+- **You:** Przepraszam, jedno pytanie. `(psheh-PRA-sham, YED-no pih-TA-nyeh)` - Sorry, one question [at a time].
 
 ---
 
-### Safety Questions
+## Complication 3: They Don't Have Children's Version
 
-**You:** Czy to jest bezpieczne dla małych dzieci? `(chih to yest bez-PYECH-ne dla MA-wih JEH-chee)` - Is this safe for small children?
+**The medicine you want doesn't come in children's formula.**
 
-**Pharmacist:** Tak, to jest specjalnie dla dzieci od dwóch lat. `(tak, to yest spe-TSYAL-nyeh dla JEH-chee ot DVOO-h lat)` - Yes, this is specially for children from two years old.
+**You:** Poproszę Ibuprom dla dzieci. `(po-PRO-sheh ee-boo-PROM dla JEH-chee)` - I'd like Ibuprom for children.
 
-**You:** Czy są jakieś skutki uboczne? `(chih soh YA-kyesh SKOOT-kee oo-BOCH-ne)` - Are there any side effects?
+**Pharmacist:** Ibuprom nie ma wersji dla dzieci. Mamy Nurofen dla dzieci. `(ee-boo-PROM nyeh ma VER-syee dla JEH-chee. MA-mih NOO-ro-fen dla JEH-chee)` - Ibuprom doesn't have a children's version. We have Nurofen for children.
 
-**Pharmacist:** Może być lekka senność. Proszę czytać ulotkę. `(MO-zheh bich LEK-ka SEN-noshch. PRO-sheh CHIH-tach oo-LOT-keh)` - There might be slight drowsiness. Please read the leaflet.
+**Your options:**
 
----
+**Option A - Accept alternative:**
+- **You:** Dobrze, poproszę Nurofen. `(DOB-zheh, po-PRO-sheh NOO-ro-fen)` - Okay, I'll take Nurofen.
 
-## Dialogue - Asking About Age Limits
+**Option B - Ask if it's the same:**
+- **You:** Czy to to samo? `(chih to to SA-mo)` - Is it the same?
 
-**You:** Od jakiego wieku można to podawać? `(ot YA-kyeh-go VYEH-koo MOZH-na to po-DA-vach)` - From what age can you give this?
-
-**Pharmacist:** Ten syrop jest od roku. Dla młodszych mamy krople. `(ten SIH-rop yest od RO-koo. dla MWOT-shih MA-mih KROP-le)` - This syrup is from one year. For younger we have drops.
-
-**You:** A córka ma trzy lata, więc pasuje? `(a TSOOR-ka ma tshih LA-ta, vyents pa-SOO-ye)` - And my daughter is three, so it fits?
-
-**Pharmacist:** Tak, idealnie. Dam panu dawkowanie na opakowaniu. `(tak, ee-de-AL-nyeh. dam PA-noo dav-ko-VA-nyeh na o-pa-ko-VA-nyoo)` - Yes, perfectly. I'll give you the dosing on the package.
+**Option C - Ask what's best:**
+- **You:** Co jest najlepsze dla trzylatka? `(tso yest nay-LEP-she dla tshih-LAT-ka)` - What's best for a three-year-old?
 
 ---
 
-## Dialogue - What If Fever Doesn't Go Down
+## Complication 4: Wrong Age Group Given
 
-**You:** Co jeśli gorączka nie spada? `(tso YESH-lee go-RONCH-ka nyeh SPA-da)` - What if the fever doesn't go down?
+**They give medicine for wrong age. Label says "od 6 lat" (from 6 years).**
 
-**Pharmacist:** Jeśli po leku gorączka nie spada przez dwie godziny, można dać Nurofen zamiast paracetamolu. `(YESH-lee po LE-koo go-RONCH-ka nyeh SPA-da pshes dvyeh go-JEE-nih, MOZH-na dach NOO-ro-fen za-MYAST pa-ra-tse-ta-MO-loo)` - If after the medicine the fever doesn't go down for two hours, you can give Nurofen instead of paracetamol.
+**You:** *Check label* To mówi "od sześciu lat." Córka ma trzy. `(to MOO-vee ot SHESH-choo lat. TSOOR-ka ma tshih)` - This says "from six years." Daughter is three.
 
-**You:** Można je łączyć? `(MOZH-na ye WON-chich)` - Can you combine them?
+**Pharmacist:** Przepraszam! Dam inny. `(psheh-PRA-sham! dam EEN-nih)` - Sorry! I'll give another one.
 
-**Pharmacist:** Lepiej nie. Jedno albo drugie. Ale można naprzemiennie. `(LE-pyey nyeh. YED-no AL-bo DROO-gyeh. ALE MOZH-na na-psheh-MYEN-nyeh)` - Better not. One or the other. But you can alternate.
+**Important phrase:**
+- **You:** Od jakiego wieku? `(ot YA-kyeh-go VYEH-koo)` - From what age?
 
----
-
-### High Fever Warning
-
-**Pharmacist:** Jeśli gorączka przekroczy czterdzieści stopni, proszę jechać do lekarza. `(YESH-lee go-RONCH-ka pshe-KRO-chih chter-JESH-chee STOP-nee, PRO-sheh YE-hach do le-KA-zha)` - If fever exceeds 40 degrees, please go to the doctor.
-
-**You:** Rozumiem. Dziękuję za radę. `(ro-ZOO-myem. jen-KOO-yeh za RA-deh)` - I understand. Thank you for the advice.
+**Always check:** Look for "od X lat" on packaging
 
 ---
 
-### Payment
+## Complication 5: Form Confusion (Syrup vs Suppository)
 
-**Pharmacist:** To będzie trzydzieści pięć złotych. `(to BEN-jeh tshih-JESH-chee pyench ZWO-tih)` - That'll be thirty-five złoty.
+**They ask which form and you don't understand.**
 
-**You:** Proszę. `(PRO-sheh)` - Here you go.
+**Pharmacist:** Syrop czy czopki? `(SIH-rop chih CHOP-kee)` - Syrup or suppositories?
 
-**Pharmacist:** Życzę szybkiego powrotu do zdrowia dla córeczki! `(ZHI-cheh shihp-KYEH-go pov-RO-too do ZDRO-vya dla tsoo-RECH-kee)` - I wish a quick recovery for your daughter!
+**You:** Co to jest czopki? `(tso to yest CHOP-kee)` - What are czopki?
 
-**You:** Dziękuję bardzo! `(jen-KOO-yeh BAR-dzo)` - Thank you very much!
+**Pharmacist:** *Gestures to indicate suppository*
+
+**Your response:**
+- **You:** A, rozumiem. Syrop, proszę. `(a, ro-ZOO-myem. SIH-rop, PRO-sheh)` - Ah, I understand. Syrup, please.
+- Or: Czopki, łatwiej podać. `(CHOP-kee, WAT-vyey PO-dach)` - Suppositories, easier to give.
+
+**Forms for children:**
+- Syrop `(SIH-rop)` - Syrup
+- Czopki `(CHOP-kee)` - Suppositories
+- Krople `(KROP-le)` - Drops
+- Zawiesina `(za-vyeh-SHEE-na)` - Suspension
+
+---
+
+## Complication 6: They Say to See a Doctor
+
+**Pharmacist won't sell medicine and tells you to see a doctor.**
+
+**Pharmacist:** To może być poważne. Proszę jechać do lekarza. `(to MO-zheh bich po-VAZH-neh. PRO-sheh YE-hach do le-KA-zha)` - This might be serious. Please go to a doctor.
+
+**Your response:**
+
+**Option A - Ask for directions:**
+- **You:** Gdzie jest najbliższy lekarz? `(gjeh yest nay-BLEEZH-shih LE-kazh)` - Where is the nearest doctor?
+
+**Option B - Ask what they can give now:**
+- **You:** A coś na teraz? Na gorączkę? `(a tsosh na TE-ras? na go-RONCH-keh)` - And something for now? For fever?
+
+**Option C - Understand why:**
+- **You:** Dlaczego? Co jest nie tak? `(dla-CHE-go? tso yest nyeh tak)` - Why? What's wrong?
+
+---
+
+## Complication 7: Dosage Calculation Is Confusing
+
+**The dosage is by weight and you're not sure.**
+
+**Pharmacist:** Pięć mililitrów na dziesięć kilo. Córka waży piętnaście, więc... `(pyench mee-lee-LEET-roof na JEH-shench KEE-lo. TSOOR-ka VA-zhih pyet-NASH-cheh, vyents...)` - Five milliliters per ten kilos. Daughter weighs fifteen, so...
+
+**You:** *Confused by calculation*
+
+**Your options:**
+
+**Option A - Ask for exact amount:**
+- **You:** Ile dokładnie mililitrów? `(EE-leh dok-WAD-nyeh mee-lee-LEET-roof)` - How many milliliters exactly?
+
+**Option B - Ask them to write it:**
+- **You:** Proszę napisać dawkę. `(PRO-sheh na-PEE-sach DAV-keh)` - Please write the dose.
+
+**Option C - Confirm your understanding:**
+- **You:** Więc siedem i pół mililitrów? `(vyents SHEH-dem ee poow mee-lee-LEET-roof)` - So seven and a half milliliters?
 
 ---
 
@@ -126,108 +159,83 @@ You're at the apteka (pharmacy). Your daughter is sick and you need children's m
 | Polish | Pronunciation | English |
 |--------|---------------|---------|
 | Dla dzieci | dla JEH-chee | For children |
-| Dziecko | JEH-tsko | Child |
 | Córka | TSOOR-ka | Daughter |
 | Syn | sihn | Son |
-| Maluch | MA-looh | Toddler |
-| Niemowlę | nyeh-MOV-leh | Infant |
-| Trzylatek | tshih-LA-tek | Three-year-old |
-
----
-
-## Key Vocabulary - Dosage
-
-| Polish | Pronunciation | English |
-|--------|---------------|---------|
-| Dawka | DAV-ka | Dose |
-| Mililitry | mee-lee-LEET-rih | Milliliters |
-| Co sześć godzin | tso sheshch go-JEEN | Every six hours |
-| Nie więcej niż | nyeh VYEN-tsey neesh | No more than |
-| Podawać | po-DA-vach | To give/administer |
-| Na pusty żołądek | na POOS-tih zho-WON-dek | On empty stomach |
+| Dziecko | JEH-tsko | Child |
+| Ile ma lat? | EE-leh ma lat | How old? |
+| Ile waży? | EE-leh VA-zhih | How much does [she/he] weigh? |
+| Gorączka | go-RONCH-ka | Fever |
 | Od jakiego wieku? | ot YA-kyeh-go VYEH-koo | From what age? |
 
 ---
 
-## Medicine Forms for Children
+## Medicine Forms
 
 | Polish | Pronunciation | English |
 |--------|---------------|---------|
 | Syrop | SIH-rop | Syrup |
-| Krople | KROP-le | Drops |
 | Czopki | CHOP-kee | Suppositories |
-| Tabletki do żucia | tab-LET-kee do ZHOO-cha | Chewable tablets |
+| Krople | KROP-le | Drops |
 | Zawiesina | za-vyeh-SHEE-na | Suspension |
+| Tabletki do żucia | tab-LET-kee do ZHOO-cha | Chewable tablets |
 | Granulki | gra-NOOL-kee | Granules |
 
 ---
 
-## Safety Vocabulary
+## Problem-Solving Phrases
 
 | Polish | Pronunciation | English |
 |--------|---------------|---------|
-| Bezpieczne | bez-PYECH-ne | Safe |
-| Skutki uboczne | SKOOT-kee oo-BOCH-ne | Side effects |
-| Alergia | a-LER-gya | Allergy |
-| Uczulenie | oo-choo-LE-nyeh | Allergic reaction |
-| Zgodne z wiekiem | ZGOD-ne z VYEH-kem | Age-appropriate |
-| Bez recepty | bez re-TSEP-tih | Without prescription |
+| To dla córki/syna | to dla TSOOR-kee/SIH-na | It's for my daughter/son |
+| Dziecko ma X lat | JEH-tsko ma X lat | The child is X years old |
+| Od jakiego wieku? | ot YA-kyeh-go VYEH-koo | From what age? |
+| Co jest najlepsze dla trzylatka? | tso yest nay-LEP-she dla tshih-LAT-ka | What's best for a 3-year-old? |
+| Proszę napisać dawkę | PRO-sheh na-PEE-sach DAV-keh | Please write the dose |
+| Ile dokładnie? | EE-leh dok-WAD-nyeh | How much exactly? |
 
 ---
 
-## Useful Questions About Children's Medicine
+## Age Phrases
 
 | Polish | Pronunciation | English |
 |--------|---------------|---------|
-| Od jakiego wieku? | ot YA-kyeh-go VYEH-koo | From what age? |
-| Jaka dawka dla trzylatka? | YA-ka DAV-ka dla tshih-LAT-ka | What dose for 3-year-old? |
-| Ile razy dziennie? | EE-leh RA-zih JEN-nyeh | How many times per day? |
-| Czy to bezpieczne? | chih to bez-PYECH-ne | Is this safe? |
-| Czy można z jedzeniem? | chih MOZH-na z ye-JE-nyem | Can you take with food? |
-| Co jeśli nie pomoże? | tso YESH-lee nyeh po-MO-zheh | What if it doesn't help? |
+| Ma rok | ma rok | Is one year old |
+| Ma dwa lata | ma dva LA-ta | Is two years old |
+| Ma trzy lata | ma tshih LA-ta | Is three years old |
+| Ma pięć lat | ma pyench lat | Is five years old |
+| Od roku | ot RO-koo | From one year |
+| Od dwóch lat | ot DVOO-h lat | From two years |
 
 ---
 
 ## Cultural Notes
 
-- **Age always matters**: Pharmacists will always ask your child's age before recommending medicine.
-- **"Dla dzieci"**: Look for products marked "dla dzieci" (for children) - different formulations than adult versions.
-- **Suppositories are common**: "Czopki" are commonly used for children in Poland, especially for fever.
+- **Age is critical**: Polish pharmacists always ask age before recommending children's medicine. Be ready with this information.
+- **"Dla dzieci" matters**: Look for "dla dzieci" on packaging. Adult medicine can be dangerous.
+- **Suppositories are common**: "Czopki" are widely used in Poland for children with fever, especially when they won't take syrup.
 - **Weight-based dosing**: Some medicines are dosed by weight. Know your child's weight in kilograms.
-- **Doctor warnings**: Pharmacists will tell you when to see a doctor - this is helpful, not alarming.
-- **Sympathy for sick kids**: Poles are very sympathetic about sick children. Expect well-wishes!
-
----
-
-## Common Children's Medicine Brands in Poland
-
-| Brand | What It's For |
-|-------|---------------|
-| Nurofen dla Dzieci | Fever, pain |
-| Panadol dla Dzieci | Fever, pain |
-| Ibum | Fever (suppositories) |
-| Sudafed dla Dzieci | Stuffy nose |
-| Neosine | Immune support |
-| Prospan | Cough syrup |
+- **Doctor referral is serious**: If pharmacist says to see a doctor, they mean it. Polish pharmacists are conservative about children's health.
 
 ---
 
 ## Practice Variations
 
 ### Intermediate Version
-- State the problem: "Córka ma gorączkę."
-- Give age: "Ma trzy lata."
-- Accept recommendation: "Dobrze, poproszę."
+- State the issue: "Córka ma gorączkę"
+- Give age: "Ma trzy lata"
+- Accept recommendation: "Dobrze, poproszę"
 
 ### Advanced Version
-- Give details: "Córka ma trzy lata i od wczoraj ma gorączkę - trzydzieści osiem i pół. Też trochę kaszle."
-- Ask about dosing: "Jaka dokładna dawka? Ile mililitrów i jak często?"
-- Follow-up: "Co jeśli gorączka nie spadnie? Kiedy powinnam jechać do lekarza?"
+- Give details: "Córka ma trzy lata, waży piętnaście kilo, ma gorączkę trzydzieści osiem i pół od wczoraj"
+- Ask about dosing: "Ile mililitrów dla piętnastu kilo?"
+- Check age: "Czy to jest dobre dla trzylatka?"
 
 ---
 
 ## Next Steps
 
+**Similar Scenarios:**
 - [Daughter Home Sick]({{ '/scenarios/A2/social/neighbor-daughter-home-sick.html' | relative_url }}) - Explaining to neighbors
 - [Cold Medicine for Yourself]({{ '/scenarios/A2/specialty-shops/apteka-cold-medicine-self.html' | relative_url }}) - When you're sick too
-- [Describing Symptoms at Apteka]({{ '/scenarios/A2/specialty-shops/apteka-describing-symptoms.html' | relative_url }}) - General symptom description
+- [Describing Symptoms]({{ '/scenarios/A2/specialty-shops/apteka-describing-symptoms.html' | relative_url }}) - General symptom description
+

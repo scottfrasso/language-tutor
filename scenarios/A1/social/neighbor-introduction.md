@@ -1,77 +1,143 @@
 ---
 layout: scenario
-title: "Introduction as New Neighbor"
+title: "Meeting Neighbor - Awkward First Introductions"
 level: A1
 category: social
 difficulty: 2
-vocabulary_count: 12
+vocabulary_count: 14
 ---
 
-## Scenario: Introduction as New Neighbor
+## Scenario: First Introduction That Gets Awkward
 
 ### Your Goal
-You just moved in and want to introduce yourself to a neighbor. You want to exchange names and be polite.
+You're new and want to introduce yourself to a neighbor. But they might: ask where you're from, comment on your Polish, ask questions you don't understand, or launch into fast conversation.
 
 ### Setting
-You meet a neighbor in the hallway for the first time. They seem friendly and you want to introduce yourself.
+You meet a neighbor for the first time in hallway, elevator, or at your door. Time to introduce yourself - and survive whatever questions come next.
 
 ---
 
-## Dialogue
+## The Basic Introduction
 
-### Opening Greeting
+**You:** Dzień dobry. Jestem nowy/nowa. `(jen DOB-rih. YES-tem NO-vih/NO-va)` - Good day. I'm new. *(nowy for men, nowa for women)*
 
-**Neighbor:** Dzień dobry! `(jen DOB-rih)` - Good day!
+**Neighbor:** O! Witam! `(o! VEE-tam)` - Oh! Welcome!
 
-**You:** Dzień dobry. `(jen DOB-rih)` - Good day.
+**You:** Nazywam się [Name]. `(na-ZIH-vam sheh [name])` - My name is [Name].
 
----
+**Neighbor:** Miło mi! `(MEE-wo mee)` - Nice to meet you!
 
-### Introducing Yourself
-
-**You:** Jestem nowym sąsiadem/sąsiadką. `(YES-tem NO-vim son-SHA-dem/son-SHAD-kong)` - I'm a new neighbor (m/f).
-
-**Alternative (simpler):**
-- **You:** Mieszkam tutaj. Jestem nowy/nowa. `(MYESH-kam TOO-tay. YES-tem NO-vih/NO-va)` - I live here. I'm new. *(nowy for men, nowa for women)*
-
-**Neighbor:** Aha! Witam! `(a-HA! VEE-tam)` - Ah! Welcome!
+*But then come the follow-up questions...*
 
 ---
 
-### Exchanging Names
+## Complication 1: "Where Are You From?"
 
-**You:** Nazywam się [Your Name]. `(na-ZIH-vam sheh [name])` - My name is [Your Name].
+**This question comes up almost always. Be prepared.**
 
-**Neighbor:** Miło mi. Ja jestem [Their Name]. `(MEE-wo mee. ya YES-tem [name])` - Nice to meet you. I'm [Their Name].
+**Neighbor:** Skąd pan/pani jest? `(skond pan/PA-nee yest)` - Where are you from?
+**Neighbor:** Skąd pan/pani? `(skond pan/PA-nee)` - Where are you from? *(shorter)*
 
-**You:** Bardzo mi miło. `(BAR-dzo mee MEE-wo)` - Very nice to meet you.
+**Your answer:**
+- **You:** Z Ameryki. `(z a-meh-RIH-kee)` - From America.
+- **You:** Z Anglii. `(z AN-glee-ee)` - From England.
+- **You:** Z Kanady. `(z ka-NA-dih)` - From Canada.
+- **You:** Z Irlandii. `(z eer-LAN-dee)` - From Ireland.
 
-**Alternative (simpler):**
-- **You:** Miło mi. `(MEE-wo mee)` - Nice to meet you.
-
----
-
-### Where You Live
-
-**Neighbor might ask:** Z którego piętra? `(z KTOO-reh-go PYEN-tra)` - Which floor?
-
-**You:** Z [number] piętra. `(z [number] PYEN-tra)` - From [number] floor.
-
-**Examples:**
-- Z pierwszego piętra. `(z PYER-vsheh-go PYEN-tra)` - From the first floor.
-- Z drugiego piętra. `(z DROO-gyeh-go PYEN-tra)` - From the second floor.
-- Z trzeciego piętra. `(z TSHE-cheh-go PYEN-tra)` - From the third floor.
+**If you don't want to explain:**
+- **You:** Z zagranicy. `(z za-gra-NEE-tsih)` - From abroad.
 
 ---
 
-### Closing
+## Complication 2: "Do You Speak Polish?"
 
-**Neighbor:** Miło było poznać! `(MEE-wo BIH-wo POZ-natch)` - Nice to meet you!
+**They'll often ask about your Polish. It's usually friendly curiosity.**
 
-**You:** Nawzajem! Do widzenia! `(nav-ZA-yem! do vee-JEN-ya)` - Likewise! Goodbye!
+**Neighbor:** Mówi pan/pani po polsku? `(MOO-vee pan/PA-nee po POL-skoo)` - Do you speak Polish?
 
-**Alternative:**
-- **You:** Dziękuję, do widzenia! `(jen-KOO-yeh, do vee-JEN-ya)` - Thank you, goodbye!
+**Your options:**
+
+**Option A - Honest:**
+- **You:** Trochę. Uczę się. `(TRO-heh. OO-cheh sheh)` - A little. I'm learning.
+
+**Option B - Self-deprecating:**
+- **You:** Nie za dobrze. `(nyeh za DOB-zheh)` - Not very well.
+
+**Option C - Minimal:**
+- **You:** Trochę. `(TRO-heh)` - A little.
+
+---
+
+## Complication 3: They Can't Say Your Name
+
+**Your name is hard for Polish speakers. They ask you to repeat it.**
+
+**Neighbor:** Przepraszam, jak? `(psheh-PRA-sham, yak)` - Sorry, how?
+**Neighbor:** Jeszcze raz? `(YESH-cheh raz)` - One more time?
+
+**Your options:**
+
+**Option A - Repeat slowly:**
+- **You:** [Your name]. [Spell it out slowly]
+
+**Option B - Give a simpler version:**
+- **You:** Możesz mówić [Polish nickname]. `(MO-zhesh MOO-veech [nickname])` - You can say [nickname].
+
+**Option C - Write it:**
+- **You:** *Write your name on phone or paper*
+- **You:** Tak się pisze. `(tak sheh PEE-sheh)` - It's written like this.
+
+---
+
+## Complication 4: They Launch Into Fast Polish
+
+**After pleasantries, they start speaking quickly. You're lost.**
+
+**Neighbor:** *Rapid Polish about the building, neighbors, etc.*
+
+**Your survival responses:**
+
+**Option A - Slow down request:**
+- **You:** Wolniej, proszę. `(VOL-nyey, PRO-sheh)` - Slower, please.
+
+**Option B - Admit defeat:**
+- **You:** Przepraszam, nie rozumiem. `(psheh-PRA-sham, nyeh ro-ZOO-myem)` - Sorry, I don't understand.
+- **You:** Nie mówię dobrze po polsku. `(nyeh MOO-vyeh DOB-zheh po POL-skoo)` - I don't speak Polish well.
+
+**Option C - Exit gracefully:**
+- **You:** Przepraszam, muszę iść. Miło było! `(psheh-PRA-sham, MOO-sheh eeshch. MEE-wo BIH-wo)` - Sorry, I have to go. It was nice!
+
+---
+
+## Complication 5: They Ask Which Floor/Apartment
+
+**Neighbor:** Z którego piętra? `(z KTOO-reh-go PYEN-tra)` - Which floor?
+**Neighbor:** Które mieszkanie? `(KTOO-reh myesh-KA-nyeh)` - Which apartment?
+
+**Your answer:**
+- **You:** Z trzeciego piętra. `(z TSHE-cheh-go PYEN-tra)` - From the third floor.
+- **You:** Mieszkanie pięć. `(myesh-KA-nyeh pyench)` - Apartment five.
+
+**If you don't want to share:**
+- **You:** Na górze. `(na GOO-zheh)` - Upstairs.
+- *Vague is okay*
+
+---
+
+## Complication 6: They Make a Comment You Don't Understand
+
+**Neighbor says something about you, the building, or something else. You're lost.**
+
+**Neighbor:** [Comment in Polish]
+
+**Safe responses:**
+
+- **You:** Aha. `(a-HA)` - Ah. *nod*
+- **You:** Rozumiem. `(ro-ZOO-myem)` - I understand. *even if you don't*
+- **You:** Tak, tak. `(tak, tak)` - Yes, yes.
+
+**If it seems like a question:**
+- **You:** Przepraszam? `(psheh-PRA-sham)` - Sorry?
 
 ---
 
@@ -79,18 +145,16 @@ You meet a neighbor in the hallway for the first time. They seem friendly and yo
 
 | Polish | Pronunciation | English |
 |--------|---------------|---------|
-| Dzień dobry | jen DOB-rih | Good day |
-| Jestem | YES-tem | I am |
-| Nowy/Nowa | NO-vih/NO-va | New (m/f) |
-| Sąsiad/Sąsiadka | SON-shad/son-SHAD-ka | Neighbor (m/f) |
-| Mieszkam | MYESH-kam | I live |
-| Tutaj | TOO-tay | Here |
+| Jestem nowy/nowa | YES-tem NO-vih/NO-va | I'm new (m/f) |
 | Nazywam się | na-ZIH-vam sheh | My name is |
 | Miło mi | MEE-wo mee | Nice to meet you |
-| Bardzo | BAR-dzo | Very |
-| Piętro | PYEN-tro | Floor |
-| Nawzajem | nav-ZA-yem | Likewise |
-| Do widzenia | do vee-JEN-ya | Goodbye |
+| Skąd pan/pani? | skond pan/PA-nee | Where are you from? |
+| Z Ameryki/Anglii | z a-meh-RIH-kee / z AN-glee-ee | From America/England |
+| Trochę | TRO-heh | A little |
+| Uczę się | OO-cheh sheh | I'm learning |
+| Wolniej proszę | VOL-nyey PRO-sheh | Slower please |
+| Z którego piętra? | z KTOO-reh-go PYEN-tra | Which floor? |
+| Miło było | MEE-wo BIH-wo | It was nice |
 
 ---
 
@@ -98,90 +162,43 @@ You meet a neighbor in the hallway for the first time. They seem friendly and yo
 
 | Polish | Pronunciation | English |
 |--------|---------------|---------|
+| Parter | PAR-ter | Ground floor |
 | Pierwsze piętro | PYER-vsheh PYEN-tro | First floor |
 | Drugie piętro | DROO-gyeh PYEN-tro | Second floor |
 | Trzecie piętro | TSHE-cheh PYEN-tro | Third floor |
 | Czwarte piętro | CHVAR-teh PYEN-tro | Fourth floor |
-| Pięte piętro | PYON-teh PYEN-tro | Fifth floor |
-| Parter | PAR-ter | Ground floor |
-
----
-
-## Pronunciation Tips
-
-1. **"Jestem"**: YES-tem. The "j" sounds like English "y"
-2. **"Sąsiad"**: SON-shad. The "ą" is nasal
-3. **"Mieszkam"**: MYESH-kam. Quick pronunciation
-4. **"Nazywam się"**: na-ZIH-vam sheh. Three distinct parts
-5. **"Miło mi"**: MEE-wo mee. "Nice to meet you" - memorize this!
 
 ---
 
 ## Cultural Notes
 
-- **Poles are friendly to new neighbors**: Don't be shy about introducing yourself! Most neighbors will be happy to meet you.
-- **Using formal "pan/pani"**: With older neighbors, you might add "Pani [Name]" or "Pan [Name]" when they introduce themselves.
-- **First names**: Poles often use first names even in formal situations, but with older neighbors, wait for them to suggest it.
-- **Know your floor**: Poles usually know which floor their neighbors live on. It's a common question!
-- **Building community**: Polish apartment buildings often have a sense of community. Being friendly helps!
-
----
-
-## Common Complications
-
-**What if they ask where you're from?**
-
-- **Neighbor:** Skąd pan/pani? `(skond pan/PA-nee)` - Where are you from?
-- **You:** Z Ameryki. `(z a-meh-RIH-kee)` - From America.
-  OR: Z Anglii. `(z AN-glee-ee)` - From England.
-  OR: Z [your country]. `(z [country])`
-
-**What if they ask if you speak Polish?**
-
-- **Neighbor:** Mówi pan/pani po polsku? `(MOO-vee pan/PA-nee po POL-skoo)` - Do you speak Polish?
-- **You:** Trochę. Uczę się. `(TRO-heh. OO-cheh sheh)` - A little. I'm learning.
-
-**What if they start speaking too fast?**
-
-- **You:** Wolniej, proszę. `(VOL-nyey, PRO-sheh)` - Slower, please.
-- **You:** Uczę się polskiego. `(OO-cheh sheh pol-SKYE-go)` - I'm learning Polish.
-
----
-
-## Countries
-
-| Polish | Pronunciation | English |
-|--------|---------------|---------|
-| Ameryka | a-meh-RIH-ka | America |
-| Anglia | AN-glee-a | England |
-| Irlandia | eer-LAN-dya | Ireland |
-| Szkocja | SHKOTS-ya | Scotland |
-| Kanada | ka-NA-da | Canada |
-| Australia | ow-STRAL-ya | Australia |
+- **"Skąd pan/pani?" is inevitable**: Polish people are curious about foreigners. This question is friendly, not suspicious.
+- **Your Polish will be praised**: Poles often compliment even basic Polish. "O! Pan/Pani mówi po polsku!" is common.
+- **Names are hard**: Foreign names are often difficult for Poles. Don't be offended if they can't pronounce it.
+- **They'll want to practice English**: Some neighbors may switch to English. You can say "Wolę po polsku" (I prefer Polish) if you want to practice.
 
 ---
 
 ## Practice Variations
 
 ### Easiest Version
-- "Dzień dobry"
-- "Jestem nowy/nowa" (I'm new)
+- "Dzień dobry, jestem nowy/nowa"
 - "Nazywam się [name]"
-- "Miło mi" (Nice to meet you)
-- "Do widzenia"
+- If confused: "Nie rozumiem"
+- "Miło mi, do widzenia"
 
 ### Challenge Version
-- Full introduction: "Jestem nowym sąsiadem, mieszkam na trzecim piętrze" (I'm a new neighbor, I live on the third floor)
-- Ask about them: "A pan/pani? Jak się pan/pani nazywa?" (And you? What's your name?)
-- Mention your country: "Jestem z Ameryki" (I'm from America)
+- Full introduction with floor: "Jestem nowy, mieszkam na trzecim piętrze"
+- Answer where you're from: "Z Ameryki"
+- Mention learning Polish: "Uczę się polskiego"
 
 ---
 
 ## Next Steps
 
 **Similar Scenarios:**
-- [Elevator Greeting]({{ '/scenarios/A1/social/elevator-greeting.html' | relative_url }}) - After you've met, this is your standard greeting
-- [Accepting Package]({{ '/scenarios/A1/social/neighbor-accepting-package.html' | relative_url }}) - Neighbor interaction with purpose
+- [Elevator Greeting]({{ '/scenarios/A1/social/elevator-greeting.html' | relative_url }}) - Daily greetings after you've met
+- [Handling Nosy Questions]({{ '/scenarios/A1/social/handling-nosy-questions.html' | relative_url }}) - When they ask too many personal questions
 
 **Progression:**
-- [Asking About the Area]({{ '/scenarios/A2/social/neighbor-asking-about-area.html' | relative_url }}) (A2) - Asking for recommendations
+- [Asking About the Area]({{ '/scenarios/A2/social/neighbor-asking-about-area.html' | relative_url }}) (A2) - Getting recommendations

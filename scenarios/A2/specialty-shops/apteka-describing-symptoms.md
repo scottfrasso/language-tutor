@@ -1,85 +1,167 @@
 ---
 layout: scenario
-title: "Describing Symptoms at Apteka"
+title: "Pharmacy Symptoms - When Communication Breaks Down"
 level: A2
 category: specialty-shops
 difficulty: 4
 vocabulary_count: 25
 ---
 
-## Scenario: Asking for Medicine by Describing Symptoms
+## Scenario: Describing Symptoms When Things Get Complicated
 
 ### Your Goal
-You have a headache and cold symptoms. You don't know the specific medicine name, so you need to describe your symptoms to the pharmacist.
+You need medicine but don't know what to ask for. You try to describe symptoms, but: the pharmacist doesn't understand, the medicine requires a prescription, they recommend something you're allergic to, or you can't follow their questions.
 
 ### Setting
-You're at the apteka (pharmacy). You don't feel well and need help finding the right medicine.
+You're at an apteka (pharmacy) feeling unwell. Communication challenges may arise.
 
 ---
 
-## Dialogue
+## Complication 1: They Don't Understand Your Symptom Description
 
-### Opening
+**Your pronunciation of symptoms isn't working.**
 
-**You:** Dzień dobry. `(jen DOB-rih)` - Good day.
+**You:** Boli mnie głowa. `(BO-lee mnyeh GWO-va)` - My head hurts.
 
-**Pharmacist:** Dzień dobry. Słucham? `(jen DOB-rih. SWOO-ham)` - Good day. Yes?
+**Pharmacist:** Słucham? Boli co? `(SWOO-ham? BO-lee tso)` - What? What hurts?
 
----
+**Your options:**
 
-### Describing Your Problem
+**Option A - Point to your head:**
+- **You:** *Touch head* Tu. Głowa. `(too. GWO-va)` - Here. Head.
 
-**You:** Boli mnie głowa i mam katar. `(BO-lee mnyeh GWO-va ee mam KA-tar)` - My head hurts and I have a runny nose.
+**Option B - Say it differently:**
+- **You:** Ból głowy. `(bool GWO-vih)` - Headache.
+- **You:** Mam migrenę? `(mam mee-GREH-neh)` - I have a migraine?
 
-**Alternative phrasings:**
-- **You:** Nie czuję się dobrze. `(nyeh CHOO-yeh sheh DOB-zheh)` - I don't feel well.
-- **You:** Jestem przeziębiony/przeziębiona. `(YES-tem pshe-zhem-BYO-nih/pshe-zhem-BYO-na)` - I have a cold. *(nih for men, na for women)*
+**Option C - Use English:**
+- **You:** Headache? `(hedejk)`
+- *Sometimes recognized*
 
----
-
-### Pharmacist's Questions
-
-**Pharmacist:** Od kiedy? `(ot KYEH-dih)` - Since when?
-
-**You:** Od wczoraj. `(ot FCHO-ray)` - Since yesterday.
-
-**OR:** Od dwóch dni. `(ot DVOO-h dnee)` - Since two days.
-
-**Pharmacist:** Czy ma pan/pani gorączkę? `(chih ma pan/PA-nee go-RONCH-keh)` - Do you have a fever?
-
-**You:** Nie wiem. Trochę. `(nyeh vyem. TRO-heh)` - I don't know. A little.
-
-**OR:** Tak, chyba tak. `(tak, HIH-ba tak)` - Yes, I think so.
-
-**Pharmacist:** Czy jest pan/pani na coś uczulony/uczulona? `(chih yest pan/PA-nee na tsosh oo-choo-LO-nih/na)` - Are you allergic to anything?
-
-**You:** Nie. `(nyeh)` - No.
-
-**OR:** Tak, na aspirynę. `(tak, na as-pee-RIH-neh)` - Yes, to aspirin.
+**Option D - Write it:**
+- **You:** *Show phone with "ból głowy" typed*
 
 ---
 
-### Pharmacist's Recommendation
+## Complication 2: Medicine Requires Prescription
 
-**Pharmacist:** Polecam to. Paracetamol na ból i gorączkę, i to na katar. `(po-LEH-tsam to. pa-ra-tse-TA-mol na bool ee go-RONCH-keh, ee to na KA-tar)` - I recommend this. Paracetamol for pain and fever, and this for the runny nose.
+**You asked for something that's prescription-only.**
 
-**You:** Ile razy dziennie? `(EE-leh RA-zih JEN-nyeh)` - How many times per day?
+**You:** Poproszę silne leki na ból. `(po-PRO-sheh SHEEL-neh LE-kee na bool)` - I'd like strong painkillers.
 
-**Pharmacist:** Trzy razy dziennie, po jedzeniu. `(tshih RA-zih JEN-nyeh, po ye-JE-nyoo)` - Three times per day, after eating.
+**Pharmacist:** To jest na receptę. `(to yest na re-TSEP-teh)` - This is prescription-only.
 
-**You:** Dziękuję. Ile to kosztuje? `(jen-KOO-yeh. EE-leh to kosh-TOO-yeh)` - Thank you. How much is it?
+**Your options:**
 
-**Pharmacist:** Dwadzieścia osiem złotych. `(dva-JESH-cha O-shem ZWO-tih)` - Twenty-eight złoty.
+**Option A - Ask for alternative:**
+- **You:** A co bez recepty? `(a tso bez re-TSEP-tih)` - And what without prescription?
+
+**Option B - Ask how to get prescription:**
+- **You:** Gdzie mogę dostać receptę? `(gjeh MO-geh DOS-tach re-TSEP-teh)` - Where can I get a prescription?
+- **Pharmacist:** U lekarza. `(oo le-KA-zha)` - From a doctor.
+
+**Option C - Accept weaker option:**
+- **You:** Dobrze, cokolwiek bez recepty. `(DOB-zheh, tso-KOL-vyek bez re-TSEP-tih)` - Okay, anything without prescription.
 
 ---
 
-### Closing
+## Complication 3: They Recommend Something You're Allergic To
 
-**You:** Proszę. `(PRO-sheh)` - Here you go. *(pay)*
+**They suggest aspirin, but you're allergic.**
 
-**Pharmacist:** Proszę się dobrze czuć. `(PRO-sheh sheh DOB-zheh chooch)` - Feel better.
+**Pharmacist:** Polecam aspirynę. `(po-LEH-tsam as-pee-RIH-neh)` - I recommend aspirin.
 
-**You:** Dziękuję, do widzenia. `(jen-KOO-yeh, do vee-JEN-ya)` - Thank you, goodbye.
+**You:** Nie! Jestem uczulony/a na aspirynę! `(nyeh! YES-tem oo-choo-LO-nih/a na as-pee-RIH-neh)` - No! I'm allergic to aspirin!
+
+**Pharmacist:** Przepraszam. A ibuprofen? `(psheh-PRA-sham. a ee-boo-PRO-fen)` - Sorry. How about ibuprofen?
+
+**Important phrases:**
+- **You:** Jestem uczulony/a na... `(YES-tem oo-choo-LO-nih/a na...)` - I'm allergic to...
+- **You:** Czy to zawiera aspirynę? `(chih to za-VYEH-ra as-pee-RIH-neh)` - Does this contain aspirin?
+- **You:** Co mogę brać przy alergii na aspirynę? `(tso MO-geh brach pshih a-LER-gee na as-pee-RIH-neh)` - What can I take with aspirin allergy?
+
+---
+
+## Complication 4: You Can't Follow Their Questions
+
+**Pharmacist is asking questions you don't understand.**
+
+**Pharmacist:** Czy ma pan/pani objawy ze strony przewodu pokarmowego? `(chih ma pan/PA-nee ob-YA-vih ze STRO-nih pshe-VO-doo po-kar-MO-ve-go)` - Do you have symptoms from the digestive tract?
+
+**You:** *Confused look*
+
+**Your options:**
+
+**Option A - Ask for simpler language:**
+- **You:** Przepraszam, nie rozumiem. Prościej? `(psheh-PRA-sham, nyeh ro-ZOO-myem. PROSH-chey)` - Sorry, I don't understand. Simpler?
+
+**Option B - Admit limited Polish:**
+- **You:** Przepraszam, mój polski jest słaby. `(psheh-PRA-sham, mooy POL-skee yest SWA-bih)` - Sorry, my Polish is weak.
+
+**Option C - Ask yes/no questions:**
+- **You:** Brzuch? `(bzhookh)` - Stomach? *point*
+- **Pharmacist:** Tak lub nie? `(tak loob nyeh)` - Yes or no?
+
+---
+
+## Complication 5: They Ask How Long You've Had Symptoms
+
+**You don't understand the time question.**
+
+**Pharmacist:** Od kiedy pan/pani ma te objawy? `(ot KYEH-dih pan/PA-nee ma teh ob-YA-vih)` - Since when do you have these symptoms?
+
+**You:** *Don't understand "od kiedy"*
+
+**If confused:**
+- **You:** Przepraszam? `(psheh-PRA-sham)` - Sorry?
+- **Pharmacist:** *Shows fingers* Jeden dzień? Dwa? Tydzień? `(YE-den jen? dva? TIH-jen)` - One day? Two? Week?
+- **You:** Dwa dni. `(dva dnee)` - Two days.
+
+**Time answers:**
+- Od dzisiaj. `(ot JEE-shay)` - Since today.
+- Od wczoraj. `(ot FCHO-ray)` - Since yesterday.
+- Od dwóch dni. `(ot DVOO-h dnee)` - Since two days.
+- Od tygodnia. `(ot tih-GOD-nya)` - Since a week.
+
+---
+
+## Complication 6: Multiple Symptoms, Overwhelming Conversation
+
+**You have several symptoms and the conversation gets complicated.**
+
+**You:** Boli mnie głowa, gardło, i mam kaszel. `(BO-lee mnyeh GWO-va, GARD-wo, ee mam KA-shel)` - My head hurts, throat, and I have a cough.
+
+**Pharmacist:** *Rapid Polish about different medicines for each...*
+
+**Your survival strategy:**
+
+**Option A - Stop and clarify:**
+- **You:** Wolniej, proszę. Jeden lek na wszystko? `(VOL-nyey, PRO-sheh. YE-den lek na VSHIST-ko)` - Slower, please. One medicine for everything?
+
+**Option B - Focus on main symptom:**
+- **You:** Głównie kaszel. `(GWOOV-nyeh KA-shel)` - Mainly cough.
+
+**Option C - Ask for combination medicine:**
+- **You:** Coś na przeziębienie? Wszystko razem? `(tsosh na pshe-zhem-BYEH-nyeh? VSHIST-ko RA-zem)` - Something for a cold? Everything together?
+
+---
+
+## Complication 7: Dosage Instructions You Don't Understand
+
+**They explain dosage but you're lost.**
+
+**Pharmacist:** Dwa razy dziennie po jedzeniu, jedna tabletka, nie więcej niż siedem dni... `(dva RA-zih JEN-nyeh po ye-JE-nyoo, YED-na tab-LET-ka, nyeh VYEN-tsey neesh SHEH-dem dnee...)` - Twice daily after eating, one tablet, no more than seven days...
+
+**Your options:**
+
+**Option A - Ask for written instructions:**
+- **You:** Czy może pani napisać? `(chih MO-zheh PA-nee na-PEE-sach)` - Can you write it down?
+
+**Option B - Repeat back to confirm:**
+- **You:** Więc dwa razy dziennie? `(vyents dva RA-zih JEN-nyeh)` - So twice daily?
+
+**Option C - Ask about the box:**
+- **You:** Jest na opakowaniu? `(yest na o-pa-ko-VA-nyoo)` - Is it on the package?
 
 ---
 
@@ -87,96 +169,72 @@ You're at the apteka (pharmacy). You don't feel well and need help finding the r
 
 | Polish | Pronunciation | English |
 |--------|---------------|---------|
-| Boli mnie... | BO-lee mnyeh | ...hurts me / I have pain in... |
+| Boli mnie... | BO-lee mnyeh | ...hurts / I have pain in... |
 | Głowa | GWO-va | Head |
 | Gardło | GARD-wo | Throat |
 | Brzuch | bzhookh | Stomach |
-| Katar | KA-tar | Runny nose |
 | Kaszel | KA-shel | Cough |
 | Gorączka | go-RONCH-ka | Fever |
-| Przeziębiony/a | pshe-zhem-BYO-nih/na | Having a cold (m/f) |
-| Nie czuję się dobrze | nyeh CHOO-yeh sheh DOB-zheh | I don't feel well |
+| Katar | KA-tar | Runny nose |
+| Objawy | ob-YA-vih | Symptoms |
 
 ---
 
-## Key Vocabulary - Questions & Instructions
+## Key Vocabulary - Pharmacy
 
 | Polish | Pronunciation | English |
 |--------|---------------|---------|
-| Od kiedy? | ot KYEH-dih | Since when? |
-| Wczoraj | FCHO-ray | Yesterday |
-| Dziś | jeesh | Today |
-| Ile razy dziennie? | EE-leh RA-zih JEN-nyeh | How many times per day? |
+| Na receptę | na re-TSEP-teh | Prescription-only |
+| Bez recepty | bez re-TSEP-tih | Without prescription |
+| Uczulony/a na | oo-choo-LO-nih/a na | Allergic to |
+| Zawiera | za-VYEH-ra | Contains |
+| Dawkowanie | dav-ko-VA-nyeh | Dosage |
 | Po jedzeniu | po ye-JE-nyoo | After eating |
 | Przed jedzeniem | pshet ye-JE-nyem | Before eating |
-| Uczulony/a na | oo-choo-LO-nih/na | Allergic to |
-| Polecam | po-LEH-tsam | I recommend |
+| Ulotka | oo-LOT-ka | Leaflet/Instructions |
 
 ---
 
-## Body Parts
+## Survival Phrases
 
 | Polish | Pronunciation | English |
 |--------|---------------|---------|
-| Głowa | GWO-va | Head |
-| Gardło | GARD-wo | Throat |
-| Brzuch | bzhookh | Stomach |
-| Ucho | OO-ho | Ear |
-| Ząb | zomp | Tooth |
-| Plecy | PLE-tsih | Back |
-| Noga | NO-ga | Leg |
-
----
-
-## Useful Phrases for Symptoms
-
-| Polish | Pronunciation | English |
-|--------|---------------|---------|
-| Boli mnie głowa | BO-lee mnyeh GWO-va | I have a headache |
-| Boli mnie gardło | BO-lee mnyeh GARD-wo | I have a sore throat |
-| Mam kaszel | mam KA-shel | I have a cough |
-| Mam gorączkę | mam go-RONCH-keh | I have a fever |
-| Czuję się źle | CHOO-yeh sheh zhle | I feel bad |
+| Przepraszam, nie rozumiem | psheh-PRA-sham, nyeh ro-ZOO-myem | Sorry, I don't understand |
+| Prościej? | PROSH-chey | Simpler? |
+| Mój polski jest słaby | mooy POL-skee yest SWA-bih | My Polish is weak |
+| Czy może pani napisać? | chih MO-zheh PA-nee na-PEE-sach | Can you write it down? |
+| Coś bez recepty | tsosh bez re-TSEP-tih | Something without prescription |
+| Jestem uczulony/a na... | YES-tem oo-choo-LO-nih/a na... | I'm allergic to... |
 
 ---
 
 ## Cultural Notes
 
-- **Pharmacists are knowledgeable**: Polish pharmacists can recommend over-the-counter medicines based on symptoms. They're well-trained!
-- **Describe clearly**: Be specific about symptoms and how long you've had them.
-- **Allergies matter**: They'll always ask about allergies before recommending medicine.
-- **Dosage instructions**: Listen carefully to "ile razy dziennie" (how many times per day).
-- **No prescription needed**: Many medicines that require prescriptions in other countries are available over-the-counter in Poland.
-
----
-
-## Time Expressions
-
-| Polish | Pronunciation | English |
-|--------|---------------|---------|
-| Od wczoraj | ot FCHO-ray | Since yesterday |
-| Od dziś rano | ot jeesh RA-no | Since this morning |
-| Od dwóch dni | ot DVOO-h dnee | Since two days |
-| Od tygodnia | ot tih-GOD-nya | Since a week |
-| Cały czas | TSA-wih chas | All the time |
+- **Pharmacists are knowledgeable**: Polish pharmacists are well-trained and can recommend OTC medicines.
+- **Always mention allergies**: "Jestem uczulony/a na..." is critical - they take allergies seriously.
+- **Prescription rules**: Many medicines available OTC elsewhere require prescriptions in Poland, and vice versa.
+- **Written instructions**: Don't be shy asking them to write it down - they're used to helping foreigners.
+- **Point and gesture**: Pharmacists are used to non-verbal communication. Pointing at body parts works.
 
 ---
 
 ## Practice Variations
 
 ### Intermediate Version
-- Describe symptom: "Boli mnie głowa"
-- Answer basic questions: "Od wczoraj"
-- "Dziękuję"
+- Point to pain: *touch head* "Tu. Boli."
+- If confused: "Przepraszam?"
+- Accept recommendation: "Dobrze, poproszę"
 
 ### Advanced Version
-- Detailed description: "Boli mnie głowa i gardło. Mam też kaszel od dwóch dni" (My head and throat hurt. I also have a cough for two days)
-- Ask about medicine: "Czy to jest silne?" (Is this strong?)
-- Confirm dosage: "Więc trzy razy dziennie po jedzeniu?" (So three times per day after eating?)
+- Detailed symptoms: "Boli mnie głowa od dwóch dni, szczególnie z tyłu"
+- Handle allergy: "Jestem uczulony na aspirynę. Co mogę brać?"
+- Clarify dosage: "Więc dwa razy dziennie, po jedzeniu, tak?"
 
 ---
 
 ## Next Steps
 
-- [Buying Basic Medicine]({{ '/scenarios/A1/specialty-shops/apteka-basic-medicine.html' | relative_url }}) (A1) - When you know the medicine name
-- [Dietary Needs at Kaufland]({{ '/scenarios/A2/grocery-intermediate/kaufland-dietary-needs.html' | relative_url }}) - Describing needs/restrictions
+**Similar Scenarios:**
+- [Buying Basic Medicine]({{ '/scenarios/A1/specialty-shops/apteka-basic-medicine.html' | relative_url }}) (A1) - When you know medicine name
+- [Cold Medicine for Yourself]({{ '/scenarios/A2/specialty-shops/apteka-cold-medicine-self.html' | relative_url }}) - Specific cold symptoms
+

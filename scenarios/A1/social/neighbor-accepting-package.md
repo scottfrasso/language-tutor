@@ -1,75 +1,135 @@
 ---
 layout: scenario
-title: "Accepting Package for Neighbor"
+title: "Package From Neighbor - When It Gets Confusing"
 level: A1
 category: social
 difficulty: 2
-vocabulary_count: 10
+vocabulary_count: 12
 ---
 
-## Scenario: Neighbor Received Your Package
+## Scenario: Package Handoff That Doesn't Go Smoothly
 
 ### Your Goal
-Your neighbor received a package delivery for you. They're returning it to you now. You need to thank them.
+Your neighbor received a package for you. But there might be: confusion about whose package it is, damage they're trying to explain, or something else you don't understand.
 
 ### Setting
-Your neighbor knocks on your door or stops you in the hallway. They're holding a package addressed to you.
+Neighbor knocks on your door or stops you in hallway with a package. They need to communicate something about it.
 
 ---
 
-## Dialogue
+## The Basic Exchange
 
-### Opening
+**Neighbor:** Dzień dobry! Paczka dla pana/pani. `(jen DOB-rih! PACH-ka dla PA-na/PA-nee)` - Good day! Package for you.
+**You:** O! Dziękuję! `(o! jen-KOO-yeh)` - Oh! Thank you!
 
-**Neighbor knocks on your door or stops you:**
-
-**Neighbor:** Dzień dobry! `(jen DOB-rih)` - Good day!
-
-**You:** Dzień dobry. `(jen DOB-rih)` - Good day.
+*But sometimes it's more complicated...*
 
 ---
 
-### Neighbor Explains
+## Complication 1: They're Explaining Something You Don't Understand
 
-**Neighbor:** To jest dla pana/pani. `(to yest dla PA-na/PA-nee)` - This is for you (m/f).
-  OR: Przyszła paczka. `(PSHIH-shwa PACH-ka)` - A package came.
+**Neighbor is talking about the package - maybe damaged, maybe delayed, who knows.**
 
-**You:** Aha! Dziękuję! `(a-HA! jen-KOO-yeh)` - Ah! Thank you!
+**Neighbor:** [Polish explanation about the package]
 
----
+**Your options:**
 
-### Taking the Package
+**Option A - Just take it and thank:**
+- **You:** Dziękuję bardzo! `(jen-KOO-yeh BAR-dzo)` - Thank you very much!
+- *Sometimes you don't need to understand everything*
 
-**Neighbor hands you the package:**
+**Option B - Ask what they mean:**
+- **You:** Przepraszam? `(psheh-PRA-sham)` - Sorry?
+- **You:** Nie rozumiem. `(nyeh ro-ZOO-myem)` - I don't understand.
 
-**You:** Dziękuję bardzo! `(jen-KOO-yeh BAR-dzo)` - Thank you very much!
-
-**Neighbor:** Proszę bardzo. `(PRO-sheh BAR-dzo)` - You're very welcome.
-
-**Alternative exchange:**
-- **You:** Bardzo dziękuję! `(BAR-dzo jen-KOO-yeh)` - Thank you very much!
-- **Neighbor:** Nie ma problemu. `(nyeh ma prob-LEH-moo)` - No problem.
+**Option C - Ask if there's a problem:**
+- **You:** Jest problem? `(yest PRO-blem)` - Is there a problem?
 
 ---
 
-### Optional: Apologizing for Inconvenience
+## Complication 2: It's Not Your Package
 
-**You:** Przepraszam za kłopot. `(psheh-PRA-sham za KWO-pot)` - Sorry for the trouble.
+**You look at the package. Wrong name or address.**
 
-**Neighbor:** Żaden problem! `(ZHA-den prob-LEM)` - No problem at all!
-  OR: Nie ma sprawy! `(nyeh ma SPRA-vih)` - No worries!
+**You:** Przepraszam, to nie dla mnie. `(psheh-PRA-sham, to nyeh dla mnyeh)` - Sorry, this isn't for me.
+
+**Or point to the label:**
+- **You:** *Point at name* To nie ja. `(to nyeh ya)` - This isn't me.
+- **You:** Inne nazwisko. `(EEN-ne naz-VEES-ko)` - Different name.
+
+**Neighbor:** O, przepraszam! `(o, psheh-PRA-sham)` - Oh, sorry!
 
 ---
 
-### Closing
+## Complication 3: Package Looks Damaged
 
-**You:** Dziękuję, do widzenia! `(jen-KOO-yeh, do vee-JEN-ya)` - Thank you, goodbye!
+**The box is crushed or opened. Neighbor is explaining.**
 
-**Neighbor:** Do widzenia! `(do vee-JEN-ya)` - Goodbye!
+**Neighbor:** *Gestures at damage, speaks Polish*
 
-**Alternative:**
-- **Neighbor:** Miłego dnia! `(mee-WEH-go dnya)` - Have a nice day!
-- **You:** Nawzajem! `(nav-ZA-yem)` - You too!
+**Your options:**
+
+**Option A - Ask what happened:**
+- **You:** Co się stało? `(tso sheh STA-wo)` - What happened?
+
+**Option B - Accept it anyway:**
+- **You:** Dobrze, dziękuję. `(DOB-zheh, jen-KOO-yeh)` - Okay, thanks.
+- *You can deal with the courier later*
+
+**Option C - Look confused:**
+- **You:** *Look at damage* Hmm. Problem? `(PRO-blem)`
+- **Neighbor:** *Will try to explain more simply*
+
+---
+
+## Complication 4: Neighbor Seems Annoyed
+
+**They've been holding this package for days. They seem irritated.**
+
+**Neighbor:** *Annoyed tone* [Polish about waiting]
+
+**Your recovery:**
+
+- **You:** Przepraszam za kłopot. `(psheh-PRA-sham za KWO-pot)` - Sorry for the trouble.
+- **You:** Dziękuję, że pan/pani trzymał/a. `(jen-KOO-yeh zheh pan/PA-nee tshih-MAW/wa)` - Thank you for holding it.
+
+**If you don't understand their complaint:**
+- **You:** Przepraszam. Dziękuję bardzo. `(psheh-PRA-sham. jen-KOO-yeh BAR-dzo)` - Sorry. Thank you very much.
+- *Apologize and thank profusely*
+
+---
+
+## Complication 5: It's for a Previous Tenant
+
+**Neighbor:** *Points at name* To nie pan/pani?
+**You:** *Look at name - not yours*
+
+**Your response:**
+- **You:** Nie, to nie ja. Stary lokator? `(nyeh, to nyeh ya. STA-rih lo-KA-tor)` - No, that's not me. Old tenant?
+- **You:** Nie mieszkam tu długo. `(nyeh MYESH-kam too DWOO-go)` - I haven't lived here long.
+
+**What to do:**
+- You can refuse: "Przepraszam, nie mogę przyjąć."
+- Or accept and return to courier later
+
+---
+
+## Complication 6: They Want Something From You
+
+**Maybe they want you to sign something or they want something in return.**
+
+**Neighbor:** *Holds out paper or phone*
+
+**Your options:**
+
+**Option A - Ask what it is:**
+- **You:** Co to jest? `(tso to yest)` - What is this?
+
+**Option B - Ask if you need to sign:**
+- **You:** Podpisać? `(pod-PEE-sach)` - Sign?
+
+**If you're not comfortable:**
+- **You:** Przepraszam, nie rozumiem. `(psheh-PRA-sham, nyeh ro-ZOO-myem)` - Sorry, I don't understand.
 
 ---
 
@@ -79,102 +139,44 @@ Your neighbor knocks on your door or stops you in the hallway. They're holding a
 |--------|---------------|---------|
 | Paczka | PACH-ka | Package |
 | Dla pana/pani | dla PA-na/PA-nee | For you (m/f) |
-| Dziękuję | jen-KOO-yeh | Thank you |
-| Bardzo | BAR-dzo | Very / Very much |
-| Proszę bardzo | PRO-sheh BAR-dzo | You're welcome |
-| Przepraszam | psheh-PRA-sham | Sorry / Excuse me |
-| Kłopot | KWO-pot | Trouble |
-| Nie ma problemu | nyeh ma prob-LEH-moo | No problem |
-| Do widzenia | do vee-JEN-ya | Goodbye |
-| Miłego dnia | mee-WEH-go dnya | Have a nice day |
-
----
-
-## Related Phrases
-
-| Polish | Pronunciation | English |
-|--------|---------------|---------|
-| To jest dla mnie | to yest dla mnyeh | This is for me |
-| Moja paczka | MO-ya PACH-ka | My package |
-| Żaden problem | ZHA-den prob-LEM | No problem at all |
-| Nie ma sprawy | nyeh ma SPRA-vih | No worries |
-| Za kłopot | za KWO-pot | For the trouble |
-| Przyszła | PSHIH-shwa | Came / Arrived |
-| Kurier | KOOR-yer | Courier |
-
----
-
-## Pronunciation Tips
-
-1. **"Paczka"**: PACH-ka. The "cz" is like "ch" in "church"
-2. **"Dziękuję bardzo"**: jen-KOO-yeh BAR-dzo. This is a very common phrase - practice it!
-3. **"Przepraszam"**: psheh-PRA-sham. Four syllables
-4. **"Kłopot"**: KWO-pot. The "ł" sounds like "w"
-5. **"Nawzajem"**: nav-ZA-yem. Useful word meaning "you too"
+| To nie dla mnie | to nyeh dla mnyeh | This isn't for me |
+| To nie ja | to nyeh ya | That's not me |
+| Jest problem? | yest PRO-blem | Is there a problem? |
+| Co się stało? | tso sheh STA-wo | What happened? |
+| Przepraszam za kłopot | psheh-PRA-sham za KWO-pot | Sorry for the trouble |
+| Stary lokator | STA-rih lo-KA-tor | Old tenant |
+| Podpisać | pod-PEE-sach | To sign |
 
 ---
 
 ## Cultural Notes
 
-- **Package acceptance is common**: In Poland, it's very normal for neighbors to accept packages for each other. This builds community!
-- **Always thank profusely**: When someone does you a favor like this, thank them multiple times. "Dziękuję bardzo" is standard.
-- **Apologizing is polite**: Even though accepting packages is normal, saying "Przepraszam za kłopot" (Sorry for the trouble) is considered polite.
-- **Return the favor**: If you're home and a courier comes with a package for your neighbor, accept it! This is how the community works.
-- **Intercom system**: Many Polish buildings have intercoms. Couriers will buzz multiple apartments to find someone to accept the package.
-
----
-
-## Common Complications
-
-**What if you weren't expecting a package?**
-
-- **You:** To moja paczka? `(to MO-ya PACH-ka)` - Is this my package?
-- **Neighbor:** Tak, tu jest pana/pani nazwisko. `(tak, too yest PA-na/PA-nee naz-VEES-ko)` - Yes, here is your name.
-- **You:** Aha, dziękuję! `(a-HA, jen-KOO-yeh)` - Ah, thank you!
-
-**What if they also have a package for someone else?**
-
-- **Neighbor:** A to jest dla [other neighbor]. `(a to yest dla [name])` - And this is for [other neighbor].
-- **You:** Rozumiem. `(ro-ZOO-myem)` - I understand.
-
-**What if you want to offer them something for the favor?**
-
-- **You:** Proszę, dla pani/pana. `(PRO-sheh, dla PA-nee/PA-na)` - Please, for you. *(offer chocolates, etc.)*
-- **Neighbor:** O, nie trzeba! Dziękuję! `(o, nyeh TSHE-ba! jen-KOO-yeh)` - Oh, you shouldn't! Thank you!
-- This is nice but not required!
-
----
-
-## If YOU Accept a Package for a Neighbor
-
-**Courier delivers to you:**
-
-**When you give it to your neighbor:**
-- **You:** Dzień dobry! Przyszła paczka dla pana/pani. `(jen DOB-rih! PSHIH-shwa PACH-ka dla PA-na/PA-nee)` - Good day! A package came for you.
-- **Neighbor:** O, dziękuję! `(o, jen-KOO-yeh)` - Oh, thank you!
-- **You:** Proszę! `(PRO-sheh)` - You're welcome!
+- **Package acceptance is normal**: Neighbors accepting each other's packages is very common in Poland.
+- **Thank profusely**: Even if annoyed, always thank multiple times.
+- **Previous tenants**: Polish apartments often have mail/packages for previous tenants. This is common.
+- **Apologize for trouble**: "Przepraszam za kłopot" is important even though they chose to accept the package.
 
 ---
 
 ## Practice Variations
 
 ### Easiest Version
-- "Dzień dobry"
-- "Dziękuję!" *(take package)*
-- "Do widzenia"
+- "Dziękuję!"
+- Take package
+- "Dziękuję, do widzenia!"
 
 ### Challenge Version
-- Thank multiple times: "Dziękuję bardzo!"
+- If confused: "Przepraszam, nie rozumiem"
+- If not yours: "To nie dla mnie"
 - Apologize: "Przepraszam za kłopot"
-- Respond to "Miłego dnia" with "Nawzajem!"
 
 ---
 
 ## Next Steps
 
 **Similar Scenarios:**
-- [Elevator Greeting]({{ '/scenarios/A1/social/elevator-greeting.html' | relative_url }}) - After this, normal greetings resume
-- [Neighbor Introduction]({{ '/scenarios/A1/social/neighbor-introduction.html' | relative_url }}) - If you haven't met yet
+- [Elevator Greeting]({{ '/scenarios/A1/social/elevator-greeting.html' | relative_url }}) - Normal neighbor interactions
+- [Package Mix-up]({{ '/scenarios/A2/social/neighbor-package-delivery.html' | relative_url }}) (A2) - More complex package situations
 
 **Progression:**
-- [Package Not Yours]({{ '/scenarios/A2/social/neighbor-package-delivery.html' | relative_url }}) (A2) - What if the package isn't yours?
+- [Handling Nosy Questions]({{ '/scenarios/A1/social/handling-nosy-questions.html' | relative_url }}) - When neighbors ask too much

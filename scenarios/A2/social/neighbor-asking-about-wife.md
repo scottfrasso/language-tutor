@@ -1,100 +1,176 @@
 ---
 layout: scenario
-title: "Small Talk About Your Wife"
+title: "Questions About Your Wife - When It Gets Awkward"
 level: A2
 category: social
 difficulty: 3
-vocabulary_count: 18
+vocabulary_count: 20
 ---
 
-## Scenario: Neighbor Asks About Your Wife
+## Scenario: Neighbor Questions About Your Wife That Get Personal
 
 ### Your Goal
-A neighbor makes friendly small talk and asks about your wife - whether she works, how she's adjusting to Poland, and general questions about your family life.
+A neighbor asks about your wife, but the conversation takes uncomfortable turns: they ask about her work (she's job hunting), they comment on something critical, they ask invasive questions about your relationship, or they give unwanted advice.
 
 ### Setting
-You're in the elevator, hallway, or near the building entrance. A friendly neighbor you've met before starts a conversation about your family.
+You're in the elevator, hallway, or near the building entrance. A friendly neighbor starts asking about your family.
 
 ---
 
-## Dialogue
+## Complication 1: They Ask About Work (She's Job Hunting)
 
-### Opening
+**Sensitive topic - she's between jobs.**
 
-**Neighbor:** Dzień dobry! Dawno pana nie widziałam. A żona? Wszystko dobrze? `(jen DOB-rih! DAV-no PA-na nyeh vee-JA-wam. a ZHO-na? VSHIST-ko DOB-zheh)` - Good day! Haven't seen you in a while. And your wife? Everything good?
+**Neighbor:** A żona? Pracuje? `(a ZHO-na? pra-TSOO-ye)` - And your wife? Does she work?
 
-**You:** Tak, dziękuję. Dużo pracy ostatnio. `(tak, jen-KOO-yeh. DOO-zho PRA-tsih os-TAT-nyo)` - Yes, thank you. A lot of work lately.
+**You:** *She's been looking for months - feels awkward*
 
----
+**Your options:**
 
-### Work Questions
+**Option A - Vague positive:**
+- **You:** Szuka czegoś nowego. `(SHOO-ka CHE-gosh NO-ve-go)` - She's looking for something new.
 
-**Neighbor:** Żona pracuje? `(ZHO-na pra-TSOO-ye)` - Does your wife work?
+**Option B - Deflect:**
+- **You:** Jest zajęta. `(yest za-YEN-ta)` - She's busy.
 
-**Your responses:**
+**Option C - Brief and move on:**
+- **You:** Teraz z córką. `(TE-raz z TSOOR-koh)` - With our daughter right now.
 
-**Option A - Works from home:**
-- **You:** Tak, pracuje z domu. `(tak, pra-TSOO-ye z DO-moo)` - Yes, she works from home.
-- **Neighbor:** O, to wygodnie! Może być z córeczką. `(o, to vih-GOD-nyeh! MO-zheh bich z tsoo-RECH-koh)` - Oh, that's convenient! She can be with your daughter.
-
-**Option B - Works in office:**
-- **You:** Tak, w biurze. W centrum. `(tak, v BYOO-zheh. v TSEN-troom)` - Yes, in an office. In the center.
-- **Neighbor:** To daleko stąd? `(to da-LE-ko stont)` - Is that far from here?
-- **You:** Dwadzieścia minut tramwajem. `(dva-JESH-cha mee-NOOT tram-VA-yem)` - Twenty minutes by tram.
-
-**Option C - Stays home with daughter:**
-- **You:** Teraz jest w domu z córką. `(TE-raz yest v DO-moo z TSOOR-koh)` - Right now she's at home with our daughter.
-- **Neighbor:** To też ciężka praca! `(to tesh CHENZH-ka PRA-tsa)` - That's hard work too!
-
-**Option D - Looking for work:**
-- **You:** Szuka pracy. Nie jest łatwo. `(SHOO-ka PRA-tsih. nyeh yest WAT-vo)` - She's looking for work. It's not easy.
-- **Neighbor:** Mogę zapytać znajomych. Czym się zajmuje? `(MO-geh za-PIH-tach zna-YO-mih. chim sheh zay-MOO-ye)` - I can ask people I know. What does she do?
+**Option D - Honest but closed:**
+- **You:** Szuka pracy. Niełatwo teraz. `(SHOO-ka PRA-tsih. nyeh-WAT-vo TE-raz)` - Looking for work. It's not easy now.
 
 ---
 
-### Adjusting to Poland
+## Complication 2: They Offer "Help" With Job Search
 
-**Neighbor:** Jak jej się podoba w Polsce? `(yak yey sheh po-DO-ba v POL-sce)` - How does she like Poland?
+**Neighbor heard she's job hunting and wants to help (awkwardly).**
 
-**Your responses:**
+**Neighbor:** Słyszałam że żona szuka pracy. Mam znajomą w... czym ona się zajmuje? `(SWIH-sha-wam zheh ZHO-na SHOO-ka PRA-tsih. mam zna-YO-moh v... chim O-na sheh zay-MOO-ye)` - I heard your wife is looking for work. I have a friend in... what does she do?
 
-**Option A - Positive:**
-- **You:** Bardzo jej się podoba! Lubi miasto i ludzi. `(BAR-dzo yey sheh po-DO-ba! LOO-bee MYAS-to ee LOO-jee)` - She likes it a lot! She likes the city and the people.
+**You:** *Don't want networking through neighbor*
 
-**Option B - Adjusting:**
-- **You:** Przyzwyczaja się. Zima jest trudna. `(pshih-zvee-CHA-ya sheh. ZEE-ma yest TROOD-na)` - She's getting used to it. Winter is hard.
-- **Neighbor:** Tak, nasze zimy są ciężkie. Ale wiosna piękna! `(tak, NA-she ZEE-mih soh CHENZH-kyeh. ALE VYOS-na PYENK-na)` - Yes, our winters are tough. But spring is beautiful!
+**Your options:**
 
-**Option C - Language challenges:**
-- **You:** Lubi tu mieszkać, ale język jest trudny. `(LOO-bee too MYESH-kach, ALE YEN-zihk yest TROOD-nih)` - She likes living here, but the language is difficult.
-- **Neighbor:** Polski jest trudny! Ale pani mówi coraz lepiej, słyszałam. `(POL-skee yest TROOD-nih! ALE PA-nee MOO-vee tso-raz LE-pyey, SWIH-sha-wam)` - Polish is difficult! But she speaks better and better, I've heard.
+**Option A - Polite decline:**
+- **You:** Dziękuję, ale ma kilka opcji. `(jen-KOO-yeh, ALE ma KEEL-ka OP-tsyee)` - Thanks, but she has some options.
 
----
+**Option B - Vague answer:**
+- **You:** Biuro. Szuka czegoś konkretnego. `(BYOO-ro. SHOO-ka CHE-gosh kon-KRET-ne-go)` - Office work. She's looking for something specific.
 
-### Questions About Family Routine
-
-**Neighbor:** Kto odprowadza córeczkę do przedszkola? `(kto ot-pro-VA-dza tsoo-RECH-keh do pshed-SHKO-la)` - Who takes your daughter to preschool?
-
-**Your responses:**
-
-**Option A - Wife:**
-- **You:** Żona. Ja wcześnie wyjeżdżam do pracy. `(ZHO-na. ya VCHESH-nyeh vih-YEZH-jam do PRA-tsih)` - My wife. I leave early for work.
-
-**Option B - You:**
-- **You:** Ja rano, a żona odbiera po południu. `(ya RA-no, a ZHO-na od-BYEH-ra po po-WOO-dnyoo)` - I do in the morning, and my wife picks her up in the afternoon.
-
-**Option C - Alternating:**
-- **You:** Na zmianę. Zależy kto ma czas. `(na ZMYA-neh. za-LE-zhih kto ma chas)` - We take turns. Depends who has time.
+**Option C - Accept vaguely:**
+- **You:** Dziękuję za pomysł. Powiem jej. `(jen-KOO-yeh za po-MIHSW. po-VYEM yey)` - Thanks for the idea. I'll tell her.
+- *Then don't follow up*
 
 ---
 
-### Closing
+## Complication 3: They Comment on Her Polish
 
-**Neighbor:** Dobrze słyszeć że wszystko w porządku. Proszę pozdrowić żonę! `(DOB-zheh SWIH-shech zheh VSHIST-ko v po-ZHOND-koo. PRO-sheh poz-DRO-veech ZHO-neh)` - Good to hear everything's okay. Please say hi to your wife!
+**They say something that feels condescending.**
 
-**You:** Dziękuję, przekażę! Miłego dnia! `(jen-KOO-yeh, pshe-KA-zheh! mee-WEH-go dnya)` - Thank you, I'll pass it on! Have a nice day!
+**Neighbor:** Żona już mówi po polsku? Bo słyszałam że ma problemy... `(ZHO-na yoosh MOO-vee po POL-skoo? bo SWIH-sha-wam zheh ma prob-LEH-mih...)` - Does your wife speak Polish yet? Because I heard she has problems...
 
-**Neighbor:** Nawzajem! `(nav-ZA-yem)` - You too!
+**You:** *Offended - who told them that?*
+
+**Your options:**
+
+**Option A - Defend:**
+- **You:** Uczy się. Polski jest trudny. `(OO-chih sheh. POL-skee yest TROOD-nih)` - She's learning. Polish is hard.
+
+**Option B - Don't engage:**
+- **You:** Radzi sobie. `(RA-jee SO-byeh)` - She manages.
+
+**Option C - Redirect:**
+- **You:** Lepiej każdego dnia. A pani mówi po angielsku? `(LE-pyey KAZH-de-go dnya. a PA-nee MOO-vee po an-GYEL-skoo)` - Better every day. And do you speak English?
+
+---
+
+## Complication 4: They Ask About Your Relationship
+
+**Way too personal questions.**
+
+**Neighbor:** Długo jesteście razem? Gdzie się poznaliście? W internecie? `(DWOO-go yes-TESH-cheh RA-zem? gjeh sheh poz-NA-leesh-cheh? v een-ter-NEH-cheh)` - Have you been together long? Where did you meet? On the internet?
+
+**You:** *None of their business*
+
+**Your options:**
+
+**Option A - Brief answer:**
+- **You:** Kilka lat. `(KEEL-ka lat)` - A few years.
+- *Don't elaborate*
+
+**Option B - Redirect:**
+- **You:** Dawno. A pan żonaty? `(DAV-no. a pan zho-NA-tih)` - A long time. And are you married?
+
+**Option C - Polite boundary:**
+- **You:** Długa historia. `(DWOO-ga his-TOR-ya)` - Long story.
+- *Smile, change subject*
+
+---
+
+## Complication 5: They Give Marriage Advice
+
+**They noticed something and share opinions.**
+
+**Neighbor:** Dawno nie widziałem żony. Wszystko dobrze w domu? `(DAV-no nyeh vee-JA-wem ZHO-nih. VSHIST-ko DOB-zheh v DO-moo)` - Haven't seen your wife in a while. Everything okay at home?
+
+**You:** *Implication feels intrusive*
+
+**Your options:**
+
+**Option A - Reassure:**
+- **You:** Tak, wszystko dobrze. Dużo pracy. `(tak, VSHIST-ko DOB-zheh. DOO-zho PRA-tsih)` - Yes, everything's fine. Lots of work.
+
+**Option B - Shut it down:**
+- **You:** Tak. Dziękuję. `(tak. jen-KOO-yeh)` - Yes. Thank you.
+- *Short, closed*
+
+**Option C - Light explanation:**
+- **You:** Ma inne godziny pracy. Minęliśmy się. `(ma EEN-neh go-JEE-nih PRA-tsih. mee-NEH-leesh-mih sheh)` - She has different work hours. You must have missed each other.
+
+---
+
+## Complication 6: They Compare to Their Own Marriage
+
+**Every answer leads to their stories.**
+
+**You:** Żona pracuje z domu.
+
+**Neighbor:** Z domu? Mój mąż by oszalał! Ja bym nie mogła! Kiedyś próbowaliśmy i... `(z DO-moo? mooy monzh bih o-sha-LAW! ya bim nyeh MOG-wa! KYEH-dish proo-bo-VA-leesh-mih ee...)` - From home? My husband would go crazy! I couldn't! Once we tried and...
+
+**You:** *Don't want their life story*
+
+**Your options:**
+
+**Option A - Brief acknowledgment:**
+- **You:** Każdy inaczej. `(KAZH-dih ee-NA-chey)` - Everyone's different.
+
+**Option B - End conversation:**
+- **You:** Tak, nam pasuje. O, muszę iść! `(tak, nam PA-soo-ye. o, MOO-sheh eeshch)` - Yes, it suits us. Oh, I have to go!
+
+**Option C - Non-committal:**
+- **You:** Hmm, ciekawe. `(hmm, cheh-KA-veh)` - Hmm, interesting.
+
+---
+
+## Complication 7: They've Heard Gossip
+
+**They reference something they "heard."**
+
+**Neighbor:** Słyszałam że żona nie lubi tu mieszkać? `(SWIH-sha-wam zheh ZHO-na nyeh LOO-bee too MYESH-kach)` - I heard your wife doesn't like living here?
+
+**You:** *Where did they hear that?*
+
+**Your options:**
+
+**Option A - Correct gently:**
+- **You:** Nie, lubi tutaj. Nie wiem kto tak mówi. `(nyeh, LOO-bee TOO-tay. nyeh vyem kto tak MOO-vee)` - No, she likes it here. I don't know who says that.
+
+**Option B - Don't engage:**
+- **You:** Nieprawda. `(nyeh-PRAV-da)` - Not true.
+- *End of discussion*
+
+**Option C - Deflect:**
+- **You:** Mieszkamy tu od roku i jest dobrze. `(myesh-KA-mih too ot RO-koo ee yest DOB-zheh)` - We've lived here a year and it's good.
 
 ---
 
@@ -105,81 +181,68 @@ You're in the elevator, hallway, or near the building entrance. A friendly neigh
 | Żona | ZHO-na | Wife |
 | Pracuje | pra-TSOO-ye | Works |
 | Z domu | z DO-moo | From home |
-| W biurze | v BYOO-zheh | In an office |
 | Szuka pracy | SHOO-ka PRA-tsih | Looking for work |
-| Podoba się | po-DO-ba sheh | Likes |
-| Przyzwyczaja się | pshih-zvee-CHA-ya sheh | Getting used to |
-| Odprowadza | ot-pro-VA-dza | Takes (accompanies) |
-| Odbiera | od-BYEH-ra | Picks up |
-| Na zmianę | na ZMYA-neh | Taking turns |
+| Zajęta | za-YEN-ta | Busy |
+| Radzi sobie | RA-jee SO-byeh | Manages / Gets by |
+| Żonaty | zho-NA-tih | Married (m) |
+| Dawno | DAV-no | Long ago / A while |
+| Długa historia | DWOO-ga his-TOR-ya | Long story |
+| Nieprawda | nyeh-PRAV-da | Not true |
 
 ---
 
-## Work-Related Vocabulary
+## Deflection Phrases
 
 | Polish | Pronunciation | English |
 |--------|---------------|---------|
-| Praca | PRA-tsa | Work / Job |
-| Biuro | BYOO-ro | Office |
-| Firma | FEER-ma | Company |
-| Szef | shef | Boss |
-| Pracuje zdalnie | pra-TSOO-ye ZDAL-nyeh | Works remotely |
-| Pełny etat | PEW-nih E-tat | Full time |
-| Na pół etatu | na poow e-TA-too | Part time |
+| Jest zajęta | yest za-YEN-ta | She's busy |
+| Radzi sobie | RA-jee SO-byeh | She manages |
+| Długa historia | DWOO-ga his-TOR-ya | Long story |
+| Każdy inaczej | KAZH-dih ee-NA-chey | Everyone's different |
+| Nieprawda | nyeh-PRAV-da | Not true |
+| Dużo pracy | DOO-zho PRA-tsih | Lots of work |
 
 ---
 
-## Phrases About Adjusting
+## Closing Conversation Phrases
 
 | Polish | Pronunciation | English |
 |--------|---------------|---------|
-| Lubi tu mieszkać | LOO-bee too MYESH-kach | Likes living here |
-| Czuje się dobrze | CHOO-ye sheh DOB-zheh | Feels good |
-| Jest zadowolona | yest za-do-vo-LO-na | Is satisfied/happy |
-| Tęskni za rodziną | TENK-snee za ro-JEE-noh | Misses family |
-| Uczy się polskiego | OO-chih sheh pol-SKYE-go | Is learning Polish |
+| Muszę już iść | MOO-sheh yoosh eeshch | I have to go now |
+| Pozdrowię żonę | poz-DRO-vyeh ZHO-neh | I'll say hi to my wife |
+| Miłego dnia | mee-WEH-go dnya | Have a nice day |
+| Do zobaczenia | do zo-ba-CHEN-ya | See you |
 
 ---
 
 ## Cultural Notes
 
-- **Curiosity is friendly**: In Poland, neighbors asking about your spouse is normal friendly interest, not intrusive.
-- **Work from home is new**: Remote work became more common after COVID. Poles often comment on its convenience.
-- **"Ciężka praca"**: Poles often acknowledge that staying home with children is hard work - it's a compliment!
-- **Language praise**: Poles will often compliment your wife's Polish even if it's basic. Accept graciously.
-- **Offering help**: Polish neighbors sometimes offer to help with job searches through their networks. This is genuine kindness.
-- **Seasons matter**: Poles love talking about weather and seasons. Winter being hard is a common bonding topic.
-
----
-
-## Common Questions About Spouses
-
-| Polish | Pronunciation | English |
-|--------|---------------|---------|
-| Żona pracuje? | ZHO-na pra-TSOO-ye | Does your wife work? |
-| Czym się zajmuje? | chim sheh zay-MOO-ye | What does she do? |
-| Jak jej się podoba? | yak yey sheh po-DO-ba | How does she like it? |
-| Mówi po polsku? | MOO-vee po POL-skoo | Does she speak Polish? |
-| Dawno tu mieszkacie? | DAV-no too myesh-KA-cheh | Have you lived here long? |
+- **Curiosity is normal**: Polish neighbors ask about spouses as friendly interest, not nosiness (usually).
+- **Work questions are sensitive**: Job hunting can feel shameful in Poland. Vague answers are fine.
+- **Gossip travels**: In apartment buildings, people talk. Don't be surprised if neighbors "heard" things.
+- **Defend gently**: Correcting misinformation is okay, but don't be aggressive.
+- **Privacy boundaries exist**: Even chatty Poles understand "długa historia" means "I don't want to discuss."
 
 ---
 
 ## Practice Variations
 
 ### Intermediate Version
-- Answer simply: "Tak, żona pracuje z domu."
-- Respond to liking Poland: "Tak, lubi tu mieszkać."
-- Close: "Dziękuję, do widzenia!"
+- Answer work question: "Pracuje z domu"
+- Deflect personal: "Długa historia"
+- Exit: "Muszę iść. Do widzenia!"
 
 ### Advanced Version
-- Give details: "Żona pracuje zdalnie dla amerykańskiej firmy. To wygodne, bo może być z córką po przedszkolu."
-- Discuss challenges: "Język jest trudny, ale uczy się. Zaczęła kurs polskiego w zeszłym miesiącu."
-- Share routine: "Ja odprowadzam córkę rano, a żona odbiera po południu. Tak nam się sprawdza."
+- Handle job gossip: "Szuka czegoś konkretnego, ma kilka opcji w tej chwili."
+- Correct misinformation: "Nie wiem skąd taka informacja, ale nieprawda - lubi tu mieszkać."
+- Deflect comparison: "U nas inaczej, każde małżeństwo jest inne."
 
 ---
 
 ## Next Steps
 
+**Similar Scenarios:**
 - [Neighbor Asking About Daughter]({{ '/scenarios/A2/social/neighbor-asking-about-daughter.html' | relative_url }}) - Questions about your child
+- [Handling Nosy Questions]({{ '/scenarios/A1/social/handling-nosy-questions.html' | relative_url }}) (A1) - General deflection
 - [Elevator Small Talk]({{ '/scenarios/A2/social/elevator-small-talk.html' | relative_url }}) - Weekend plans conversation
-- [Asking About Area]({{ '/scenarios/A2/social/neighbor-asking-about-area.html' | relative_url }}) - Getting recommendations from neighbors
+

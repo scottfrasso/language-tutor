@@ -1,106 +1,183 @@
 ---
 layout: scenario
-title: "Buying Bread at Auchan"
+title: "Checkout at Auchan - When Things Get Confusing"
 level: A1
 category: grocery-basics
-difficulty: 1
-vocabulary_count: 10
+difficulty: 2
+vocabulary_count: 15
 ---
 
-## Scenario: Buying Bread at Auchan
+## Scenario: Surviving the Checkout at Auchan
 
 ### Your Goal
-You need to buy a loaf of bread (chleb) at Auchan supermarket. You want to find it, pay for it, and leave successfully.
+You're at checkout with your groceries. The cashier will throw unexpected questions at you - about bags, loyalty cards, payment methods, and more. Learn to handle the rapid-fire Polish you'll actually hear.
 
 ### Setting
-You're at Auchan, a large hypermarket. You've found the bakery section with fresh bread. There are several types on display. You take one loaf and head to the checkout.
+You're at Auchan checkout. You've got bread (or whatever). The cashier is fast, maybe mumbles, and expects quick responses. This is where your Polish gets tested.
 
 ---
 
-## Dialogue Variations
+## The Basics (What You Always Need)
 
-### At the Checkout (Opening)
-
-**You approach the cashier and place your bread on the counter.**
-
-**Option 1 - Cashier greets first:**
+**Opening:**
 - **Cashier:** Dzień dobry! `(jen DOB-rih)` - Good day!
 - **You:** Dzień dobry. `(jen DOB-rih)` - Good day.
 
-**Option 2 - Cashier says nothing:**
-- **You:** Dzień dobry. `(jen DOB-rih)` - Good day.
-- **Cashier:** *nods or scans silently*
-
-**Option 3 - Friendly cashier:**
-- **Cashier:** Cześć! `(cheshch)` - Hi!
-- **You:** Cześć. `(cheshch)` - Hi.
-
----
-
-### Scanning and Price
-
-**The cashier scans your bread.**
-
-**Variation A - Standard:**
+**Price (if you catch it):**
 - **Cashier:** Pięć złotych. `(pyench ZWO-tih)` - Five złoty.
-- **You:** *Hand over 5 złoty or larger bill*
-
-**Variation B - With "that will be":**
-- **Cashier:** To będzie pięć złotych. `(to BEN-jeh pyench ZWO-tih)` - That will be five złoty.
 - **You:** Proszę. `(PRO-sheh)` - Here you go.
 
-**Variation C - Cashier asks about payment:**
-- **Cashier:** Karta czy gotówka? `(KAR-ta chih go-TOOF-ka)` - Card or cash?
-- **You:** Gotówka. `(go-TOOF-ka)` - Cash.
-  OR: Karta. `(KAR-ta)` - Card.
-
----
-
-### If You Need to Ask the Price
-
-**If the cashier doesn't say the price clearly:**
-
-**You:** Ile kosztuje? `(EE-leh kosh-TOO-yeh)` - How much does it cost?
-
-**Cashier's possible responses:**
-- **Response A:** Pięć złotych. `(pyench ZWO-tih)` - Five złoty.
-- **Response B:** Pięć. `(pyench)` - Five.
-- **Response C:** *Points to the register display showing 5,00 zł*
-
----
-
-### Payment
-
-**Paying with cash:**
-
-**You hand over money:**
-- **You:** Proszę. `(PRO-sheh)` - Here you go.
-- **Cashier:** Dziękuję. `(jen-KOO-yeh)` - Thank you.
-
-**If you need change:**
-- **Cashier:** I dwa złote reszty. `(ee dva ZWO-teh RESH-tih)` - And two złoty change.
-- **You:** Dziękuję. `(jen-KOO-yeh)` - Thank you.
-
-**Paying with card:**
-- **Cashier:** *Points to card terminal*
-- **Cashier:** Proszę. `(PRO-sheh)` - Please. *(go ahead)*
-- **You:** *Tap or insert card*
-
----
-
-### Closing
-
-**Variation 1 - Standard:**
+**Closing:**
 - **Cashier:** Do widzenia! `(do vee-JEN-ya)` - Goodbye!
 - **You:** Do widzenia! `(do vee-JEN-ya)` - Goodbye!
 
-**Variation 2 - Informal:**
-- **Cashier:** Pa pa! `(pa pa)` - Bye bye!
-- **You:** Pa pa! `(pa pa)` - Bye bye!
+---
 
-**Variation 3 - Polite wish:**
-- **Cashier:** Miłego dnia! `(mee-WEH-go dnya)` - Have a nice day!
-- **You:** Nawzajem! `(nav-ZA-yem)` - You too! / Likewise!
+## Complication 1: You Can't Understand the Price
+
+**The cashier mumbles or speaks fast. You have no idea what they said.**
+
+**Option A - Ask to repeat:**
+- **You:** Przepraszam? `(psheh-PRA-sham)` - Sorry? / Excuse me?
+- **Cashier:** *Repeats, maybe slower*
+
+**Option B - Say you don't understand:**
+- **You:** Nie rozumiem. `(nyeh ro-ZOO-myem)` - I don't understand.
+- **Cashier:** *Points to register display*
+
+**Option C - Just look at the screen:**
+- *Most registers show the price digitally - look for the number*
+- **You:** *Hand over money based on display*
+
+**What NOT to do:**
+- Don't panic and hand over a 200 zł bill for 5 zł of bread
+- Don't just walk away confused
+
+---
+
+## Complication 2: The Bag Question (Many Ways to Ask)
+
+**Cashiers ask about bags in MANY different ways. Here's what you might hear:**
+
+**Version 1 - Just the word:**
+- **Cashier:** Torba? `(TOR-ba)` - Bag?
+- **You:** Nie, dziękuję. `(nyeh, jen-KOO-yeh)` - No, thank you.
+  OR: Tak, poproszę. `(tak, po-PRO-sheh)` - Yes, please.
+
+**Version 2 - Different word for bag:**
+- **Cashier:** Reklamówka? `(rek-la-MOOV-ka)` - Plastic bag?
+- **Cashier:** Siatka? `(SHAT-ka)` - Bag/net bag?
+- *Same responses as above*
+
+**Version 3 - Full question:**
+- **Cashier:** Potrzebuje pan torbę? `(po-TSHEH-boo-ye pan TOR-beh)` - Do you need a bag?
+- **You:** Nie. `(nyeh)` - No.
+  OR: Tak. `(tak)` - Yes.
+
+**Version 4 - Size question (you said yes):**
+- **Cashier:** Dużą czy małą? `(DOO-zhoh chih MA-woh)` - Big or small?
+- **You:** Małą. `(MA-woh)` - Small.
+  OR: Dużą. `(DOO-zhoh)` - Big.
+  OR: *Hold up fingers for quantity*
+
+**If you don't understand the bag question:**
+- **You:** *Show your own bag* - Mam. `(mam)` - I have [one].
+- **You:** *Or just shake your head*
+
+---
+
+## Complication 3: Loyalty Card Confusion
+
+**Cashiers ask about store cards in many ways:**
+
+**Version 1 - Auchan's card:**
+- **Cashier:** Karta Skarbonka? `(KAR-ta skar-BON-ka)` - Skarbonka card?
+- **You:** Nie mam. `(nyeh mam)` - I don't have [one].
+
+**Version 2 - Generic:**
+- **Cashier:** Karta stałego klienta? `(KAR-ta STA-we-go klee-YEN-ta)` - Loyalty card?
+- **You:** Nie. `(nyeh)` - No.
+
+**Version 3 - Just "card?":**
+- **Cashier:** Karta? `(KAR-ta)` - Card?
+- *Careful! This might mean payment card OR loyalty card*
+- **If confused, say:** Jaka karta? `(YA-ka KAR-ta)` - What card?
+
+**Version 4 - App:**
+- **Cashier:** Aplikacja? `(ap-lee-KATS-ya)` - App?
+- **You:** Nie mam. `(nyeh mam)` - I don't have [it].
+
+**If they keep asking:**
+- **Cashier:** *Keeps pointing at something*
+- **You:** Nie, dziękuję. `(nyeh, jen-KOO-yeh)` - No, thank you.
+
+---
+
+## Complication 4: Payment Problems
+
+**Version 1 - They ask payment method:**
+- **Cashier:** Karta czy gotówka? `(KAR-ta chih go-TOOF-ka)` - Card or cash?
+- **You:** Karta. `(KAR-ta)` - Card.
+  OR: Gotówka. `(go-TOOF-ka)` - Cash.
+
+**Version 2 - Card terminal doesn't work:**
+- **Cashier:** Terminal nie działa. `(ter-mee-NAL nyeh JA-wa)` - Terminal not working.
+- **Cashier:** Tylko gotówka. `(TIL-ko go-TOOF-ka)` - Cash only.
+- **You if you have cash:** Dobrze. `(DOB-zheh)` - Okay.
+- **You if no cash:** Nie mam gotówki. `(nyeh mam go-TOOF-kee)` - I don't have cash.
+  *You may need to leave items or find ATM*
+
+**Version 3 - Contactless doesn't work:**
+- **Cashier:** Proszę włożyć. `(PRO-sheh VWO-zhich)` - Please insert [the card].
+- **You:** *Insert card instead of tapping*
+
+**Version 4 - They want exact change:**
+- **Cashier:** Drobne? `(DROB-ne)` - Small change?
+- **Cashier:** Ma pan drobne? `(ma pan DROB-ne)` - Do you have small change?
+- **You if yes:** Tak. `(tak)` - Yes. *Give coins*
+- **You if no:** Nie mam. `(nyeh mam)` - I don't have [any].
+
+---
+
+## Complication 5: Rapid-Fire Questions
+
+**Sometimes the cashier asks multiple things at once. You hear a stream of Polish. What to do:**
+
+**Example barrage:**
+- **Cashier:** "Dzień dobry torba karta płatność?" *(said as one continuous sound)*
+
+**Your survival strategies:**
+
+**Strategy 1 - Ask for one thing at a time:**
+- **You:** Przepraszam, wolniej proszę. `(psheh-PRA-sham, VOL-nyey PRO-sheh)` - Sorry, slower please.
+
+**Strategy 2 - Answer what you understood:**
+- *If you caught "torba" - answer about bag*
+- **You:** Nie, dziękuję. `(nyeh, jen-KOO-yeh)` - No, thank you.
+- *They'll move to next question*
+
+**Strategy 3 - The universal fallback:**
+- **You:** Nie rozumiem. `(nyeh ro-ZOO-myem)` - I don't understand.
+- *Cashier will slow down or switch to gestures*
+
+---
+
+## Complication 6: They Said Something You Didn't Expect
+
+**Random things cashiers might say:**
+
+**"Receipt?":**
+- **Cashier:** Paragon? `(pa-RA-gon)` - Receipt?
+- **You:** Tak. `(tak)` - Yes.
+  OR: Nie. `(nyeh)` - No.
+
+**"Do you have [store] card?" (wrong store):**
+- **Cashier:** *Mentions a card you don't recognize*
+- **You:** Nie mam. `(nyeh mam)` - I don't have [one].
+
+**Something completely unintelligible:**
+- **You:** *Smile, shake head, say* Nie rozumiem. `(nyeh ro-ZOO-myem)`
+- *Most cashiers will give up or use gestures*
 
 ---
 
@@ -108,88 +185,59 @@ You're at Auchan, a large hypermarket. You've found the bakery section with fres
 
 | Polish | Pronunciation | English |
 |--------|---------------|---------|
-| Dzień dobry | jen DOB-rih | Good day / Hello |
-| Cześć | cheshch | Hi / Bye (informal) |
-| Chleb | hleb | Bread |
-| Ile kosztuje? | EE-leh kosh-TOO-yeh | How much does it cost? |
-| Pięć złotych | pyench ZWO-tih | Five złoty |
-| Proszę | PRO-sheh | Please / Here you go / You're welcome |
-| Dziękuję | jen-KOO-yeh | Thank you |
+| Przepraszam | psheh-PRA-sham | Sorry / Excuse me |
+| Nie rozumiem | nyeh ro-ZOO-myem | I don't understand |
+| Wolniej proszę | VOL-nyey PRO-sheh | Slower please |
+| Torba / Reklamówka / Siatka | TOR-ba / rek-la-MOOV-ka / SHAT-ka | Bag (various words) |
+| Duża / Mała | DOO-zha / MA-wa | Big / Small |
 | Karta | KAR-ta | Card |
 | Gotówka | go-TOOF-ka | Cash |
-| Do widzenia | do vee-JEN-ya | Goodbye |
+| Drobne | DROB-ne | Small change |
+| Nie mam | nyeh mam | I don't have |
+| Paragon | pa-RA-gon | Receipt |
 
 ---
 
 ## Pronunciation Tips
 
-1. **"Dzień dobry"**: The "dz" sounds like the "j" in "jeans". Don't say "deen", say "jen"
-2. **"Złotych"**: The "ł" is like English "w". Say "ZWO-tih" not "zlo-tih"
-3. **"Chleb"**: Start with a throat-clearing "kh" sound, then "leb"
-4. **"Dziękuję"**: Three syllables: jen-KOO-yeh. Don't forget the "jen" at the start
-5. **"Proszę"**: The "sz" is like "sh", and stress the middle: pro-PRO-sheh
+1. **"Przepraszam"**: psheh-PRA-sham (4 syllables, stress on PRA)
+2. **"Nie rozumiem"**: nyeh ro-ZOO-myem (stress on ZOO)
+3. **"Reklamówka"**: rek-la-MOOV-ka (the "ów" sounds like "oof")
+4. **"Drobne"**: DROB-ne (2 syllables, rhymes with "lob-neh")
 
 ---
 
 ## Cultural Notes
 
-- **Greeting in large stores**: At big supermarkets like Auchan, some cashiers greet customers, some don't. Both are normal.
-- **Dzień dobry vs Cześć**: "Dzień dobry" is more formal and used most often in stores. "Cześć" is informal and you'll only hear it from younger, friendly cashiers.
-- **Card vs Cash**: Both are widely accepted in Poland. You can ask "Czy mogę kartą?" (Can I pay by card?) but it's almost always accepted.
-- **Saying goodbye**: Always acknowledge with "Do widzenia" or "Pa pa" when leaving - it's polite.
-- **The register display**: Most modern registers show the price digitally, so you can read it even if you didn't understand the spoken amount.
-
----
-
-## Common Complications
-
-**What if they say something you don't understand?**
-
-- **You:** Przepraszam? `(psheh-PRA-sham)` - Excuse me? / Sorry? *(polite way to ask for repetition)*
-- **You:** Nie rozumiem. `(nyeh ro-ZOO-myem)` - I don't understand.
-- **Cashier:** *Usually repeats slower or points to the register display*
-
-**What if you don't have exact change?**
-
-- **You:** *Hand over a larger bill (e.g., 10 or 20 złoty)*
-- **Cashier:** *Gives you change without comment*
-- This is completely normal!
-
-**What if they ask about a loyalty card?**
-
-- **Cashier:** Karta Moja Klubowa? `(KAR-ta MO-ya kloo-BO-va)` - Your club card?
-- **You:** Nie mam. `(nyeh mam)` - I don't have [one].
-  OR: Nie, dziękuję. `(nyeh, jen-KOO-yeh)` - No, thank you.
+- **Cashiers are fast**: Polish cashiers work quickly. This is normal, not rude.
+- **They're not angry**: What sounds brusque is just efficient. Don't take it personally.
+- **Bag words vary**: Different regions and stores use different words for bags.
+- **"Nie rozumiem" is magic**: Saying "I don't understand" in Polish earns you patience.
+- **Watch the screen**: The register display is your friend when you can't understand spoken numbers.
+- **Exact change culture**: Poles often ask for exact change. "Nie mam" is a perfectly fine answer.
 
 ---
 
 ## Practice Variations
 
-### Easiest Version (Absolute Beginner)
-Just memorize and use:
-- **You:** "Dzień dobry"
-- **You:** *place bread on counter*
-- **You:** *pay when they tell you the price*
-- **You:** "Dziękuję, do widzenia"
+### Easiest (Absolute Beginner)
+Memorize just these three responses:
+1. Nie, dziękuję. (for any question you don't want)
+2. Nie mam. (for any card/item you don't have)
+3. Nie rozumiem. (when completely lost)
 
-You don't need to say anything else for a successful transaction!
-
-### Challenge Version (A1 Advanced)
-- Ask the price yourself: "Ile kosztuje?"
-- Specify payment method before they ask: "Mogę kartą?" (Can I pay by card?)
-- Respond to "Miłego dnia" with "Nawzajem" (Likewise)
+### Challenge Version
+- Catch the bag question and specify size: "Małą poproszę"
+- Ask for the price to be repeated: "Przepraszam, ile?"
+- Request slower speech: "Wolniej proszę"
 
 ---
 
 ## Next Steps
 
 **Similar Scenarios:**
-- [Asking Prices at Auchan]({{ '/scenarios/A1/grocery-basics/auchan-asking-prices.html' | relative_url }}) - Practice asking "Ile kosztuje?"
-- [Shopping List at Kaufland]({{ '/scenarios/A1/grocery-basics/kaufland-shopping-list.html' | relative_url }}) - Buying multiple items
+- [Checkout Complications]({{ '/scenarios/A1/grocery-basics/checkout-complications.html' | relative_url }}) - Card declined, security tags, more chaos
+- [Kaufland Shopping List]({{ '/scenarios/A1/grocery-basics/kaufland-shopping-list.html' | relative_url }}) - Multiple items checkout
 
 **Progression:**
-- [Handling Upsells at Auchan]({{ '/scenarios/A2/grocery-intermediate/auchan-handling-upsell.html' | relative_url }}) (A2) - Responding to loyalty card offers
-- [Dietary Needs at Kaufland]({{ '/scenarios/A2/grocery-intermediate/kaufland-dietary-needs.html' | relative_url }}) (A2) - Asking about ingredients
-
-**Different Setting:**
-- [Buying Bread at Piekarnia]({{ '/scenarios/A1/specialty-shops/piekarnia-buying-bread.html' | relative_url }}) - More interaction, smaller shop
+- [Handling Upsells at Auchan]({{ '/scenarios/A2/grocery-intermediate/auchan-handling-upsell.html' | relative_url }}) (A2) - When they really push the loyalty card

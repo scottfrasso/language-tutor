@@ -1,86 +1,149 @@
 ---
 layout: scenario
-title: "Buying Basic Medicine at Apteka"
+title: "Apteka - When Buying Medicine Gets Complicated"
 level: A1
 category: specialty-shops
 difficulty: 2
-vocabulary_count: 10
+vocabulary_count: 14
 ---
 
-## Scenario: Buying Basic Medicine at Apteka
+## Scenario: Buying Medicine When Things Go Wrong
 
 ### Your Goal
-You need to buy paracetamol (pain/fever medicine) from a pharmacy (apteka). You know what you want by name.
+You need medicine from the apteka (pharmacy). But: the pharmacist might not understand your pronunciation, they might ask questions you don't expect, or they might not have what you want. Learn to handle these situations.
 
 ### Setting
-You're at a local apteka. There's a pharmacist behind the counter. In Poland, even basic medicines are sold by the pharmacist, not from shelves.
+You're at an apteka. Everything is behind the counter - you can't grab it yourself. You have to ask the pharmacist for what you need.
 
 ---
 
-## Dialogue
+## The Basic Request
 
-### Opening
+**You:** Dzień dobry. Poproszę paracetamol. `(jen DOB-rih. po-PRO-sheh pa-ra-tse-TA-mol)` - Good day. I'd like paracetamol.
 
-**Pharmacist:** Dzień dobry. `(jen DOB-rih)` - Good day.
-
-**You:** Dzień dobry. `(jen DOB-rih)` - Good day.
-
----
-
-### Asking for Medicine
-
-**You:** Poproszę paracetamol. `(po-PRO-sheh pa-ra-tse-TA-mol)` - I'd like paracetamol, please.
-
-**Alternative medicines:**
-- **You:** Poproszę aspirynę. `(po-PRO-sheh as-pee-RIH-neh)` - I'd like aspirin, please.
-- **You:** Poproszę witaminy. `(po-PRO-sheh vee-ta-MEE-nih)` - I'd like vitamins, please.
-- **You:** Poproszę plastry. `(po-PRO-sheh PLAS-trih)` - I'd like band-aids, please.
+**Other common medicines:**
+- Poproszę aspirynę. `(po-PRO-sheh as-pee-RIH-neh)` - I'd like aspirin.
+- Poproszę ibuprom. `(po-PRO-sheh ee-BOO-prom)` - I'd like ibuprofen.
 
 ---
 
-### Pharmacist's Responses
+## Complication 1: They Don't Understand the Medicine Name
 
-**Response A - Which kind:**
-- **Pharmacist:** Jaki paracetamol? Tabletki czy syrop? `(YA-kee pa-ra-tse-TA-mol? tab-LET-kee chih SIH-rop)` - What kind of paracetamol? Tablets or syrup?
-- **You:** Tabletki. `(tab-LET-kee)` - Tablets.
+**Your pronunciation doesn't land.**
 
-**Response B - How many:**
-- **Pharmacist:** Ile opakowań? `(EE-leh o-pa-KO-van)` - How many packages?
-- **You:** Jedno. `(YED-no)` - One.
-  OR: Dwa. `(dva)` - Two.
+**Pharmacist:** Co proszę? `(tso PRO-sheh)` - What, please?
+**Pharmacist:** Nie rozumiem. `(nyeh ro-ZOO-myem)` - I don't understand.
+**Pharmacist:** Jak to się pisze? `(yak to sheh PEE-sheh)` - How is it spelled?
 
-**Response C - Shows you options:**
-- **Pharmacist:** Mamy to i to. `(MA-mih to ee to)` - We have this and this. *(shows two brands)*
-- **You:** To, poproszę. `(to, po-PRO-sheh)` - This one, please. *(point)*
+**Your options:**
 
-**Response D - Without prescription?:**
-- **Pharmacist:** Bez recepty? `(bez re-TSEP-tih)` - Without a prescription?
+**Option A - Try again slowly:**
+- **You:** Pa-ra-ce-ta-mol. `(pa-ra-tse-TA-mol)` - *Say each syllable clearly*
+
+**Option B - Show your phone:**
+- **You:** *Show the word on your phone screen*
+- **You:** *Show a picture of the medicine box*
+
+**Option C - Describe what it's for:**
+- **You:** Na ból głowy. `(na bool GWO-vih)` - For headache.
+- **You:** Na gorączkę. `(na go-RONCH-keh)` - For fever.
+- **Pharmacist:** *Usually figures it out*
+
+---
+
+## Complication 2: They Ask What Form
+
+**Pharmacist:** Tabletki czy syrop? `(tab-LET-kee chih SIH-rop)` - Tablets or syrup?
+**Pharmacist:** Jaką formę? `(YA-koh FOR-meh)` - What form?
+
+**If you didn't understand:**
+
+**Option A - Ask to repeat:**
+- **You:** Przepraszam? `(psheh-PRA-sham)` - Sorry?
+
+**Option B - Say what you prefer:**
+- **You:** Tabletki. `(tab-LET-kee)` - Tablets. *most common*
+- **You:** Syrop. `(SIH-rop)` - Syrup.
+
+**Option C - Ask what they recommend:**
+- **You:** Co polecacie? `(tso po-le-TSA-cheh)` - What do you recommend?
+
+---
+
+## Complication 3: Unexpected Questions
+
+**Pharmacist:** Czy jest pan/pani uczulony/a na coś? `(chih yest pan/PA-nee oo-choo-LO-nih/na na tsosh)` - Are you allergic to anything?
+
+**Your options:**
+- **You:** Nie. `(nyeh)` - No.
+- **You:** Nie wiem. `(nyeh vyem)` - I don't know.
+- **You:** Tak, na aspirynę. `(tak, na as-pee-RIH-neh)` - Yes, to aspirin.
+
+**Pharmacist:** Czy bierze pan/pani inne leki? `(chih BYEH-zheh pan/PA-nee EEN-ne LE-kee)` - Are you taking other medicines?
+
+**Your options:**
+- **You:** Nie. `(nyeh)` - No.
 - **You:** Tak. `(tak)` - Yes.
+- **You:** Nie rozumiem pytania. `(nyeh ro-ZOO-myem pih-TA-nya)` - I don't understand the question.
 
 ---
 
-### Payment
+## Complication 4: They Don't Have It
 
-**Pharmacist:** Dwanaście złotych. `(dva-NASH-cheh ZWO-tih)` - Twelve złoty.
+**Pharmacist:** Nie mamy. `(nyeh MA-mih)` - We don't have it.
+**Pharmacist:** Skończyło się. `(skon-CHI-wo sheh)` - It's sold out.
 
-**You:** Proszę. `(PRO-sheh)` - Here you go.
+**Your options:**
 
-**Pharmacist:** Dziękuję. Paragon? `(jen-KOO-yeh. pa-RA-gon)` - Thank you. Receipt?
+**Option A - Ask for alternative:**
+- **You:** Jest coś podobnego? `(yest tsosh po-DOB-ne-go)` - Is there something similar?
 
-**You:** Tak, poproszę. `(tak, po-PRO-sheh)` - Yes, please.
-  OR: Nie, dziękuję. `(nyeh, jen-KOO-yeh)` - No, thank you.
+**Option B - Ask when:**
+- **You:** Kiedy będzie? `(KYEH-dih BEN-jeh)` - When will it be [available]?
+
+**Option C - Ask where else:**
+- **You:** Gdzie jest najbliższa apteka? `(gjeh yest nay-BLEEZH-sha ap-TE-ka)` - Where is the nearest pharmacy?
 
 ---
 
-### Closing
+## Complication 5: It Needs a Prescription
 
-**Pharmacist:** Do widzenia. `(do vee-JEN-ya)` - Goodbye.
+**Pharmacist:** To jest na receptę. `(to yest na re-TSEP-teh)` - This requires a prescription.
+**Pharmacist:** Ma pan/pani receptę? `(ma pan/PA-nee re-TSEP-teh)` - Do you have a prescription?
 
-**You:** Do widzenia. `(do vee-JEN-ya)` - Goodbye.
+**If you don't have one:**
+- **You:** Nie mam. `(nyeh mam)` - I don't have one.
+- **You:** Jest coś bez recepty? `(yest tsosh bez re-TSEP-tih)` - Is there something without prescription?
 
-**Alternative:**
-- **Pharmacist:** Proszę się dobrze czuć. `(PRO-sheh sheh DOB-zheh chooch)` - Feel better. *(lit: Please feel well)*
-- **You:** Dziękuję. `(jen-KOO-yeh)` - Thank you.
+**Pharmacist will usually offer OTC alternative.**
+
+---
+
+## Complication 6: The Price Is Surprising
+
+**Pharmacist:** Osiemdziesiąt złotych. `(o-shem-JEH-shont ZWO-tih)` - Eighty złoty.
+**You:** *Didn't expect that much*
+
+**Your options:**
+
+**Option A - Ask for cheaper:**
+- **You:** Jest coś tańszego? `(yest tsosh TAN-she-go)` - Is there something cheaper?
+
+**Option B - Decline:**
+- **You:** To za drogo. Dziękuję. `(to za DRO-go. jen-KOO-yeh)` - That's too expensive. Thanks.
+
+**Option C - Accept it:**
+- **You:** Dobrze. `(DOB-zheh)` - Okay.
+
+---
+
+## Complication 7: They Offer Brand Options
+
+**Pharmacist:** Mamy oryginalny albo zamiennik. `(MA-mih o-rih-gee-NAL-nih AL-bo za-MYEN-neek)` - We have original or generic.
+
+**If you don't understand:**
+- **You:** Który tańszy? `(KTOO-rih TAN-shih)` - Which is cheaper?
+- **You:** Ten tańszy. `(ten TAN-shih)` - The cheaper one.
 
 ---
 
@@ -89,70 +152,38 @@ You're at a local apteka. There's a pharmacist behind the counter. In Poland, ev
 | Polish | Pronunciation | English |
 |--------|---------------|---------|
 | Apteka | ap-TE-ka | Pharmacy |
-| Poproszę | po-PRO-sheh | I'd like / Please |
-| Paracetamol | pa-ra-tse-TA-mol | Paracetamol (Tylenol) |
+| Poproszę | po-PRO-sheh | I'd like |
 | Tabletki | tab-LET-kee | Tablets |
 | Syrop | SIH-rop | Syrup |
+| Na ból głowy | na bool GWO-vih | For headache |
+| Na gorączkę | na go-RONCH-keh | For fever |
 | Recepta | re-TSEP-ta | Prescription |
 | Bez recepty | bez re-TSEP-tih | Without prescription |
-| Paragon | pa-RA-gon | Receipt |
-| Dziękuję | jen-KOO-yeh | Thank you |
-| Do widzenia | do vee-JEN-ya | Goodbye |
+| Uczulony | oo-choo-LO-nih | Allergic |
+| Zamiennik | za-MYEN-neek | Generic (medicine) |
 
 ---
 
-## Common Medicines (Over-the-Counter)
+## Common Medicines
 
 | Polish | Pronunciation | English |
 |--------|---------------|---------|
-| Paracetamol | pa-ra-tse-TA-mol | Paracetamol |
+| Paracetamol | pa-ra-tse-TA-mol | Paracetamol/Tylenol |
 | Aspiryna | as-pee-RIH-na | Aspirin |
-| Ibuprom / Ibuprofen | ee-boo-PROM / ee-boo-pro-FEN | Ibuprofen |
+| Ibuprom | ee-BOO-prom | Ibuprofen |
 | Witamina C | vee-ta-MEE-na tse | Vitamin C |
 | Plastry | PLAS-trih | Band-aids |
 | Krople do nosa | KROP-leh do NO-sa | Nose drops |
-| Syrop na kaszel | SIH-rop na KA-shel | Cough syrup |
-| Maść | mashch | Ointment |
-
----
-
-## Pronunciation Tips
-
-1. **"Apteka"**: ap-TE-ka. Stress on TE
-2. **"Paracetamol"**: pa-ra-tse-TA-mol. Say it clearly for the pharmacist
-3. **"Recepta"**: re-TSEP-ta. Important word!
-4. **"Tabletki"**: tab-LET-kee. The double "t" is important
 
 ---
 
 ## Cultural Notes
 
-- **Behind the counter**: In Poland, most medicines (even simple ones) are behind the counter. You can't grab them yourself - you must ask the pharmacist.
-- **Pharmacists are helpful**: They're trained professionals and can recommend medicines if you describe symptoms (though this is A2 level).
-- **Receipt for insurance**: If you have Polish health insurance, keep the receipt (paragon) - you might be able to get reimbursement.
-- **24-hour pharmacies**: Look for "Apteka Dyżurna" for after-hours pharmacy service.
-- **Green cross**: Pharmacies are marked with a green cross (like the rest of Europe).
-
----
-
-## Common Complications
-
-**What if they don't have it?**
-
-- **Pharmacist:** Nie mamy. `(nyeh MA-mih)` - We don't have [it].
-- **Pharmacist:** Mogę zamówić. `(MO-geh za-MOO-veech)` - I can order [it].
-- **You:** Kiedy będzie? `(KYEH-dih BEN-jeh)` - When will it be [here]?
-
-**What if they ask about allergies?**
-
-- **Pharmacist:** Czy jest pani/pan uczulony na coś? `(chih yest PA-nee/pan oo-choo-LO-nih na tsosh)` - Are you allergic to anything?
-- **You:** Nie. `(nyeh)` - No.
-  OR: Tak, na aspirynę. `(tak, na as-pee-RIH-neh)` - Yes, to aspirin.
-
-**What if you forgot the medicine name?**
-
-- Show a picture on your phone
-- Try describing in simple Polish: "Na ból głowy" (For headache)
+- **Everything behind counter**: Even simple medicines are behind the counter in Poland. You must ask the pharmacist.
+- **Pharmacists give advice**: They're trained to recommend medicines. Don't hesitate to describe symptoms.
+- **Generics are common**: "Zamiennik" (generic) is usually much cheaper and works the same.
+- **24-hour pharmacies**: Look for "Apteka Dyżurna" if you need medicine at night.
+- **Green cross**: Pharmacies are marked with a green cross sign.
 
 ---
 
@@ -160,18 +191,19 @@ You're at a local apteka. There's a pharmacist behind the counter. In Poland, ev
 
 ### Easiest Version
 - "Dzień dobry"
-- "Poproszę paracetamol"
-- "Dziękuję, do widzenia"
+- "Poproszę paracetamol" (or show phone with word)
+- If they ask questions you don't understand: "Nie rozumiem"
+- Pay, say "Dziękuję"
 
 ### Challenge Version
-- Specify: "Tabletki, poproszę" (Tablets, please)
-- If asked about prescription: "Bez recepty" (Without prescription)
-- Ask: "Ile to kosztuje?" (How much is it?)
+- Specify form: "Tabletki, poproszę"
+- Answer allergy question: "Nie, nie jestem uczulony"
+- Ask for cheaper: "Jest coś tańszego?"
 
 ---
 
 ## Next Steps
 
 **Similar Scenarios:**
-- [Buying at Cukiernia]({{ '/scenarios/A1/specialty-shops/cukiernia-ordering-pastry.html' | relative_url }}) - Similar asking and ordering
 - [Describing Symptoms at Apteka]({{ '/scenarios/A2/specialty-shops/apteka-describing-symptoms.html' | relative_url }}) (A2) - When you don't know the medicine name
+- [Cold Medicine for Yourself]({{ '/scenarios/A2/specialty-shops/apteka-cold-medicine-self.html' | relative_url }}) (A2) - Stuffy nose, cough, sore throat

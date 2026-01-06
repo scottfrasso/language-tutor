@@ -5,64 +5,65 @@ title: A2 Level Scenarios
 
 # A2 Level - Elementary Polish Scenarios
 
-Welcome to A2 level! These scenarios use expanded vocabulary (15-25 words) and more complex interactions. You'll handle problems, negotiate, and have extended conversations.
+Welcome to A2 level! These scenarios focus on **handling serious complications** with expanded vocabulary (15-25 words). You'll deal with angry neighbors, system failures, personal boundary violations, and extended problems.
 
 ## What is A2?
 
 - **Vocabulary**: 15-25 words per scenario
 - **Grammar**: Past/future tense, conditional requests, multiple cases
-- **Interactions**: 5-8 exchanges with complications
-- **Goals**: Multiple objectives, problem-solving, handling unexpected responses
+- **Interactions**: 5-8 exchanges with multiple complications
+- **Goals**: Navigate complex problems, set boundaries, escape awkward situations
 
 ---
 
-## Grocery Intermediate (4 scenarios)
+## Grocery Intermediate (5 scenarios)
 
-Navigate more complex shopping situations with questions and preferences.
+Handle upsell pressure, dietary confusion, negotiation tension, and machine failures.
 
-- [Asking Recommendations at Auchan](grocery-intermediate/auchan-recommendations.html) - Which product is better?
-- [Handling Upsell at Auchan](grocery-intermediate/auchan-handling-upsell.html) - Declining loyalty cards politely
-- [Dietary Needs at Kaufland](grocery-intermediate/kaufland-dietary-needs.html) - Gluten-free, vegan, allergens
-- [Negotiating at Farmers Market](grocery-intermediate/farmers-market-negotiating.html) - Getting better prices
-
----
-
-## Specialty Shops Intermediate (8 scenarios)
-
-Order ahead, describe problems, and handle more complex transactions.
-
-- [Special Order at Piekarnia](specialty-shops/piekarnia-special-order.html) ⭐ - Ordering bread for party
-- [Custom Cake at Cukiernia](specialty-shops/cukiernia-custom-cake.html) - Describing what you want
-- [Describing Symptoms at Apteka](specialty-shops/apteka-describing-symptoms.html) - When you don't know medicine name
-- [Digestive Medicine at Apteka](specialty-shops/apteka-digestive-medicine.html) - Lactocontrol, simethicone, bloating
-- [Cold Medicine for Yourself](specialty-shops/apteka-cold-medicine-self.html) - Cough, stuffy nose, cold symptoms
-- [Medicine for Sick Daughter](specialty-shops/apteka-medicine-for-daughter.html) - Children's medicine and dosing
-- [Comparing Vendors at Farmers Market](specialty-shops/farmers-market-multiple-stalls.html) - Shopping at multiple stalls
-- [TEMPLATE-A2](specialty-shops/TEMPLATE-A2.html) - Create your own scenario
+- [Asking Recommendations at Auchan](grocery-intermediate/auchan-recommendations.html) - When help isn't helpful
+- [Handling Upsell at Auchan](grocery-intermediate/auchan-handling-upsell.html) - When they won't take no for an answer
+- [Dietary Needs at Kaufland](grocery-intermediate/kaufland-dietary-needs.html) - When they don't understand gluten-free
+- [Negotiating at Farmers Market](grocery-intermediate/farmers-market-negotiating.html) - When negotiations get tense
+- [Self-Checkout Problems](grocery-intermediate/self-checkout-problems.html) ⭐ - When the machine hates you
 
 ---
 
-## Social Intermediate (7 scenarios)
+## Specialty Shops Intermediate (7 scenarios)
 
-Extended conversations, handling problems, and building relationships.
+Handle order mistakes, medical communication breakdowns, and prescription surprises.
 
-- [Small Talk in Elevator](social/elevator-small-talk.html) - Weekend plans conversation
-- [Package Delivery Mix-up](social/neighbor-package-delivery.html) - Returning misdelivered package
-- [Asking About Area](social/neighbor-asking-about-area.html) - Getting recommendations for services
-- [Noise Apology](social/neighbor-noise-apology.html) - Apologizing proactively
-- [Neighbor Asking About Daughter](social/neighbor-asking-about-daughter.html) - Questions about your child's age, preschool
-- [Daughter Home Sick](social/neighbor-daughter-home-sick.html) - Explaining why she's not at preschool
-- [Small Talk About Wife](social/neighbor-asking-about-wife.html) - Questions about your spouse
+- [Special Order at Piekarnia](specialty-shops/piekarnia-special-order.html) ⭐ - When orders go wrong
+- [Custom Cake at Cukiernia](specialty-shops/cukiernia-custom-cake.html) - Wrong inscription, unexpected price
+- [Describing Symptoms at Apteka](specialty-shops/apteka-describing-symptoms.html) - Communication breakdowns
+- [Digestive Medicine at Apteka](specialty-shops/apteka-digestive-medicine.html) - When buying gets complicated
+- [Cold Medicine for Yourself](specialty-shops/apteka-cold-medicine-self.html) - Too many options, confusing questions
+- [Medicine for Sick Daughter](specialty-shops/apteka-medicine-for-daughter.html) - Children's dosage confusion
+- [Comparing Vendors at Farmers Market](specialty-shops/farmers-market-multiple-stalls.html) - When comparing gets awkward
+
+---
+
+## Social Intermediate (8 scenarios)
+
+Handle angry neighbors, intrusive questions, gossip, and conversational escape.
+
+- [Small Talk in Elevator](social/elevator-small-talk.html) - When conversations get awkward
+- [Package Delivery Mix-up](social/neighbor-package-delivery.html) - Blame, damage, and confusion
+- [Asking About Area](social/neighbor-asking-about-area.html) - When help isn't helpful
+- [Noise Apology](social/neighbor-noise-apology.html) - When they're actually angry
+- [Neighbor Asking About Daughter](social/neighbor-asking-about-daughter.html) - Too personal questions
+- [Daughter Home Sick](social/neighbor-daughter-home-sick.html) - Unsolicited medical advice
+- [Small Talk About Wife](social/neighbor-asking-about-wife.html) - Awkward personal questions
+- [Ending Awkward Conversations](social/ending-awkward-conversations.html) ⭐ - Escape strategies
 
 ---
 
 ## Tips for A2 Learners
 
-1. **Build on A1**: You should be comfortable with A1 before starting A2
-2. **Handle complications**: A2 scenarios include problems - practice how to respond
-3. **Use connectors**: "Ale" (but), "Więc" (so), "Bo" (because)
-4. **Ask follow-up questions**: Don't just answer, engage in conversation
-5. **Cultural awareness**: Pay attention to cultural notes - they matter more at A2
+1. **Complications are the MAIN content**: Every scenario focuses on what to do when things go wrong
+2. **Have exit strategies**: Learn phrases like "Muszę iść" (I have to go) and "Przepraszam że przerywam" (Sorry to interrupt)
+3. **Set boundaries politely**: "Dziękuję za troskę" (Thanks for the concern) ends discussions gracefully
+4. **Don't justify**: You don't owe explanations for personal decisions
+5. **Cultural awareness**: Pay attention to cultural notes - they help you navigate Polish expectations
 
 ---
 
@@ -79,3 +80,4 @@ Once you're comfortable with A2, you're ready for everyday life in Poland! Consi
 ## Need review?
 
 If A2 feels too difficult, go back to [A1 Level]({{ '/scenarios/A1/index.html' | relative_url }}) and build your foundation!
+

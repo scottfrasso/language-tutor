@@ -1,75 +1,182 @@
 ---
 layout: scenario
-title: "Negotiating at Farmers Market"
+title: "Farmers Market Negotiating - When Things Get Tense"
 level: A2
 category: grocery-intermediate
 difficulty: 4
-vocabulary_count: 19
+vocabulary_count: 20
 ---
 
-## Scenario: Negotiating Price at Farmers Market
+## Scenario: Market Negotiations That Don't Go Smoothly
 
 ### Your Goal
-You want to buy strawberries in bulk and try to get a better price. You'll negotiate politely with the vendor.
+You're at a Polish farmers market (targ). You might try to negotiate and offend the vendor, discover they only take cash when you don't have any, notice bad fruit in your bag, or face other complications.
 
 ### Setting
-You're at the farmers market. A vendor has beautiful strawberries. You want to buy several kilos.
+Outdoor farmers market. Multiple vendors with produce. Cash only environment. Vendors range from friendly to gruff.
 
 ---
 
-## Dialogue
+## Complication 1: Vendor Gets Offended at Negotiation
 
-### Opening
+**You tried to negotiate. They took it badly.**
 
-**Vendor:** Dzień dobry! Proszę, proszę! `(jen DOB-rih! PRO-sheh, PRO-sheh)` - Good day! Please, please! *(inviting you to look)*
+**You:** Może taniej? `(MO-zheh TA-nyey)` - Maybe cheaper?
 
-**You:** Dzień dobry. Ile kosztują truskawki? `(jen DOB-rih. EE-leh kosh-TOO-yong troos-KAF-kee)` - Good day. How much are the strawberries?
+**Vendor (offended):** To jest dobra cena! `(to yest DOB-ra TSE-na)` - This is a good price!
+**Vendor:** Nie handluję się! `(nyeh han-DLOO-yeh sheh)` - I don't bargain!
+**Vendor:** Jak nie pasuje, to proszę gdzie indziej. `(yak nyeh pa-SOO-yeh, to PRO-sheh gjeh EEN-jey)` - If you don't like it, go somewhere else.
+
+**Your recovery options:**
+
+**Option A - Apologize and buy anyway:**
+- **You:** Przepraszam. Dobrze, wezmę. `(psheh-PRA-sham. DOB-zheh, VEZ-meh)` - Sorry. Okay, I'll take it.
+
+**Option B - Leave politely:**
+- **You:** Przepraszam. Dziękuję. `(psheh-PRA-sham. jen-KOO-yeh)` - Sorry. Thank you.
+- *Walk away*
+
+**Option C - Explain yourself:**
+- **You:** Przepraszam, nie wiedziałem/am. `(psheh-PRA-sham, nyeh vyeh-JAW-em/am)` - Sorry, I didn't know. *(m/f)*
 
 ---
 
-### Asking About Price
+## Complication 2: Cash Only - You Don't Have Enough
 
-**Vendor:** Dwadzieścia złotych za kilogram. `(dva-JESH-cha ZWO-tih za kee-lo-GRAM)` - Twenty złoty per kilogram.
+**You're ready to pay. It's cash only. You don't have enough.**
+
+**Vendor:** Tylko gotówka. `(TIL-ko go-TOOF-ka)` - Cash only.
+
+**You check your wallet. Not enough cash.**
+
+**Your options:**
+
+**Option A - Ask for ATM:**
+- **You:** Gdzie jest bankomat? `(gjeh yest ban-KO-mat)` - Where is an ATM?
+- *Come back with cash*
+
+**Option B - Buy less:**
+- **You:** Ile mam? `(EE-leh mam)` - How much do I have? *count money*
+- **You:** Mniej, poproszę. `(mnyey, po-PRO-sheh)` - Less, please.
+
+**Option C - Ask if card possible:**
+- **You:** Może karta? `(MO-zheh KAR-ta)` - Maybe card?
+- **Vendor:** Nie. Tylko gotówka. `(nyeh. TIL-ko go-TOOF-ka)` - No. Cash only.
 
 ---
 
-### Negotiating
+## Complication 3: Large Bill, No Change
 
-**Option A - Asking for discount on bulk:**
-- **You:** Wezmę trzy kilo. Może zniżka? `(VEZ-meh tshih KEE-lo. MO-zheh ZNEEZH-ka)` - I'll take three kilos. Maybe a discount?
-- **Vendor:** Hmm... Dobrze. Pięćdziesiąt złotych za trzy. `(hmm... DOB-zheh. pyen-JEH-shont ZWO-tih za tshih)` - Hmm... Okay. Fifty złoty for three.
+**You have a 100 zł note. Vendor doesn't have change.**
 
-**Option B - Saying it's expensive:**
-- **You:** To trochę drogo. `(to TRO-heh DRO-go)` - That's a bit expensive.
-- **Vendor:** Ale są świeże! Z dzisiaj rano! `(ALE song SHVYEH-zheh! z JEE-shay RA-no)` - But they're fresh! From this morning!
-- **You:** Rozumiem. Może osiemnaście? `(ro-ZOO-myem. MO-zheh o-shem-NASH-cheh)` - I understand. Maybe eighteen?
-- **Vendor:** Dziewiętnaście. `(jeh-vyent-NASH-cheh)` - Nineteen.
+**Vendor:** Dwadzieścia złotych. `(dva-JESH-cha ZWO-tih)` - Twenty złoty.
+
+**You:** *Show 100 zł note*
+
+**Vendor:** Nie mam wydać. `(nyeh mam VIH-dach)` - I can't give change.
+**Vendor:** Drobne? `(DROB-neh)` - Small [change]?
+
+**Your options:**
+
+**Option A - Try other vendors for change:**
+- **You:** Może rozmienić? `(MO-zheh roz-MYEH-neech)` - Maybe break [the bill]?
+- *Ask at another stall*
+
+**Option B - Buy more:**
+- **You:** Co jeszcze mogę wziąć za sto złotych? `(tso YESH-che MO-geh vzhonch za sto ZWO-tih)` - What else can I get for a hundred złoty?
+
+**Option C - Don't buy:**
+- **You:** Przepraszam, nie mam drobnych. `(psheh-PRA-sham, nyeh mam DROB-nih)` - Sorry, I don't have small change.
+- *Walk away*
+
+---
+
+## Complication 4: You Notice Bad Fruit in Your Bag
+
+**Vendor already bagged it. You see bruised or overripe fruit.**
+
+**Vendor:** Proszę, dwadzieścia złotych. `(PRO-sheh, dva-JESH-cha ZWO-tih)` - Here, twenty złoty.
+
+**You look in bag. Some fruit is bad.**
+
+**Your options:**
+
+**Option A - Point it out:**
+- **You:** Przepraszam, te są zepsute. `(psheh-PRA-sham, teh song zep-SOO-teh)` - Sorry, these are spoiled.
+- **You:** *Point* Ta jest zła. `(ta yest zwa)` - This one is bad.
+
+**Option B - Ask for replacement:**
+- **You:** Mogę zamienić? `(MO-geh za-MYEH-neech)` - Can I exchange?
+- **You:** Proszę inne. `(PRO-sheh EEN-neh)` - Different ones, please.
+
+**Option C - Ask to pick yourself:**
+- **You:** Mogę sam/sama wybrać? `(MO-geh sam/SA-ma VIH-brach)` - Can I pick myself?
+
+**If vendor gets defensive:**
+- **Vendor:** To są świeże! `(to song SHVYEH-zheh)` - These are fresh!
+- **You:** *Just point clearly at the bad one*
+
+---
+
+## Complication 5: Vendor Weighs More Than You Asked For
+
+**You asked for 1 kilo. They put 1.5.**
+
+**Vendor:** Półtora kilo, dobrze? `(poow-TO-ra KEE-lo, DOB-zheh)` - One and a half kilos, okay?
+
+**Your options:**
+
+**Option A - Accept:**
 - **You:** Dobrze. `(DOB-zheh)` - Okay.
 
-**Option C - Comparing with other vendors:**
-- **You:** Tam jest taniej. `(tam yest TA-nyey)` - Over there it's cheaper.
-- **Vendor:** Ale moje są lepszej jakości! Ekologiczne! `(ALE MO-yeh song LEP-shey ya-KOSH-chee! e-ko-lo-GEECH-neh)` - But mine are better quality! Organic!
-- **You:** No dobrze, wezmę dwa kilo. `(no DOB-zheh, VEZ-meh dva KEE-lo)` - Okay fine, I'll take two kilos.
+**Option B - Ask for less:**
+- **You:** Tylko kilo, poproszę. `(TIL-ko KEE-lo, po-PRO-sheh)` - Only one kilo, please.
+- **You:** Za dużo. Mniej. `(za DOO-zho. mnyey)` - Too much. Less.
+
+**Option C - Negotiate new price:**
+- **You:** Ale mniej płacę za więcej? `(ALE mnyey PWA-tseh za VYEN-tsey)` - But [do I pay] less for more?
 
 ---
 
-### Agreeing on Price
+## Complication 6: Price Was Per Piece, Not Per Kilo
 
-**Vendor:** Dobrze. Pakuję. `(DOB-zheh. pa-KOO-yeh)` - Okay. I'll pack [them].
+**You assumed per kilo. It's per piece.**
 
-*Vendor weighs and bags the strawberries*
+**Vendor:** Pięć złotych za sztukę. `(pyench ZWO-tih za SHTOO-keh)` - Five złoty per piece.
 
-**Vendor:** Pięćdziesiąt złotych. `(pyen-JEH-shont ZWO-tih)` - Fifty złoty.
+**You expected per kilo. This is much more expensive.**
 
-**You:** Proszę. `(PRO-sheh)` - Here you go.
+**Your options:**
+
+**Option A - Clarify:**
+- **You:** Za sztukę? Nie za kilogram? `(za SHTOO-keh? nyeh za kee-lo-GRAM)` - Per piece? Not per kilogram?
+
+**Option B - Reduce order:**
+- **You:** To tylko dwie, poproszę. `(to TIL-ko dvyeh, po-PRO-sheh)` - Then only two, please.
+
+**Option C - Walk away:**
+- **You:** To za drogo. Dziękuję. `(to za DRO-go. jen-KOO-yeh)` - That's too expensive. Thank you.
 
 ---
 
-### Closing
+## Complication 7: Vendor Adds Things Without Asking
 
-**Vendor:** Dziękuję! Smacznego! `(jen-KOO-yeh! sma-CHNE-go)` - Thank you! Enjoy!
+**You ordered apples. They're adding tomatoes.**
 
-**You:** Dziękuję, do widzenia! `(jen-KOO-yeh, do vee-JEN-ya)` - Thank you, goodbye!
+**Vendor:** Może pomidory też? `(MO-zheh po-mee-DO-rih tesh)` - Maybe tomatoes too?
+*Already putting them in bag*
+
+**Your options:**
+
+**Option A - Stop them:**
+- **You:** Nie, dziękuję. Tylko jabłka. `(nyeh, jen-KOO-yeh. TIL-ko YAB-wka)` - No, thanks. Only apples.
+
+**Option B - If already in bag:**
+- **You:** Proszę wyjąć. Nie chcę. `(PRO-sheh VIH-yonch. nyeh htse)` - Please take out. I don't want [them].
+
+**Option C - Accept if cheap:**
+- **You:** Ile razem? `(EE-leh RA-zem)` - How much total?
+- Decide based on price
 
 ---
 
@@ -77,77 +184,74 @@ You're at the farmers market. A vendor has beautiful strawberries. You want to b
 
 | Polish | Pronunciation | English |
 |--------|---------------|---------|
-| Ile kosztują | EE-leh kosh-TOO-yong | How much do [they] cost |
-| Wezmę | VEZ-meh | I'll take |
-| Zniżka | ZNEEZH-ka | Discount |
-| Drogo | DRO-go | Expensive |
-| Taniej | TA-nyey | Cheaper |
-| Świeży | SHVYEH-zhih | Fresh |
-| Jakość | YA-koshch | Quality |
-| Ekologiczny | e-ko-lo-GEECH-nih | Organic / Ecological |
-| Lepszy | LEP-shih | Better |
-| Tam | tam | There |
-| Tutaj | TOO-tay | Here |
-| Pakować | pa-KO-vach | To pack |
-| Z dzisiaj rano | z JEE-shay RA-no | From this morning |
-| Rozumiem | ro-ZOO-myem | I understand |
+| Tylko gotówka | TIL-ko go-TOOF-ka | Cash only |
+| Drobne | DROB-neh | Small change |
+| Nie mam wydać | nyeh mam VIH-dach | I can't give change |
+| Rozmienić | roz-MYEH-neech | To break [a bill] |
+| Bankomat | ban-KO-mat | ATM |
+| Za sztukę | za SHTOO-keh | Per piece |
+| Za kilogram | za kee-lo-GRAM | Per kilo |
+| Zepsute | zep-SOO-teh | Spoiled / Rotten |
+| Zamienić | za-MYEH-neech | To exchange |
+| Nie handluję się | nyeh han-DLOO-yeh sheh | I don't bargain |
+| Za drogo | za DRO-go | Too expensive |
+| Półtora | poow-TO-ra | One and a half |
 
 ---
 
-## Negotiation Phrases
+## Negotiation Vocabulary
 
 | Polish | Pronunciation | English |
 |--------|---------------|---------|
-| To za drogo | to za DRO-go | That's too expensive |
 | Może taniej? | MO-zheh TA-nyey | Maybe cheaper? |
-| Jaka cena za więcej? | YA-ka TSE-na za VYEN-tsey | What price for more? |
-| Ostatnia cena? | os-TAT-nya TSE-na | Final price? |
+| Jaka najlepsza cena? | YA-ka nay-LEP-sha TSE-na | What's the best price? |
 | Może zniżka? | MO-zheh ZNEEZH-ka | Maybe a discount? |
+| To za drogo | to za DRO-go | That's too expensive |
 | Tam jest taniej | tam yest TA-nyey | Over there it's cheaper |
+| Nie wiedziałem/am | nyeh vyeh-JAW-em/am | I didn't know (m/f) |
 
 ---
 
-## Numbers 11-100 (Key for Negotiating)
+## Quality Complaints
 
-| Number | Polish | Pronunciation |
-|--------|--------|---------------|
-| 15 | piętnaście | pyet-NASH-cheh |
-| 18 | osiemnaście | o-shem-NASH-cheh |
-| 19 | dziewiętnaście | jeh-vyent-NASH-cheh |
-| 20 | dwadzieścia | dva-JESH-cha |
-| 25 | dwadzieścia pięć | dva-JESH-cha pyench |
-| 30 | trzydzieści | tshih-JESH-chee |
-| 40 | czterdzieści | chter-JESH-chee |
-| 50 | pięćdziesiąt | pyen-JEH-shont |
+| Polish | Pronunciation | English |
+|--------|---------------|---------|
+| Te są zepsute | teh song zep-SOO-teh | These are spoiled |
+| Ta jest zła | ta yest zwa | This one is bad |
+| Może inne? | MO-zheh EEN-neh | Different ones? |
+| Mogę sam/sama wybrać? | MO-geh sam/SA-ma VIH-brach | Can I pick myself? |
+| Proszę zamienić | PRO-sheh za-MYEH-neech | Please exchange |
 
 ---
 
 ## Cultural Notes
 
-- **Negotiating is acceptable**: At farmers markets (targ), vendors expect some negotiation, especially for bulk purchases.
-- **Be polite**: Always negotiate with a smile and "może" (maybe). Never be aggressive.
-- **Bulk discounts**: If you buy multiple kilos, you can often get a small discount.
-- **End of day**: Prices may drop near closing time when vendors want to sell remaining stock.
-- **"Ale" (but)**: Vendors will defend their prices with "ale są świeże" (but they're fresh) or "ale to ekologiczne" (but it's organic).
-- **Cash only**: Farmers markets are cash-only. No cards.
+- **Negotiation is situational**: Some vendors negotiate, others don't. End of day or bulk purchases are better for discounts.
+- **Don't be aggressive**: A gentle "może taniej?" is fine. Pushing hard is rude.
+- **CASH ONLY**: Farmers markets are almost exclusively cash. ATMs are usually nearby.
+- **Vendors pick for you**: They often pick the fruit themselves. It's culturally normal to ask to choose your own.
+- **Quality varies**: Market produce is often excellent, but check what they're giving you.
+- **Large bills are a problem**: Bring small bills and coins to the market.
 
 ---
 
 ## Practice Variations
 
 ### Intermediate Version
-- Ask price: "Ile kosztują?"
-- Make offer: "Może dziewiętnaście?" (Maybe nineteen?)
-- Accept or walk away
+- Ask price: "Ile kosztuje?"
+- Pay with cash you have
+- If bad fruit: "Inne, poproszę"
 
 ### Advanced Version
-- Negotiate in detail: "Wezmę pięć kilo. Jaka najlepsza cena?" (I'll take five kilos. What's the best price?)
-- Compare vendors: "Tam widziałem taniej" (I saw cheaper over there)
-- Discuss quality: "Czy to ekologiczne?" (Is this organic?)
+- Try to negotiate: "Może taniej za pięć kilo?"
+- Handle no change: "Gdzie jest bankomat?"
+- Quality check: "Mogę sam wybrać?"
 
 ---
 
 ## Next Steps
 
-- [Buying Fruit at Market]({{ '/scenarios/A1/specialty-shops/farmers-market-buying-fruit.html' | relative_url }}) (A1) - Basic market interaction
-- [Multiple Stalls]({{ '/scenarios/A2/specialty-shops/farmers-market-multiple-stalls.html' | relative_url }}) - Comparing different vendors
+**Similar Scenarios:**
+- [Buying Fruit at Market]({{ '/scenarios/A1/specialty-shops/farmers-market-buying-fruit.html' | relative_url }}) (A1) - Basic market interactions
+- [Multiple Stalls]({{ '/scenarios/A2/specialty-shops/farmers-market-multiple-stalls.html' | relative_url }}) - Comparing vendors
+

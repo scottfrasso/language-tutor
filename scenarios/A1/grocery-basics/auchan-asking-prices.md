@@ -1,79 +1,182 @@
 ---
 layout: scenario
-title: "Asking Prices at Auchan"
+title: "Asking Prices - When They Don't Understand You"
 level: A1
 category: grocery-basics
-difficulty: 1
-vocabulary_count: 12
+difficulty: 2
+vocabulary_count: 14
 ---
 
-## Scenario: Asking Prices at Auchan
+## Scenario: Asking Prices When Communication Fails
 
 ### Your Goal
-You want to buy cheese but the price sticker is unclear. You need to ask how much it costs before deciding to buy it.
+You need to ask the price of something. The problem: the employee might not understand your pronunciation, might give you an answer you can't follow, or might be too busy to help. Learn to handle all these situations.
 
 ### Setting
-You're in the dairy section at Auchan. You're holding a package of cheese (ser) and want to know the price. You approach a store employee stocking shelves.
+You're in a Polish supermarket holding a product without a clear price tag. You need to find out how much it costs, but this won't always go smoothly.
 
 ---
 
-## Dialogue Variations
+## The Basic Question
 
-### Asking an Employee About Price
+**You:** Przepraszam. Ile to kosztuje? `(psheh-PRA-sham. EE-leh to kosh-TOO-yeh)` - Excuse me. How much does this cost?
 
-**You:** Przepraszam. `(psheh-PRA-sham)` - Excuse me.
+**Alternative:**
+- Ile kosztuje? `(EE-leh kosh-TOO-yeh)` - How much?
+- Jaka cena? `(YA-ka TSE-na)` - What's the price?
+
+---
+
+## Complication 1: They Don't Understand You
+
+**Your pronunciation doesn't land. They look confused.**
+
+**Employee:** Słucham? `(SWOO-ham)` - What? / I'm listening?
+**Employee:** Co proszę? `(tso PRO-sheh)` - What, please? / Sorry?
+**Employee:** Nie rozumiem. `(nyeh ro-ZOO-myem)` - I don't understand.
+
+**Your options:**
+
+**Option A - Try again slower:**
+- **You:** *Point at item* Ile... kosztuje... to? `(EE-leh... kosh-TOO-yeh... to)`
+- *Speak slowly, point clearly*
+
+**Option B - Just point and ask "how much":**
+- **You:** *Hold up item* Ile? `(EE-leh)` - How much?
+- *Sometimes simpler is better*
+
+**Option C - Show what you mean:**
+- **You:** *Point at item, then at price tags, shrug*
+- **Employee:** *Usually gets the idea*
+
+**Option D - Show your phone:**
+- **You:** *Show Google Translate or a picture*
+- **Employee:** *Understands*
+
+---
+
+## Complication 2: You Don't Understand Their Answer
+
+**They say a number. You have no idea what it was.**
+
+**Employee:** *mumbles something quickly*
+
+**Your options:**
+
+**Option A - Ask for repetition:**
+- **You:** Przepraszam? `(psheh-PRA-sham)` - Sorry?
+- **You:** Jeszcze raz? `(YESH-cheh raz)` - One more time?
+
+**Option B - Ask them to speak slower:**
+- **You:** Wolniej proszę. `(VOL-nyey PRO-sheh)` - Slower please.
+
+**Option C - Say you don't understand:**
+- **You:** Nie rozumiem. `(nyeh ro-ZOO-myem)` - I don't understand.
+- *They might write it down or show fingers*
+
+**Option D - Ask them to write it:**
+- **You:** Proszę napisać? `(PRO-sheh na-PEE-sach)` - Please write?
+- *Point at their hand or a piece of paper*
+
+**Option E - Just look at their hand gesture:**
+- *Many Poles will hold up fingers for small numbers*
+- *5 fingers = 5 złoty*
+
+---
+
+## Complication 3: The Employee Seems Annoyed/Busy
+
+**They're clearly busy or irritated. What do you do?**
+
+**Signs they're busy:**
+- They sigh
+- They barely look at you
+- They answer in one word
+- They keep working while talking
+
+**Your best approach:**
+
+**Be polite but brief:**
+- **You:** Przepraszam, szybkie pytanie. Ile to? `(psheh-PRA-sham, SHIHP-kyeh pih-TA-nyeh. EE-leh to)` - Sorry, quick question. How much?
+- *Keep it short, point clearly*
+
+**If they don't know or won't help:**
+- **Employee:** Nie wiem. `(nyeh vyem)` - I don't know.
+- **Employee:** Przy kasie. `(pshih KA-sheh)` - At the register.
+- **You:** Dobrze, dziękuję. `(DOB-zheh, jen-KOO-yeh)` - Okay, thanks.
+
+**Don't take it personally:**
+- This isn't about you
+- They might be having a bad day
+- Find another employee or just go to the register
+
+---
+
+## Complication 4: The Price Tag Is Wrong or Missing
+
+**You see a price, but it doesn't match what they say.**
+
+**Scenario: You expected 5 zł but they say 15 zł**
+
+**You:** Ale... tu pisze pięć złotych? `(A-le... too PEE-sheh pyench ZWO-tih)` - But... here it says five złoty?
+**You:** *Point at the shelf label*
 
 **Employee responses:**
-- **Response A:** Tak? `(tak)` - Yes?
-- **Response B:** Słucham? `(SWOO-ham)` - Yes? / I'm listening?
-- **Response C:** Proszę? `(PRO-sheh)` - Yes? / Please?
+- **Employee:** To inna cena. `(to EEN-na TSE-na)` - That's a different price.
+- **Employee:** To za tamten produkt. `(to za TAM-ten pro-DOOKT)` - That's for that product. *points to different item*
+- **Employee:** Sprawdzę. `(SPRAV-dzeh)` - I'll check.
+
+**If you think it's wrong:**
+- **You:** Może pomyłka? `(MO-zheh po-MIW-ka)` - Maybe a mistake?
+- *Cashiers can often verify and honor the lower price*
+
+**At the register:**
+- **You:** Myślałem, że to kosztuje pięć złotych. `(mih-SHA-wem zheh to kosh-TOO-ye pyench ZWO-tih)` - I thought this cost five złoty.
+- **Cashier:** *may check or honor the lower price*
 
 ---
 
-### Asking How Much
+## Complication 5: They Point But You Still Don't Understand
 
-**You point to or hold up the cheese:**
+**Employee says "tam" (there) and points vaguely.**
 
-**You:** Ile to kosztuje? `(EE-leh to kosh-TOO-yeh)` - How much does this cost?
+**Employee:** Cena jest tam. `(TSE-na yest tam)` - The price is there. *waves hand*
 
-**Alternative phrasings:**
-- **You:** Ile kosztuje ten ser? `(EE-leh kosh-TOO-yeh ten ser)` - How much does this cheese cost?
-- **You:** Jaka cena? `(YA-ka TSE-na)` - What's the price?
+**You don't see it.**
 
----
+**Your options:**
 
-### Employee's Responses
+**Option A - Admit you can't find it:**
+- **You:** Nie widzę. `(nyeh VEE-dzeh)` - I don't see [it].
+- **You:** Gdzie dokładnie? `(gjeh do-KWAD-nyeh)` - Where exactly?
 
-**Variation A - They tell you directly:**
-- **Employee:** Dziesięć złotych. `(JEH-shench ZWO-tih)` - Ten złoty.
-- **You:** Dziękuję. `(jen-KOO-yeh)` - Thank you.
+**Option B - Ask them to show you:**
+- **You:** Proszę pokazać? `(PRO-sheh po-KA-zach)` - Please show [me]?
 
-**Variation B - They don't know:**
-- **Employee:** Nie wiem. Proszę sprawdzić przy kasie. `(nyeh vyem. PRO-sheh SPRAV-jeech pshih KA-sheh)` - I don't know. Please check at the register.
-- **You:** Dobrze, dziękuję. `(DOB-zheh, jen-KOO-yeh)` - Okay, thank you.
-
-**Variation C - They look for you:**
-- **Employee:** Zaraz sprawdzę. `(ZA-raz SPRAV-dzeh)` - I'll check right away.
-- **Employee:** *checks the shelf tag* Dziesięć złotych.
-- **You:** Dziękuję. `(jen-KOO-yeh)` - Thank you.
-
-**Variation D - They point to the shelf tag:**
-- **Employee:** *Points to the price sticker* Tu jest cena. `(too yest TSE-na)` - The price is here.
-- **You:** Aha, dziękuję. `(a-HA, jen-KOO-yeh)` - Ah, thank you.
+**Option C - Just take it to the register:**
+- **You:** Sprawdzę przy kasie. Dziękuję. `(SPRAV-dzeh pshih KA-sheh. jen-KOO-yeh)` - I'll check at the register. Thank you.
 
 ---
 
-## Asking at the Register
+## Complication 6: The Price Is Too High
 
-**If you get to the register without knowing the price:**
+**You find out it costs way more than expected.**
 
-**Before scanning:**
-- **You:** Ile to kosztuje? `(EE-leh to kosh-TOO-yeh)` - How much does this cost?
-- **Cashier:** *scans it* Dziesięć złotych. `(JEH-shench ZWO-tih)` - Ten złoty.
+**Employee:** Trzydzieści złotych. `(tshih-JESH-chee ZWO-tih)` - Thirty złoty.
+**You:** *Expected 10 zł*
 
-**If the price is too expensive:**
-- **You:** To za drogo. Nie, dziękuję. `(to za DRO-go. nyeh, jen-KOO-yeh)` - That's too expensive. No, thank you.
-- **Cashier:** *removes it from your order*
+**Your options:**
+
+**Option A - Ask if that's right:**
+- **You:** Trzydzieści? `(tshih-JESH-chee)` - Thirty? *surprised face*
+- **You:** Na pewno? `(na PEV-no)` - For sure?
+
+**Option B - Decline politely:**
+- **You:** To za drogo. Dziękuję. `(to za DRO-go. jen-KOO-yeh)` - That's too expensive. Thank you.
+- *Put it back*
+
+**Option C - Ask for something cheaper:**
+- **You:** Jest coś tańszego? `(yest tsosh TAN-she-go)` - Is there something cheaper?
 
 ---
 
@@ -81,92 +184,60 @@ You're in the dairy section at Auchan. You're holding a package of cheese (ser) 
 
 | Polish | Pronunciation | English |
 |--------|---------------|---------|
-| Przepraszam | psheh-PRA-sham | Excuse me / Sorry |
-| Ile kosztuje? | EE-leh kosh-TOO-yeh | How much does it cost? |
 | Ile to kosztuje? | EE-leh to kosh-TOO-yeh | How much does this cost? |
-| Ser | ser | Cheese |
-| Cena | TSE-na | Price |
-| Dziesięć złotych | JEH-shench ZWO-tih | Ten złoty |
-| Nie wiem | nyeh vyem | I don't know |
-| Sprawdzić | SPRAV-jeech | To check |
-| Kasa | KA-sa | Cash register / Checkout |
+| Jeszcze raz | YESH-cheh raz | One more time |
+| Wolniej proszę | VOL-nyey PRO-sheh | Slower please |
+| Nie rozumiem | nyeh ro-ZOO-myem | I don't understand |
+| Nie widzę | nyeh VEE-dzeh | I don't see |
+| Proszę napisać | PRO-sheh na-PEE-sach | Please write |
+| Proszę pokazać | PRO-sheh po-KA-zach | Please show |
 | Za drogo | za DRO-go | Too expensive |
-| Dziękuję | jen-KOO-yeh | Thank you |
-| Dobrze | DOB-zheh | Okay / Good |
+| Jest coś tańszego? | yest tsosh TAN-she-go | Something cheaper? |
+| Przy kasie | pshih KA-sheh | At the register |
 
 ---
 
-## Pronunciation Tips
+## Number Quick Reference (For Prices)
 
-1. **"Przepraszam"**: Four syllables: psheh-PRA-sham. The "prz" sounds like "psh"
-2. **"Ile"**: Two syllables: EE-leh, not "eye-l"
-3. **"Kosztuje"**: kosh-TOO-yeh. Stress on TOO
-4. **"Dziesięć"**: JEH-shench. The "dzi" is like "j" in "jeans"
-5. **"Sprawdzić"**: The "dz" is voiced, like "j" in "jeans"
+| Number | Polish | Sounds Like |
+|--------|--------|-------------|
+| 5 | pięć | pyench |
+| 10 | dziesięć | JEH-shench |
+| 15 | piętnaście | pyet-NASH-cheh |
+| 20 | dwadzieścia | dva-JESH-cha |
+| 25 | dwadzieścia pięć | dva-JESH-cha pyench |
+| 30 | trzydzieści | tshih-JESH-chee |
+| 50 | pięćdziesiąt | pyench-JEH-shont |
 
 ---
 
 ## Cultural Notes
 
-- **Price tags**: In Poland, prices should be clearly marked, but sometimes stickers fall off or are unclear - it's normal to ask!
-- **Store employees**: Most employees are helpful and will check for you. Don't worry about asking.
-- **"Przepraszam"**: This is the polite way to get someone's attention. Use it freely!
-- **At the register**: It's completely acceptable to ask the price before paying, even at the register. You can decline an item if it's too expensive.
-
----
-
-## Common Complications
-
-**What if you don't understand the number they say?**
-
-- **You:** Przepraszam, jeszcze raz? `(psheh-PRA-sham, YESH-cheh raz)` - Sorry, one more time?
-- **Employee:** *repeats* Or writes it down / shows on calculator
-
-**What if they speak too fast?**
-
-- **You:** Wolniej, proszę. `(VOL-nyey, PRO-sheh)` - Slower, please.
-- Most people will slow down and may even switch to showing you the price instead
+- **"Nie wiem" is common**: Employees often say "I don't know" - it's not rude, just honest.
+- **Przy kasie (at the register)**: Common response. They're saying to ask at checkout.
+- **Price tags are confusing**: Products often share shelf space. Look carefully at which tag matches which item.
+- **No one judges your Polish**: They might seem impatient, but that's just Polish efficiency. Your effort is appreciated.
 
 ---
 
 ## Practice Variations
 
 ### Easiest Version
-- Learn just: "Ile kosztuje?" *(point at item)*
-- Listen for the number
-- Say "Dziękuję"
+- Point at item, say "Ile?" (How much?)
+- If you don't understand, look at register display or ask "Przepraszam?" (Sorry?)
 
 ### Challenge Version
-- Ask about specific item: "Ile kosztuje ten ser?" (How much is this cheese?)
-- If too expensive, say: "Za drogo, dziękuję"
-- Ask them to check: "Proszę sprawdzić"
-
----
-
-## Number Quick Reference (1-20)
-
-| Number | Polish | Pronunciation |
-|--------|--------|---------------|
-| 1 | jeden | YEH-den |
-| 2 | dwa | dva |
-| 3 | trzy | tshih |
-| 4 | cztery | CHTE-rih |
-| 5 | pięć | pyench |
-| 6 | sześć | sheshch |
-| 7 | siedem | SHEH-dem |
-| 8 | osiem | O-shem |
-| 9 | dziewięć | JEH-vyench |
-| 10 | dziesięć | JEH-shench |
-| 15 | piętnaście | pyet-NASH-cheh |
-| 20 | dwadzieścia | dva-JESH-cha |
+- Ask clearly: "Przepraszam, ile to kosztuje?"
+- If unclear, request: "Wolniej proszę"
+- If too expensive: "Jest coś tańszego?"
 
 ---
 
 ## Next Steps
 
 **Similar Scenarios:**
-- [Buying Bread at Auchan]({{ '/scenarios/A1/grocery-basics/auchan-buying-bread.html' | relative_url }}) - Basic checkout conversation
-- [Finding Items at Kaufland]({{ '/scenarios/A1/grocery-basics/kaufland-finding-items.html' | relative_url }}) - Asking "Where is...?"
+- [Checkout at Auchan]({{ '/scenarios/A1/grocery-basics/auchan-buying-bread.html' | relative_url }}) - Handling checkout chaos
+- [Finding Items at Kaufland]({{ '/scenarios/A1/grocery-basics/kaufland-finding-items.html' | relative_url }}) - When directions don't make sense
 
 **Progression:**
-- [Comparing Products at Auchan]({{ '/scenarios/A2/grocery-intermediate/auchan-recommendations.html' | relative_url }}) (A2) - Asking which is better
+- [Recommendations at Auchan]({{ '/scenarios/A2/grocery-intermediate/auchan-recommendations.html' | relative_url }}) (A2) - Asking which product is better

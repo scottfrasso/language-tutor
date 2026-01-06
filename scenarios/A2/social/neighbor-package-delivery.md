@@ -1,77 +1,175 @@
 ---
 layout: scenario
-title: "Package Delivery Mix-up"
+title: "Package Delivery Mix-up - When Things Go Wrong"
 level: A2
 category: social
-difficulty: 3
-vocabulary_count: 17
+difficulty: 4
+vocabulary_count: 20
 ---
 
-## Scenario: Returning Misdelivered Package
+## Scenario: Package Situations That Get Complicated
 
 ### Your Goal
-A neighbor received a package that's actually for you, but they thought it was theirs. Now they realize the mistake and want to return it. You need to handle this politely.
+A package delivery situation has gone wrong. Maybe your neighbor is returning your package but they opened it, maybe they blame you for a missing package of theirs, or maybe a package is damaged and they're explaining something you can't follow.
 
 ### Setting
-Your neighbor knocks on your door. They're holding a package and look apologetic.
+Your neighbor knocks on your door with a package. The situation may not be straightforward.
 
 ---
 
-## Dialogue
+## Complication 1: Neighbor Opened Your Package
 
-### Opening
+**They thought it was theirs. Now they're embarrassed but you're confused.**
 
-*Knock on door. You open it.*
+**Neighbor:** Przepraszam bardzo. Otworzyłem tę paczkę. Myślałem że moja. `(psheh-PRA-sham BAR-dzo. ot-vo-ZHI-wem teh PACH-keh. mish-LA-wem zheh MO-ya)` - I'm very sorry. I opened this package. I thought it was mine.
 
-**Neighbor:** Dzień dobry. Przepraszam za kłopot. `(jen DOB-rih. psheh-PRA-sham za KWO-pot)` - Good day. Sorry for the trouble.
+**You:** *See ripped open package*
 
-**You:** Dzień dobry. Nic się nie stało. `(jen DOB-rih. neets sheh nyeh STA-wo)` - Good day. Nothing happened. / It's okay.
+**Your options:**
 
----
+**Option A - Check contents:**
+- **You:** Czy wszystko jest w środku? `(chih VSHIST-ko yest v SHROT-koo)` - Is everything inside?
+- **Neighbor:** Tak, nic nie brałem! `(tak, neets nyeh BRA-wem)` - Yes, I didn't take anything!
 
-### Explaining the Situation
+**Option B - Reassure them:**
+- **You:** Nic nie szkodzi. To się zdarza. `(neets nyeh SHKO-jee. to sheh ZDA-zha)` - It doesn't matter. These things happen.
 
-**Neighbor:** Ta paczka jest do pana/pani. Kurier pomylił się. `(ta PACH-ka yest do PA-na/PA-nee. KOOR-yer po-MIH-leew sheh)` - This package is for you. The courier made a mistake.
-
-**Alternative:**
-- **Neighbor:** Kurier zostawił to u mnie, ale to nie moje. To pana/pani. `(KOOR-yer zos-TA-veew to oo mnyeh, ALE to nyeh MO-yeh. to PA-na/PA-nee)` - The courier left this at my place, but it's not mine. It's yours.
-
-**You:** O! Nie wiedziałem/wiedziałam! Dziękuję bardzo! `(o! nyeh vyeh-JA-wem/vyeh-JA-wam! jen-KOO-yeh BAR-dzo)` - Oh! I didn't know! Thank you very much! *(wem for men, wam for women)*
-
----
-
-### Apologizing
-
-**Neighbor:** Przepraszam, otworzyłem/otworzyłam już pudełko. Myślałem/myślałam że to moje. `(psheh-PRA-sham, ot-vo-ZHI-wem/ot-vo-ZHI-wam yoosh poo-DEW-ko. mish-LA-wem/LA-wam zheh to MO-yeh)` - Sorry, I already opened the box. I thought it was mine.
-
-**Your responses:**
-
-**Option A - Reassuring:**
-- **You:** Nic nie szkodzi! To się zdarza. `(neets nyeh SHKO-jee! to sheh ZDA-zha)` - It doesn't matter! These things happen.
-
-**Option B - Understanding:**
-- **You:** Wszystko w porządku. Rozumiem. `(VSHIST-ko v po-ZHOND-koo. ro-ZOO-myem)` - Everything's okay. I understand.
-
-**Option C - Grateful:**
-- **You:** Nie ma problemu! Cieszę się że pan/pani przynosi! `(nyeh ma prob-LEH-moo! CHEH-sheh sheh zheh pan/PA-nee pshih-NO-shee)` - No problem! I'm glad you're bringing it!
+**Option C - If contents are missing/damaged:**
+- **You:** Przepraszam, ale brakuje czegoś. `(psheh-PRA-sham, ALE bra-KOO-ye CHE-gosh)` - Sorry, but something is missing.
 
 ---
 
-### Offering Thanks
+## Complication 2: Your Package Is Damaged
 
-**You:** Dziękuję że pan/pani zauważył/zauważyła. `(jen-KOO-yeh zheh pan/PA-nee zow-VA-zhiw/zow-VA-zhih-wa)` - Thank you for noticing.
+**Neighbor brings package but it's clearly damaged.**
 
-**Neighbor:** Oczywiście! To było oczywiste że nie moje. `(o-chih-VEESH-cheh! to BIH-wo o-chih-VEES-teh zheh nyeh MO-yeh)` - Of course! It was obvious it wasn't mine.
+**Neighbor:** Pana paczka. Kurier tak zostawił. Była już taka. `(PA-na PACH-ka. KOOR-yer tak zos-TA-veew. BIH-wa yoosh TA-ka)` - Your package. The courier left it like this. It was already like this.
+
+**You:** *Package is crushed/wet/torn*
+
+**Your options:**
+
+**Option A - Thank them anyway:**
+- **You:** Dziękuję. To nie pana wina. `(jen-KOO-yeh. to nyeh PA-na VEE-na)` - Thank you. It's not your fault.
+
+**Option B - Ask what happened:**
+- **You:** Co się stało? `(tso sheh STA-wo)` - What happened?
+- **Neighbor:** Nie wiem. Kurier tak przyniósł. `(nyeh vyem. KOOR-yer tak pshih-NYOOS)` - I don't know. The courier brought it like this.
+
+**Option C - Document the damage:**
+- **You:** Mogę zrobić zdjęcie? `(MO-geh zro-BEECH ZDYEN-cheh)` - Can I take a photo?
 
 ---
 
-### Closing
+## Complication 3: Neighbor Thinks You Have Their Package
 
-**You:** Jeszcze raz dziękuję. Miłego dnia! `(YESH-cheh raz jen-KOO-yeh. mee-WEH-go dnya)` - Thanks again. Have a nice day!
+**They're looking for their package and think you might have it.**
 
-**Neighbor:** Nawzajem! Przepraszam jeszcze raz. `(nav-ZA-yem! psheh-PRA-sham YESH-cheh raz)` - You too! Sorry once more.
+**Neighbor:** Przepraszam, czy może kurier zostawił u pana moją paczkę? `(psheh-PRA-sham, chih MO-zheh KOOR-yer zos-TA-veew oo PA-na MO-yoh PACH-keh)` - Excuse me, did the courier perhaps leave my package with you?
 
-**You:** Naprawdę, wszystko dobrze! Do widzenia! `(na-PRAV-deh, VSHIST-ko DOB-zheh! do vee-JEN-ya)` - Really, everything's fine! Goodbye!
+**You:** *Didn't receive any package for them*
+
+**Your options:**
+
+**Option A - Simple no:**
+- **You:** Nie, przykro mi. Nic nie zostawił. `(nyeh, PSHIH-kro mee. neets nyeh zos-TA-veew)` - No, I'm sorry. He didn't leave anything.
+
+**Option B - Offer to check:**
+- **You:** Zaraz sprawdzę. Chwilę. `(ZA-ras SPRAV-jeh. HVEE-leh)` - I'll check. One moment.
+- *Look around*
+- **You:** Nie, niestety nie mam. `(nyeh, nyes-TEH-tih nyeh mam)` - No, unfortunately I don't have it.
+
+**Option C - Suggest alternative:**
+- **You:** Może u sąsiada obok? `(MO-zheh oo son-SHA-da O-bok)` - Maybe at the neighbor next door?
+
+---
+
+## Complication 4: Neighbor Seems Annoyed You Weren't Home
+
+**They accepted your package but seem frustrated.**
+
+**Neighbor:** *Annoyed tone* Pana paczka. Kurier trzy razy dzwonił! `(PA-na PACH-ka. KOOR-yer tshih RA-zih DZVO-neew)` - Your package. The courier rang three times!
+
+**You:** *Feel guilty but also surprised by their tone*
+
+**Your options:**
+
+**Option A - Apologize:**
+- **You:** Przepraszam za kłopot. Byłem w pracy. `(psheh-PRA-sham za KWO-pot. BIH-wem v PRA-tsih)` - Sorry for the trouble. I was at work.
+
+**Option B - Thank them:**
+- **You:** Dziękuję że pan przyjął. Bardzo mi pomógł. `(jen-KOO-yeh zheh pan pshih-YONW. BAR-dzo mee po-MOOK)` - Thank you for accepting it. You helped me a lot.
+
+**Option C - Offer something:**
+- **You:** Mogę jakoś podziękować? Kawa? Czekolada? `(MO-geh YA-kosh po-jen-KO-vach? KA-va? che-ko-LA-da)` - Can I thank you somehow? Coffee? Chocolate?
+
+---
+
+## Complication 5: Package Is for Previous Tenant
+
+**Your neighbor brings package but the name is wrong.**
+
+**Neighbor:** Paczka do pana. `(PACH-ka do PA-na)` - Package for you.
+
+**You:** *Check label - different name*
+
+**You:** To nie do mnie. Inne nazwisko. `(to nyeh do mnyeh. EEN-neh naz-VEES-ko)` - This isn't for me. Different name.
+
+**Neighbor:** A! To może poprzedni lokator? `(a! to MO-zheh po-PSHED-nee lo-KA-tor)` - Oh! Maybe the previous tenant?
+
+**Your options:**
+
+**Option A - Confirm:**
+- **You:** Chyba tak. Tu już nie mieszka. `(HIH-ba tak. too yoosh nyeh MYESH-ka)` - Probably. They don't live here anymore.
+
+**Option B - Don't know:**
+- **You:** Nie wiem. Nie znam tego nazwiska. `(nyeh vyem. nyeh znam TE-go naz-VEES-ka)` - I don't know. I don't know this name.
+
+**Option C - Suggest return:**
+- **You:** Trzeba oddać kurierowi. `(TSHE-ba OD-dach koo-RYEH-ro-vee)` - We should return it to the courier.
+
+---
+
+## Complication 6: They're Explaining Something You Can't Follow
+
+**Neighbor is telling a long story about the package delivery.**
+
+**Neighbor:** No bo wie pan, kurier dzwonił najpierw do mnie, ale ja byłem na zakupach, a potem przyszedł drugi raz i zostawił u pani z drugiego piętra, ale ona nie wiedziała że to do pana, więc... `(no bo vyeh pan, KOOR-yer DZVO-neew nay-PYERV do mnyeh, ALE ya BIH-wem na za-KOO-pakh...)` - So you see, the courier first rang my place, but I was shopping, and then he came second time and left it with the lady from the second floor, but she didn't know it was for you, so...
+
+**You:** *Completely lost*
+
+**Your options:**
+
+**Option A - Stop them:**
+- **You:** Przepraszam, nie rozumiem wszystkiego. Paczka jest u pana? `(psheh-PRA-sham, nyeh ro-ZOO-myem VSHIST-kyeh-go. PACH-ka yest oo PA-na)` - Sorry, I don't understand everything. The package is with you?
+
+**Option B - Focus on key info:**
+- **You:** Więc gdzie jest paczka teraz? `(vyents gjeh yest PACH-ka TE-raz)` - So where is the package now?
+
+**Option C - Just nod:**
+- **You:** Rozumiem. Dziękuję. `(ro-ZOO-myem. jen-KOO-yeh)` - I understand. Thank you.
+- *Even if you don't fully understand*
+
+---
+
+## Complication 7: They Want Compensation Discussion
+
+**Contents were damaged and neighbor wants to discuss responsibility.**
+
+**Neighbor:** Pudełko było otwarte kiedy kurier zostawił. Coś chyba zniknęło. To nie moja wina! `(poo-DEW-ko BIH-wo ot-VAR-te KYEH-dih KOOR-yer zos-TA-veew. tsosh HIH-ba ZNEEK-neh-wo. to nyeh MO-ya VEE-na)` - The box was open when the courier left it. Something probably disappeared. It's not my fault!
+
+**You:** *Neighbor seems defensive*
+
+**Your options:**
+
+**Option A - Reassure immediately:**
+- **You:** Nie, nie, wiem że to nie pana wina. Dziękuję że przyniósł. `(nyeh, nyeh, vyem zheh to nyeh PA-na VEE-na. jen-KOO-yeh zheh pshih-NYOOS)` - No, no, I know it's not your fault. Thank you for bringing it.
+
+**Option B - Focus on courier:**
+- **You:** Problem z kurierem. Zadzwonię do firmy. `(PROB-lem z koo-RYEH-rem. za-DZVO-nyeh do FEER-mih)` - Problem with the courier. I'll call the company.
+
+**Option C - Don't engage in blame:**
+- **You:** Rozumiem. Dziękuję za informację. `(ro-ZOO-myem. jen-KOO-yeh za een-for-MATS-yeh)` - I understand. Thank you for the information.
 
 ---
 
@@ -81,17 +179,14 @@ Your neighbor knocks on your door. They're holding a package and look apologetic
 |--------|---------------|---------|
 | Paczka | PACH-ka | Package |
 | Kurier | KOOR-yer | Courier |
-| Pomylić się | po-MIH-leech sheh | To make a mistake / To confuse |
-| Zostawić | zos-TA-veech | To leave |
 | Otworzyć | ot-VO-zhich | To open |
 | Pudełko | poo-DEW-ko | Box |
-| Myślałem/am | mish-LA-wem/am | I thought (m/f) |
-| Nic nie szkodzi | neets nyeh SHKO-jee | It doesn't matter |
-| Zdarza się | ZDA-zha sheh | It happens |
-| Wszystko w porządku | VSHIST-ko v po-ZHOND-koo | Everything's okay |
-| Zauważyć | zow-VA-zhich | To notice |
-| Oczywiste | o-chih-VEES-teh | Obvious |
-| Jeszcze raz | YESH-cheh raz | Once more / Again |
+| Uszkodzona | oosh-ko-JO-na | Damaged |
+| Zostawić | zos-TA-veech | To leave |
+| Wina | VEE-na | Fault |
+| Kłopot | KWO-pot | Trouble |
+| Poprzedni lokator | po-PSHED-nee lo-KA-tor | Previous tenant |
+| Nazwisko | naz-VEES-ko | Surname |
 
 ---
 
@@ -102,29 +197,18 @@ Your neighbor knocks on your door. They're holding a package and look apologetic
 | Nic nie szkodzi | neets nyeh SHKO-jee | It doesn't matter |
 | To się zdarza | to sheh ZDA-zha | These things happen |
 | Nie ma problemu | nyeh ma prob-LEH-moo | No problem |
-| Wszystko dobrze | VSHIST-ko DOB-zheh | Everything's fine |
-| Nie martw się | nyeh martf sheh | Don't worry |
-| W porządku | v po-ZHOND-koo | It's okay |
+| To nie pana/pani wina | to nyeh PA-na/PA-nee VEE-na | It's not your fault |
+| Dziękuję za pomoc | jen-KOO-yeh za PO-mots | Thanks for the help |
 
 ---
 
 ## Cultural Notes
 
-- **Mistakes happen**: Package mix-ups are common in Polish apartment buildings.
-- **Apologizing is important**: Even if it's not entirely their fault, Poles tend to apologize when inconveniencing someone.
-- **Reassure them**: It's polite to reassure the neighbor multiple times that everything is okay.
-- **"Nic się nie stało"**: Very common phrase meaning "nothing happened" / "it's okay"
-- **Building community**: Handling these situations gracefully strengthens neighbor relationships.
-
----
-
-## Similar Situations
-
-**If YOU receive someone else's package:**
-
-**You:** Dzień dobry. Ta paczka chyba nie moja. To pana/pani. `(jen DOB-rih. ta PACH-ka HIH-ba nyeh MO-ya. to PA-na/PA-nee)` - Good day. This package probably isn't mine. It's yours.
-
-**Neighbor:** O! Dziękuję! `(o! jen-KOO-yeh)` - Oh! Thank you!
+- **Package acceptance is common**: Poles often accept packages for neighbors. It's expected.
+- **Courier chaos**: Package delivery in Poland can be chaotic. Multiple delivery attempts and neighbor drop-offs are normal.
+- **Defensive explanations**: If something went wrong, neighbors often over-explain to avoid blame. Just reassure them.
+- **Previous tenants**: Old addresses stay in systems. Wrong-name packages are common in apartments.
+- **Offering thanks**: Offering coffee or chocolate as thanks is polite but usually declined.
 
 ---
 
@@ -132,16 +216,19 @@ Your neighbor knocks on your door. They're holding a package and look apologetic
 
 ### Intermediate Version
 - Accept package: "Dziękuję bardzo!"
-- Reassure: "Nic nie szkodzi"
-- "Do widzenia"
+- If damaged: "To nie pana wina."
+- "Do widzenia!"
 
 ### Advanced Version
-- Explain your own situation: "Też się zdarzyło mi wczoraj. Kurier się często myli." (This happened to me yesterday too. The courier often makes mistakes.)
-- Offer help: "Gdyby jeszcze przyszła paczka, to przyniosę" (If another package comes, I'll bring it)
+- Handle opened package: "Nic nie szkodzi, rozumiem że pan myślał że to pana."
+- Explain tenant situation: "Tu mieszka nowa rodzina, poprzedni lokator się wyprowadził w zeszłym roku."
+- Offer to help: "Jeśli kurier zostawi coś u mnie dla pana, to przyniosę."
 
 ---
 
 ## Next Steps
 
-- [Accepting Package]({{ '/scenarios/A1/social/neighbor-accepting-package.html' | relative_url }}) (A1) - When package is correctly delivered to neighbor
-- [Asking About Area]({{ '/scenarios/A2/social/neighbor-asking-about-area.html' | relative_url }}) - More extended neighbor conversations
+**Similar Scenarios:**
+- [Accepting Package]({{ '/scenarios/A1/social/neighbor-accepting-package.html' | relative_url }}) (A1) - Simpler version
+- [Noise Apology]({{ '/scenarios/A2/social/neighbor-noise-apology.html' | relative_url }}) - Other neighbor situations
+

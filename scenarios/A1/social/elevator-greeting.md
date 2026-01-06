@@ -1,65 +1,140 @@
 ---
 layout: scenario
-title: "Greeting Neighbor in Elevator"
+title: "Elevator Greeting - When It Gets Awkward"
 level: A1
 category: social
-difficulty: 1
-vocabulary_count: 8
+difficulty: 2
+vocabulary_count: 12
 ---
 
-## Scenario: Greeting Neighbor in Elevator
+## Scenario: Elevator Encounters That Don't Go Smoothly
 
 ### Your Goal
-You meet an elderly neighbor in the elevator. You want to exchange a polite greeting.
+You meet a neighbor in the elevator. They might: speak too fast, ask questions you don't understand, or leave you standing in awkward silence. Learn to handle all of it.
 
 ### Setting
-You're waiting for the elevator in your apartment building. An elderly neighbor joins you. The elevator arrives and you both get in.
+You're in the elevator or waiting for it. A neighbor joins you. Things might not go as smoothly as language textbooks suggest.
 
 ---
 
-## Dialogue Variations
+## The Basic Exchange
 
-### Initial Greeting
+**Neighbor:** Dzień dobry! `(jen DOB-rih)` - Good day!
+**You:** Dzień dobry. `(jen DOB-rih)` - Good day.
 
-**As you meet:**
-
-**Variation A - You greet first:**
-- **You:** Dzień dobry. `(jen DOB-rih)` - Good day.
-- **Neighbor:** Dzień dobry. `(jen DOB-rih)` - Good day.
-
-**Variation B - They greet first:**
-- **Neighbor:** Dzień dobry! `(jen DOB-rih)` - Good day!
-- **You:** Dzień dobry. `(jen DOB-rih)` - Good day.
-
-**Variation C - Morning greeting:**
-- **Neighbor:** Dzień dobry! `(jen DOB-rih)` - Good day!
-- **You:** Dzień dobry. Jak się pani/pan ma? `(jen DOB-rih. yak sheh PA-nee/pan ma)` - Good day. How are you? *(pani for women, pan for men)*
+*...and then things get complicated.*
 
 ---
 
-### Optional Small Exchange
+## Complication 1: They Ask Something You Don't Understand
 
-**If the neighbor asks how you are:**
+**Neighbor says something. You caught "Dzień dobry" but not the rest.**
 
-**Neighbor:** Jak się pan/pani ma? `(yak sheh pan/PA-nee ma)` - How are you? *(pan for men, pani for women)*
+**Neighbor:** Dzień dobry! [rapid Polish question]
 
-**You:** Dobrze, dziękuję. A pan/pani? `(DOB-zheh, jen-KOO-yeh. a pan/PA-nee)` - Good, thank you. And you?
+**Your options:**
 
-**Neighbor:** Też dobrze. `(tesh DOB-zheh)` - Also good.
+**Option A - Polite "sorry?":**
+- **You:** Przepraszam? `(psheh-PRA-sham)` - Sorry? / Excuse me?
+- *They'll usually repeat slower*
+
+**Option B - Say you don't understand:**
+- **You:** Nie rozumiem. `(nyeh ro-ZOO-myem)` - I don't understand.
+- *Most neighbors will smile and simplify*
+
+**Option C - Explain you're learning:**
+- **You:** Uczę się polskiego. `(OO-cheh sheh pol-SKYE-go)` - I'm learning Polish.
+- *This usually earns patience and slower speech*
+
+**Option D - Just smile and nod:**
+- **You:** *Smile, nod* Tak, tak. `(tak, tak)` - Yes, yes.
+- *Sometimes this works if you have no idea what's happening*
 
 ---
 
-### Arriving at Your Floor
+## Complication 2: Awkward Silence
 
-**When you reach your floor:**
+**You've both said "Dzień dobry." Now you're standing in silence. The elevator is slow.**
 
-**You:** Do widzenia. `(do vee-JEN-ya)` - Goodbye.
+**What to do:**
 
-**Neighbor:** Do widzenia. `(do vee-JEN-ya)` - Goodbye.
+**Option A - Weather comment (safe):**
+- **You:** Zimno. `(ZHEEM-no)` - Cold.
+- **You:** Gorąco. `(go-RON-tso)` - Hot.
+- **You:** Pada. `(PA-da)` - It's raining.
 
-**Alternative:**
-- **Neighbor:** Miłego dnia! `(mee-WEH-go dnya)` - Have a nice day!
-- **You:** Nawzajem! `(nav-ZA-yem)` - You too! / Likewise!
+**Option B - Accept the silence:**
+- Silence in elevators is normal in Poland
+- Don't feel pressured to talk
+- Looking at your phone is fine
+
+**Option C - Simple "nice day" comment:**
+- **You:** Ładna pogoda. `(WAD-na po-GO-da)` - Nice weather.
+- *Safe topic*
+
+---
+
+## Complication 3: They Speak Way Too Fast
+
+**Neighbor launches into rapid Polish. You're lost.**
+
+**Neighbor:** *Fast stream of Polish*
+
+**Your options:**
+
+**Option A - Ask for slower speech:**
+- **You:** Wolniej, proszę. `(VOL-nyey, PRO-sheh)` - Slower, please.
+
+**Option B - Admit defeat:**
+- **You:** Nie rozumiem. Nie mówię dobrze po polsku. `(nyeh ro-ZOO-myem. nyeh MOO-vyeh DOB-zheh po POL-skoo)` - I don't understand. I don't speak Polish well.
+
+**Option C - Polite exit:**
+- **You:** *When elevator opens* Przepraszam, do widzenia! `(psheh-PRA-sham, do vee-JEN-ya)` - Sorry, goodbye!
+- *Escape*
+
+---
+
+## Complication 4: You Said Something Wrong
+
+**You tried to say something in Polish. They look confused or laugh.**
+
+**You:** *Attempted Polish*
+**Neighbor:** *Confused face* Co? `(tso)` - What?
+
+**How to recover:**
+
+**Option A - Laugh it off:**
+- **You:** Przepraszam, uczę się. `(psheh-PRA-sham, OO-cheh sheh)` - Sorry, I'm learning.
+- *Smile*
+
+**Option B - Switch to basics:**
+- **You:** Przepraszam. Dzień dobry! `(psheh-PRA-sham. jen DOB-rih)` - Sorry. Good day!
+- *Start over with what you know*
+
+---
+
+## Complication 5: They Want to Chat But You Don't Have Time
+
+**Neighbor is settling in for a conversation. You need to go.**
+
+**Neighbor:** *Starting to chat...*
+
+**Your escape phrases:**
+
+- **You:** Przepraszam, śpieszę się. `(psheh-PRA-sham, SHPYEH-sheh sheh)` - Sorry, I'm in a hurry.
+- **You:** Muszę iść. Do widzenia! `(MOO-sheh eeshch. do vee-JEN-ya)` - I have to go. Goodbye!
+
+---
+
+## Complication 6: You're Not Sure if It's Pan or Pani
+
+**You want to be polite but can't tell if you should say "pan" (sir) or "pani" (ma'am).**
+
+**Safe approach:**
+
+- Just say "Dzień dobry" without pan/pani
+- Don't add the title if you're unsure
+- Nobody will be offended by a simple "Dzień dobry"
 
 ---
 
@@ -67,90 +142,47 @@ You're waiting for the elevator in your apartment building. An elderly neighbor 
 
 | Polish | Pronunciation | English |
 |--------|---------------|---------|
-| Dzień dobry | jen DOB-rih | Good day / Hello |
-| Jak się pan/pani ma? | yak sheh pan/PA-nee ma | How are you? (formal) |
-| Dobrze | DOB-zheh | Good / Well |
-| Dziękuję | jen-KOO-yeh | Thank you |
-| A pan/pani? | a pan/PA-nee | And you? |
-| Też | tesh | Also / Too |
+| Dzień dobry | jen DOB-rih | Good day |
+| Przepraszam | psheh-PRA-sham | Sorry / Excuse me |
+| Nie rozumiem | nyeh ro-ZOO-myem | I don't understand |
+| Wolniej proszę | VOL-nyey PRO-sheh | Slower please |
+| Uczę się polskiego | OO-cheh sheh pol-SKYE-go | I'm learning Polish |
+| Śpieszę się | SHPYEH-sheh sheh | I'm in a hurry |
 | Do widzenia | do vee-JEN-ya | Goodbye |
 | Miłego dnia | mee-WEH-go dnya | Have a nice day |
 | Nawzajem | nav-ZA-yem | You too / Likewise |
 
 ---
 
-## Pronunciation Tips
-
-1. **"Dzień dobry"**: jen DOB-rih. The "dz" sounds like "j" in "jeans"
-2. **"Jak się"**: yak sheh. Quick and together
-3. **"Pani" vs "Pan"**: PA-nee (woman), pan (man). Very important in formal situations!
-4. **"Nawzajem"**: nav-ZA-yem. A useful word meaning "likewise"
-5. **"Miłego"**: mee-WEH-go. The "ł" sounds like "w"
-
----
-
 ## Cultural Notes
 
-- **Always greet in elevators**: In Poland, it's polite to greet people in elevators, especially in smaller apartment buildings where you see the same neighbors regularly.
-- **Use formal address**: With older neighbors, always use "pan" (Mr./sir) or "pani" (Mrs./ma'am). It's more respectful.
-- **Dzień dobry all day**: "Dzień dobry" is used from morning until evening. It's the safest, most common greeting.
-- **Eye contact**: Make brief eye contact when greeting, but don't stare.
-- **Keep it brief**: Elevator conversations are usually short. A simple greeting is enough.
-
----
-
-## Common Complications
-
-**What if they start speaking fast in Polish?**
-
-- **You:** Przepraszam, nie rozumiem. `(psheh-PRA-sham, nyeh ro-ZOO-myem)` - Sorry, I don't understand.
-- **You:** Uczę się polskiego. `(OO-cheh sheh pol-SKYE-go)` - I'm learning Polish.
-- Most neighbors will be understanding and speak slower!
-
-**What if you're not sure if it's a man or woman?**
-
-- Just say: **You:** Dzień dobry `(jen DOB-rih)` without "pan" or "pani"
-- This is safer if you're unsure!
-
-**What if you see them multiple times a day?**
-
-- First time: "Dzień dobry"
-- Later the same day: Just a smile and nod is fine, or "Cześć" (informal "Hi")
-
----
-
-## Greetings by Time of Day
-
-| Time | Polish | Pronunciation | English |
-|------|--------|---------------|---------|
-| Morning/Day | Dzień dobry | jen DOB-rih | Good day |
-| Evening | Dobry wieczór | DOB-rih VYE-choor | Good evening |
-| Night (leaving) | Dobranoc | dob-RA-nots | Good night |
-| Informal | Cześć | cheshch | Hi / Bye |
+- **Greeting is expected**: In Polish apartment buildings, you SHOULD greet people in elevators. Silence without greeting is considered rude.
+- **Brief is normal**: Most elevator conversations are just "Dzień dobry" + "Dzień dobry" + silence. This is fine!
+- **Poles appreciate effort**: Even if your Polish is bad, trying earns respect.
+- **Elderly neighbors expect formality**: Use "Dzień dobry" not "Cześć" with older people.
+- **Escaping is okay**: Saying "Przepraszam, śpieszę się" is a polite exit.
 
 ---
 
 ## Practice Variations
 
-### Easiest Version (Absolute Beginner)
-- **You:** "Dzień dobry"
-- **Neighbor:** "Dzień dobry"
-- *(silence during ride is okay!)*
-- **You:** "Do widzenia" *(when leaving)*
+### Easiest Version
+- "Dzień dobry"
+- *Silence is okay*
+- "Do widzenia"
 
-### Challenge Version (A1 Advanced)
+### Challenge Version
 - Greet: "Dzień dobry"
-- Ask: "Jak się pani/pan ma?" (How are you?)
-- Respond to their answer
-- Say goodbye: "Miłego dnia!" (Have a nice day!)
+- If they ask something: "Przepraszam, nie rozumiem"
+- Close with: "Miłego dnia!" and they say "Nawzajem!"
 
 ---
 
 ## Next Steps
 
 **Similar Scenarios:**
-- [Greeting in Hallway]({{ '/scenarios/A1/social/hallway-hello.html' | relative_url }}) - Similar greeting, different setting
-- [Meeting New Neighbor]({{ '/scenarios/A1/social/neighbor-introduction.html' | relative_url }}) - More extended introduction
+- [Hallway Greeting]({{ '/scenarios/A1/social/hallway-hello.html' | relative_url }}) - When they want to chat about weather
+- [Meeting New Neighbor]({{ '/scenarios/A1/social/neighbor-introduction.html' | relative_url }}) - Awkward first introductions
 
 **Progression:**
-- [Small Talk in Elevator]({{ '/scenarios/A2/social/elevator-small-talk.html' | relative_url }}) (A2) - Extended conversation about weekend plans
+- [Small Talk in Elevator]({{ '/scenarios/A2/social/elevator-small-talk.html' | relative_url }}) (A2) - When they ask about your weekend

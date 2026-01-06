@@ -1,59 +1,134 @@
 ---
 layout: scenario
-title: "Greeting in Hallway with Weather Comment"
+title: "Hallway Greeting - When They Want to Chat"
 level: A1
 category: social
-difficulty: 1
-vocabulary_count: 9
+difficulty: 2
+vocabulary_count: 12
 ---
 
-## Scenario: Greeting in Hallway with Weather Comment
+## Scenario: Hallway Encounters That Go Beyond "Dzień Dobry"
 
 ### Your Goal
-You meet a neighbor in the hallway. You want to greet them and make a simple comment about the weather.
+You meet a neighbor in the hallway. They might: make a weather comment you don't understand, try to start a longer conversation, or use words you've never heard. Learn to survive these encounters.
 
 ### Setting
-You're in the hallway of your apartment building. You're heading out and meet a neighbor who's coming in from outside.
+You're in the hallway of your building. A neighbor is coming or going. They see you and want to make small talk.
 
 ---
 
-## Dialogue
-
-### Opening Greeting
-
-**You:** Dzień dobry. `(jen DOB-rih)` - Good day.
+## The Basic Exchange
 
 **Neighbor:** Dzień dobry! `(jen DOB-rih)` - Good day!
+**You:** Dzień dobry. `(jen DOB-rih)` - Good day.
+
+*But then they say more...*
 
 ---
 
-### Weather Comment
+## Complication 1: They Comment on Weather - You Don't Understand
 
-**You have several simple options:**
+**Neighbor says something about weather. You caught nothing.**
 
-**Option A - It's cold:**
-- **You:** Zimno dzisiaj. `(ZHEEM-no JEE-shay)` - Cold today.
-- **Neighbor:** Tak, bardzo zimno. `(tak, BAR-dzo ZHEEM-no)` - Yes, very cold.
+**Neighbor:** [Polish about weather]
 
-**Option B - It's hot:**
-- **You:** Gorąco dzisiaj. `(go-RON-tso JEE-shay)` - Hot today.
-- **Neighbor:** Tak, strasznie gorąco! `(tak, STRASH-nyeh go-RON-tso)` - Yes, terribly hot!
+**Your options:**
 
-**Option C - It's raining:**
-- **You:** Pada. `(PA-da)` - It's raining.
-- **Neighbor:** Tak, pada. `(tak, PA-da)` - Yes, it's raining.
+**Option A - Guess weather type and agree:**
+- *If it looks cold:* **You:** Tak, zimno. `(tak, ZHEEM-no)` - Yes, cold.
+- *If it looks hot:* **You:** Tak, gorąco. `(tak, go-RON-tso)` - Yes, hot.
+- *If wet:* **You:** Tak, pada. `(tak, PA-da)` - Yes, raining.
 
-**Option D - Nice weather:**
-- **You:** Ładna pogoda. `(WAD-na po-GO-da)` - Nice weather.
-- **Neighbor:** Tak, pięknie dzisiaj! `(tak, PYEN-knyeh JEE-shay)` - Yes, beautiful today!
+**Option B - Just agree generally:**
+- **You:** Tak, tak. `(tak, tak)` - Yes, yes.
+- *Generic agreement usually works*
+
+**Option C - Admit confusion:**
+- **You:** Przepraszam? `(psheh-PRA-sham)` - Sorry?
 
 ---
 
-### Brief Response and Goodbye
+## Complication 2: They Ask a Question You Don't Understand
 
-**You:** Do widzenia. `(do vee-JEN-ya)` - Goodbye.
+**Neighbor asks something. You have no idea what.**
 
-**Neighbor:** Do widzenia! `(do vee-JEN-ya)` - Goodbye!
+**Neighbor:** [Question in Polish]
+
+**Your survival responses:**
+
+**If you think it might be "how are you":**
+- **You:** Dobrze, dziękuję. `(DOB-zheh, jen-KOO-yeh)` - Good, thanks.
+
+**If completely lost:**
+- **You:** Nie rozumiem. `(nyeh ro-ZOO-myem)` - I don't understand.
+- **You:** Przepraszam, nie mówię po polsku. `(psheh-PRA-sham, nyeh MOO-vyeh po POL-skoo)` - Sorry, I don't speak Polish.
+
+---
+
+## Complication 3: They Want to Chat But You're in a Hurry
+
+**Neighbor is settling in for a conversation. You need to leave.**
+
+**Your exit strategies:**
+
+**Option A - Direct:**
+- **You:** Przepraszam, śpieszę się. `(psheh-PRA-sham, SHPYEH-sheh sheh)` - Sorry, I'm in a hurry.
+
+**Option B - Apologetic:**
+- **You:** Przepraszam, muszę iść. `(psheh-PRA-sham, MOO-sheh eeshch)` - Sorry, I have to go.
+
+**Option C - Wish them well and exit:**
+- **You:** Miłego dnia! `(mee-WEH-go dnya)` - Have a nice day! *walk away*
+
+---
+
+## Complication 4: They Use a Word You Don't Know
+
+**You understood most of it, but one key word is missing.**
+
+**Neighbor:** Dzisiaj jest [unknown word].
+
+**Your options:**
+
+**Option A - Ask what that means:**
+- **You:** Przepraszam, co to znaczy? `(psheh-PRA-sham, tso to ZNA-chih)` - Sorry, what does that mean?
+
+**Option B - Just agree:**
+- **You:** Aha, tak. `(a-HA, tak)` - Ah, yes.
+- *Sometimes easier than asking*
+
+**Option C - Ask for simpler version:**
+- **You:** Przepraszam, inaczej? `(psheh-PRA-sham, ee-NA-chey)` - Sorry, differently?
+
+---
+
+## Complication 5: They're Complaining About Something
+
+**Neighbor is upset about building issues - noise, elevator, trash, etc.**
+
+**Neighbor:** *Complaining in Polish about something*
+
+**Safe responses:**
+
+- **You:** Rozumiem. `(ro-ZOO-myem)` - I understand. *nod sympathetically*
+- **You:** Tak, tak. `(tak, tak)` - Yes, yes. *agree*
+- **You:** To jest problem. `(to yest PRO-blem)` - That's a problem.
+
+**If they seem to want you to do something:**
+- **You:** Przepraszam, nie rozumiem. `(psheh-PRA-sham, nyeh ro-ZOO-myem)` - Sorry, I don't understand.
+
+---
+
+## Weather Vocabulary (For Quick Responses)
+
+| What You See | Quick Response |
+|--------------|----------------|
+| Cold outside | Zimno. `(ZHEEM-no)` |
+| Hot outside | Gorąco. `(go-RON-tso)` |
+| Raining | Pada. `(PA-da)` |
+| Snowing | Pada śnieg. `(PA-da shnyeg)` |
+| Nice day | Ładna pogoda. `(WAD-na po-GO-da)` |
+| Bad weather | Brzydka pogoda. `(BZHID-ka po-GO-da)` |
 
 ---
 
@@ -62,79 +137,23 @@ You're in the hallway of your apartment building. You're heading out and meet a 
 | Polish | Pronunciation | English |
 |--------|---------------|---------|
 | Dzień dobry | jen DOB-rih | Good day |
-| Zimno | ZHEEM-no | Cold |
-| Gorąco | go-RON-tso | Hot |
+| Zimno / Gorąco | ZHEEM-no / go-RON-tso | Cold / Hot |
 | Pada | PA-da | It's raining |
-| Ładna pogoda | WAD-na po-GO-da | Nice weather |
-| Dzisiaj | JEE-shay | Today |
-| Tak | tak | Yes |
-| Bardzo | BAR-dzo | Very |
-| Do widzenia | do vee-JEN-ya | Goodbye |
-
----
-
-## Weather Words
-
-| Polish | Pronunciation | English |
-|--------|---------------|---------|
-| Zimno | ZHEEM-no | Cold |
-| Gorąco | go-RON-tso | Hot |
-| Pada | PA-da | It's raining |
-| Śnieg | shnyeg | Snow |
-| Słońce | SWON-tse | Sun |
-| Wiatr | vyatr | Wind |
-| Ciepło | CHEP-wo | Warm |
-| Ładna pogoda | WAD-na po-GO-da | Nice weather |
-| Brzydka pogoda | BZHID-ka po-GO-da | Bad weather |
-
----
-
-## Pronunciation Tips
-
-1. **"Zimno"**: ZHEEM-no. The "i" is short
-2. **"Gorąco"**: go-RON-tso. The "ą" is nasal (like "on")
-3. **"Pada"**: PA-da. Simple! Means "it's raining" or "it's snowing"
-4. **"Ładna"**: WAD-na. The "ł" sounds like "w"
-5. **"Dzisiaj"**: JEE-shay. Quick pronunciation
+| Dobrze | DOB-zheh | Good / Well |
+| Śpieszę się | SHPYEH-sheh sheh | I'm in a hurry |
+| Muszę iść | MOO-sheh eeshch | I have to go |
+| Co to znaczy? | tso to ZNA-chih | What does that mean? |
+| Rozumiem | ro-ZOO-myem | I understand |
+| To jest problem | to yest PRO-blem | That's a problem |
 
 ---
 
 ## Cultural Notes
 
-- **Weather talk is common**: Like in many cultures, weather is a safe, neutral topic for hallway chit-chat.
-- **Keep it brief**: These hallway conversations are meant to be quick. Don't feel pressure to have a long conversation!
-- **Agreement is polite**: If someone says "Zimno dzisiaj", it's polite to agree with "Tak" even if you don't feel it's that cold.
-- **"Pada" is versatile**: This word means "it's raining" or "it's snowing" depending on context. In winter, everyone will know you mean snow!
-
----
-
-## Common Complications
-
-**What if they ask you a question you don't understand?**
-
-- **You:** Przepraszam, nie rozumiem. `(psheh-PRA-sham, nyeh ro-ZOO-myem)` - Sorry, I don't understand.
-- Smile and they'll usually move on or rephrase!
-
-**What if you want to say it's going to rain?**
-
-- **You:** Będzie padać. `(BEN-jeh PA-datch)` - It's going to rain.
-- But for A1, just use present tense: "Pada" (It's raining)
-
-**What if they start a longer conversation?**
-
-- If you need to go: **You:** Przepraszam, śpieszę się. `(psheh-PRA-sham, SHPYEH-sheh sheh)` - Sorry, I'm in a hurry.
-
----
-
-## Extended Weather Phrases
-
-| Polish | Pronunciation | English |
-|--------|---------------|---------|
-| Pada śnieg | PA-da shnyeg | It's snowing |
-| Pada deszcz | PA-da deshch | It's raining |
-| Wieje wiatr | VYEH-yeh vyatr | It's windy |
-| Jest słonecznie | yest swo-NECH-nyeh | It's sunny |
-| Jest pochmurno | yest po-HMOOR-no | It's cloudy |
+- **Weather talk is normal**: Like everywhere, weather is a safe, neutral topic.
+- **Brief is better**: You don't need to have a long conversation. Brief exchanges are normal.
+- **Complaining is Polish**: Poles sometimes complain about things. Nodding sympathetically is the right response.
+- **"Miłego dnia" is a good exit**: Saying "Have a nice day" signals the conversation is ending.
 
 ---
 
@@ -142,37 +161,21 @@ You're in the hallway of your apartment building. You're heading out and meet a 
 
 ### Easiest Version
 - "Dzień dobry"
-- "Zimno" or "Gorąco" *(just the one word!)*
+- If they say weather word, say "Tak" (yes)
 - "Do widzenia"
 
 ### Challenge Version
-- Full sentence: "Zimno dzisiaj" (Cold today)
-- Agree with their response: "Tak, bardzo zimno" (Yes, very cold)
-- Add a goodbye wish: "Miłego dnia!" (Have a nice day!)
-
----
-
-## Seasonal Small Talk
-
-**Winter:**
-- "Zimno!" (Cold!)
-- "Pada śnieg." (It's snowing.)
-
-**Summer:**
-- "Gorąco!" (Hot!)
-- "Ładna pogoda." (Nice weather.)
-
-**Spring/Fall:**
-- "Pada." (It's raining.)
-- "Brzydka pogoda." (Bad weather.)
+- Respond to weather: "Tak, bardzo zimno" (Yes, very cold)
+- If confused: "Przepraszam, nie rozumiem"
+- Exit: "Miłego dnia!"
 
 ---
 
 ## Next Steps
 
 **Similar Scenarios:**
-- [Elevator Greeting]({{ '/scenarios/A1/social/elevator-greeting.html' | relative_url }}) - Similar brief greeting
-- [Meeting New Neighbor]({{ '/scenarios/A1/social/neighbor-introduction.html' | relative_url }}) - Slightly longer interaction
+- [Elevator Greeting]({{ '/scenarios/A1/social/elevator-greeting.html' | relative_url }}) - Awkward silences and fast speech
+- [Neighbor Introduction]({{ '/scenarios/A1/social/neighbor-introduction.html' | relative_url }}) - When they ask where you're from
 
 **Progression:**
-- [Small Talk in Elevator]({{ '/scenarios/A2/social/elevator-small-talk.html' | relative_url }}) (A2) - Extended conversations
+- [Small Talk in Elevator]({{ '/scenarios/A2/social/elevator-small-talk.html' | relative_url }}) (A2) - Extended conversation

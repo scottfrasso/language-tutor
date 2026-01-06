@@ -1,111 +1,152 @@
 ---
 layout: scenario
-title: "Buying Fresh Bread at Piekarnia"
+title: "Piekarnia - When the Bakery Gets Confusing"
 level: A1
 category: specialty-shops
 difficulty: 2
-vocabulary_count: 10
+vocabulary_count: 14
 ---
 
-## Scenario: Buying Fresh Bread at Piekarnia
+## Scenario: Surviving the Bakery Experience
 
 ### Your Goal
-You need to buy a fresh loaf of bread (chleb) from a traditional Polish bakery. You want to make sure it's fresh from today.
+You want bread from a piekarnia (bakery). But the baker might: not understand what type you want, give you the wrong bread, ask unexpected questions about slicing, or be out of what you want. Learn to handle it all.
 
 ### Setting
-You're at a local piekarnia (bakery) in your neighborhood. There's a line of 2-3 people. The baker is behind the counter with fresh bread on display. Unlike supermarkets, you'll have more direct interaction here.
+You're at a neighborhood piekarnia. There are several types of bread. The baker is behind the counter waiting for you to order. Unlike supermarkets, you have to ask for what you want.
 
 ---
 
-## Dialogue Variations
+## The Basic Request
 
-### Opening (Waiting in Line)
+**You:** Dzień dobry. Poproszę chleb. `(jen DOB-rih. po-PRO-sheh hleb)` - Good day. I'd like bread.
 
-**When it's your turn, the baker greets you:**
-
-**Variation A - Standard greeting:**
-- **Baker:** Dzień dobry! Słucham? `(jen DOB-rih! SWOO-ham)` - Good day! Yes? / What would you like?
-- **You:** Dzień dobry. `(jen DOB-rih)` - Good day.
-
-**Variation B - Polite:**
-- **Baker:** Dzień dobry! Co podać? `(jen DOB-rih! tso po-DATCH)` - Good day! What can I get you?
-- **You:** Dzień dobry. `(jen DOB-rih)` - Good day.
-
-**Variation C - Friendly:**
-- **Baker:** Cześć! Co dla pani/pana? `(cheshch! tso dla PA-nee/PA-na)` - Hi! What for you (f/m)?
-- **You:** Cześć. `(cheshch)` - Hi.
+**Or point and say:**
+- Ten, poproszę. `(ten, po-PRO-sheh)` - This one, please.
 
 ---
 
-### Main Request
+## Complication 1: They Don't Understand What You Want
 
-**You:** Poproszę chleb. `(po-PRO-sheh hleb)` - I'd like bread, please.
+**Your pronunciation of "chleb" doesn't land.**
 
----
+**Baker:** Co proszę? `(tso PRO-sheh)` - What, please?
+**Baker:** Słucham? `(SWOO-ham)` - What?
+**Baker:** Nie rozumiem. `(nyeh ro-ZOO-myem)` - I don't understand.
 
-### Baker's Possible Responses
+**Your options:**
 
-**Response A - Needs specification:**
-- **Baker:** Jaki chleb? `(YA-kee hleb)` - What kind of bread?
-- **You:** Zwykły. `(ZVIH-kwih)` - Regular.
-  OR: Ten. `(ten)` - This one. *(point to a loaf)*
+**Option A - Point:**
+- **You:** *Point at bread* Ten. Poproszę. `(ten. po-PRO-sheh)` - This one. Please.
 
-**Response B - Offering choice:**
-- **Baker:** Mamy razowy, pszenny, żytni. Który? `(MA-mih ra-ZO-vih, PSHEN-nih, ZHIT-nee. KTOO-rih)` - We have whole wheat, wheat, rye. Which one?
-- **You:** Pszenny, poproszę. `(PSHEN-nih, po-PRO-sheh)` - Wheat, please.
-  OR: Ten zwykły. `(ten ZVIH-kwih)` - That regular one.
+**Option B - Try again slowly:**
+- **You:** Ch-leb. `(slowly: kh-leb)`
+- *The "ch" is like a throat-clearing sound*
 
-**Response C - Upsell/Suggestion:**
-- **Baker:** Mamy świeży, z pieca! Dopiero co wyjęliśmy. `(MA-mih SHVYEH-zhih, z PYEH-tsa! do-PYEH-ro tso vih-YEN-leesh-mih)` - We have fresh, from the oven! We just took it out.
-- **You:** Super! Poproszę. `(SOO-per! po-PRO-sheh)` - Great! I'll take it.
-
-**Response D - Confirms by pointing:**
-- **Baker:** Ten? `(ten)` - This one? *(points)*
-- **You:** Tak, ten. `(tak, ten)` - Yes, that one.
+**Option C - Use a simpler word:**
+- **You:** To. `(to)` - That. *point*
 
 ---
 
-### Optional: Asking About Freshness
+## Complication 2: They Ask Which Type
 
-**You can ask if it's fresh:**
+**Baker:** Jaki chleb? `(YA-kee hleb)` - What kind of bread?
+**Baker:** Który? `(KTOO-rih)` - Which one?
+**Baker:** Mamy razowy, pszenny, żytni... `(MA-mih ra-ZO-vih, PSHEN-nih, ZHIT-nee)` - We have whole wheat, wheat, rye...
 
-**You:** Czy jest świeży? `(chih yest SHVYEH-zhih)` - Is it fresh?
+**If you don't understand the options:**
 
-**Baker's responses:**
-- **Response A:** Tak, z dzisiaj! `(tak, z JEE-shay)` - Yes, from today!
-- **Response B:** Oczywiście! `(o-chih-VEESH-cheh)` - Of course!
-- **Response C:** Jeszcze ciepły! `(YESH-cheh CHEP-wih)` - Still warm!
+**Option A - Ask for regular/normal:**
+- **You:** Zwykły. `(ZVIH-kwih)` - Regular/normal.
 
----
+**Option B - Point:**
+- **You:** Ten. `(ten)` - This one. *point*
 
-### Payment
-
-**Baker:** Pięć złotych. `(pyench ZWO-tih)` - Five złoty.
-  OR: To będzie pięć złotych. `(to BEN-jeh pyench ZWO-tih)` - That'll be five złoty.
-
-**You:** Proszę. `(PRO-sheh)` - Here you go. *(hand over money)*
-
-**Baker:** Dziękuję! `(jen-KOO-yeh)` - Thank you!
-
-**If you need change:**
-- **Baker:** I złoty reszty. `(ee ZWO-tih RESH-tih)` - And one złoty change.
-- **You:** Dziękuję. `(jen-KOO-yeh)` - Thank you.
+**Option C - Ask for recommendation:**
+- **You:** Który jest dobry? `(KTOO-rih yest DOB-rih)` - Which one is good?
 
 ---
 
-### Closing
+## Complication 3: They Give You the Wrong Bread
 
-**Variation 1 - Standard:**
-- **You:** Dziękuję, do widzenia! `(jen-KOO-yeh, do vee-JEN-ya)` - Thank you, goodbye!
-- **Baker:** Do widzenia! `(do vee-JEN-ya)` - Goodbye!
+**You asked for one, but they picked up a different one.**
 
-**Variation 2 - Polite wish:**
-- **Baker:** Smacznego! `(sma-CHNE-go)` - Enjoy! *(lit: of tasty)*
-- **You:** Dziękuję! `(jen-KOO-yeh)` - Thank you!
+**Baker:** Ten? `(ten)` - This one? *holds up wrong bread*
 
-**Variation 3 - Informal:**
-- **Baker:** Pa pa! `(pa pa)` - Bye bye!
-- **You:** Pa pa! `(pa pa)` - Bye bye!
+**Your options:**
+
+**Option A - Correct them:**
+- **You:** Nie, ten. `(nyeh, ten)` - No, this one. *point to correct bread*
+- **You:** Przepraszam, tamten. `(psheh-PRA-sham, TAM-ten)` - Sorry, that one.
+
+**Option B - Describe what you want:**
+- **You:** Większy. `(VYENK-shih)` - Bigger.
+- **You:** Mniejszy. `(MNYEY-shih)` - Smaller.
+- **You:** Ciemny. `(CHEM-nih)` - Dark.
+- **You:** Jasny. `(YAS-nih)` - Light.
+
+**Option C - Accept it:**
+- **You:** Dobrze, ten też dobrze. `(DOB-zheh, ten tesh DOB-zheh)` - Okay, this one is fine too.
+
+---
+
+## Complication 4: They Ask About Slicing
+
+**Baker:** Pokroić? `(po-KRO-eech)` - Slice it?
+**Baker:** Kroić? `(KRO-eech)` - Cut it?
+
+**If you didn't understand the question:**
+
+**Option A - Ask what they mean:**
+- **You:** Przepraszam? `(psheh-PRA-sham)` - Sorry?
+- *They'll usually make a slicing gesture*
+
+**Option B - Just answer (take a guess):**
+- **You:** Tak. `(tak)` - Yes. *usually safe*
+- **You:** Nie. `(nyeh)` - No.
+
+---
+
+## Complication 5: They're Out of What You Want
+
+**Baker:** Nie mamy. `(nyeh MA-mih)` - We don't have it.
+**Baker:** Skończyło się. `(skon-CHI-wo sheh)` - It's sold out.
+**Baker:** Jeszcze nie ma. Będzie za godzinę. `(YESH-cheh nyeh ma. BEN-jeh za go-JEE-neh)` - Not yet. In an hour.
+
+**Your options:**
+
+**Option A - Ask what they do have:**
+- **You:** Co jest? `(tso yest)` - What is [available]?
+
+**Option B - Accept alternative:**
+- **You:** To co jest, poproszę. `(to tso yest, po-PRO-sheh)` - What you have, please.
+
+**Option C - Come back later:**
+- **You:** Wrócę później. Dziękuję. `(VROO-tseh POOZH-nyey. jen-KOO-yeh)` - I'll come back later. Thanks.
+
+---
+
+## Complication 6: The Bakery Is Closing Soon
+
+**Baker:** Zaraz zamykamy. `(ZA-raz za-mih-KA-mih)` - We're closing soon.
+**Baker:** Zostało tylko to. `(zo-STA-wo TIL-ko to)` - Only this is left.
+
+**Your options:**
+
+- **You:** Dobrze, poproszę to. `(DOB-zheh, po-PRO-sheh to)` - Okay, I'll take this.
+- **You:** Dziękuję. Do widzenia. `(jen-KOO-yeh. do vee-JEN-ya)` - Thanks. Goodbye. *leave*
+
+---
+
+## Complication 7: You Don't Understand the Price
+
+**Baker:** *mumbles a number*
+
+**Your options:**
+
+- **You:** Przepraszam, ile? `(psheh-PRA-sham, EE-leh)` - Sorry, how much?
+- **You:** Nie rozumiem. `(nyeh ro-ZOO-myem)` - I don't understand.
+- *They'll often show fingers or point at the register*
 
 ---
 
@@ -113,37 +154,26 @@ You're at a local piekarnia (bakery) in your neighborhood. There's a line of 2-3
 
 | Polish | Pronunciation | English |
 |--------|---------------|---------|
-| Dzień dobry | jen DOB-rih | Good day / Hello |
-| Poproszę | po-PRO-sheh | I'd like / Please (requesting) |
-| Chleb | hleb | Bread |
-| Świeży | SHVYEH-zhih | Fresh |
+| Poproszę chleb | po-PRO-sheh hleb | I'd like bread |
+| Ten / Tamten | ten / TAM-ten | This one / That one |
 | Jaki | YA-kee | What kind |
-| Zwykły | ZVIH-kwih | Regular / Normal |
-| Ten | ten | This one |
-| Dziękuję | jen-KOO-yeh | Thank you |
-| Do widzenia | do vee-JEN-ya | Goodbye |
-| Smacznego | sma-CHNE-go | Enjoy (your meal) |
+| Zwykły | ZVIH-kwih | Regular/normal |
+| Pokroić | po-KRO-eech | To slice |
+| Nie mamy | nyeh MA-mih | We don't have |
+| Większy / Mniejszy | VYENK-shih / MNYEY-shih | Bigger / Smaller |
+| Ciemny / Jasny | CHEM-nih / YAS-nih | Dark / Light |
+| Co jest? | tso yest | What's available? |
+| Wrócę później | VROO-tseh POOZH-nyey | I'll come back later |
 
 ---
 
-## Pronunciation Tips
-
-1. **"Poproszę"**: po-PRO-sheh. Stress on PRO. This is your most important word!
-2. **"Chleb"**: The "ch" is a throat-clearing sound, then "leb"
-3. **"Świeży"**: SHVYEH-zhih. The "ś" is softer than "sz"
-4. **"Jaki"**: YA-kee. Simple, but don't skip the "k" sound
-5. **"Smacznego"**: sma-CHNE-go. Common at bakeries!
-
----
-
-## Types of Bread You Might Hear
+## Types of Bread
 
 | Polish | Pronunciation | English |
 |--------|---------------|---------|
 | Chleb pszenny | hleb PSHEN-nih | Wheat bread |
-| Chleb razowy | hleb ra-ZO-vih | Whole wheat bread |
+| Chleb razowy | hleb ra-ZO-vih | Whole wheat |
 | Chleb żytni | hleb ZHIT-nee | Rye bread |
-| Chleb wieloziarnisty | hleb vyeh-lo-zya-RNEES-tih | Multi-grain bread |
 | Bułka | BOOW-ka | Roll |
 | Bagietka | ba-GYET-ka | Baguette |
 
@@ -151,56 +181,30 @@ You're at a local piekarnia (bakery) in your neighborhood. There's a line of 2-3
 
 ## Cultural Notes
 
-- **"Smacznego!"**: Very common at bakeries. It means "Enjoy!" (literally "of tasty"). You'll hear it a lot!
-- **Small shops = more interaction**: Unlike big supermarkets, small piekarnia expect you to ask for what you want. They'll serve you from behind the counter.
-- **Greeting is important**: Always greet when entering small shops. Some customers even greet other customers waiting in line!
-- **Point if unsure**: If you can't pronounce the type of bread, just point to what you want and say "Ten, poproszę" (This one, please).
-- **Fresh bread times**: Bread is usually freshest in the morning. By afternoon, they might have sold out of popular types.
-
----
-
-## Common Complications
-
-**What if you don't know which bread to choose?**
-
-- **You:** Który jest dobry? `(KTOO-rih yest DOB-rih)` - Which one is good?
-- **Baker:** *Will recommend one*
-- OR just point and say: **You:** Ten. `(ten)` - This one.
-
-**What if they don't understand you?**
-
-- Point to the bread you want
-- Say: **You:** Ten, poproszę. `(ten, po-PRO-sheh)` - This one, please.
-- Pointing is perfectly acceptable!
-
-**What if you want more than one?**
-
-- **You:** Dwa chleby, poproszę. `(dva HLE-bih, po-PRO-sheh)` - Two breads, please.
-- OR: **You:** Jeszcze jeden. `(YESH-cheh YEH-den)` - One more.
+- **Greeting is essential**: Always say "Dzień dobry" when entering. Some customers even greet other customers!
+- **Point freely**: Pointing at what you want is completely normal and expected.
+- **"Smacznego!"**: The baker might say this ("Enjoy!") as you leave.
+- **Morning is best**: Fresh bread is usually ready in the morning. Late afternoon may have limited selection.
+- **They pick for you**: Don't reach behind the counter. They'll hand you the bread.
 
 ---
 
 ## Practice Variations
 
-### Easiest Version (Absolute Beginner)
-- **You:** "Dzień dobry"
-- **You:** "Poproszę chleb" *(point to bread you want)*
-- **You:** "Dziękuję, do widzenia"
+### Easiest Version
+- "Dzień dobry"
+- *Point at bread* "Poproszę"
+- Pay, say "Dziękuję"
 
-This is enough for a successful purchase!
-
-### Challenge Version (A1 Advanced)
-- Specify type: "Poproszę chleb razowy" (Whole wheat bread, please)
-- Ask if fresh: "Czy jest świeży?"
-- Respond to "Smacznego" with "Dziękuję bardzo!"
+### Challenge Version
+- Ask for specific type: "Poproszę chleb razowy"
+- Answer slicing question: "Tak, poproszę pokroić"
+- If wrong bread: "Przepraszam, tamten"
 
 ---
 
 ## Next Steps
 
 **Similar Scenarios:**
-- [Ordering Pastry at Cukiernia]({{ '/scenarios/A1/specialty-shops/cukiernia-ordering-pastry.html' | relative_url }}) - Similar shop interaction
-- [Buying Bread at Auchan]({{ '/scenarios/A1/grocery-basics/auchan-buying-bread.html' | relative_url }}) - Less interaction, bigger store
-
-**Progression:**
-- [Special Order at Piekarnia]({{ '/scenarios/A2/specialty-shops/piekarnia-special-order.html' | relative_url }}) (A2) - Ordering for tomorrow, special requests
+- [Cukiernia - Ordering Pastry]({{ '/scenarios/A1/specialty-shops/cukiernia-ordering-pastry.html' | relative_url }}) - Similar pointing and ordering
+- [Piekarnia Special Order]({{ '/scenarios/A2/specialty-shops/piekarnia-special-order.html' | relative_url }}) (A2) - Ordering ahead for parties

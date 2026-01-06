@@ -1,103 +1,164 @@
 ---
 layout: scenario
-title: "Buying Digestive Medicine at Pharmacy"
+title: "Digestive Medicine - When Buying Gets Complicated"
 level: A2
 category: specialty-shops
 difficulty: 3
 vocabulary_count: 20
 ---
 
-## Scenario: Buying Medicine for Digestive Problems
+## Scenario: Buying Digestive Medicine When Things Go Wrong
 
 ### Your Goal
-You have digestive issues - lactose intolerance, bloating, or gas. You need to ask for specific medicine like Lactocontrol or Simethicone, or describe your symptoms to get a recommendation.
+You have digestive issues and need medicine. But complications arise: they don't have your brand, they don't understand your symptoms, they ask questions you can't follow, or the medicine you want requires a prescription.
 
 ### Setting
-You're at the apteka (pharmacy). You need something to help with digestive discomfort.
+You're at an apteka (pharmacy) with stomach problems. Getting the right medicine may not be straightforward.
 
 ---
 
-## Dialogue - Lactose Intolerance
+## Complication 1: They Don't Have Your Brand
 
-### Opening
+**You ask for a specific brand. They don't have it.**
 
-**You:** Dzień dobry. Poproszę Lactocontrol. `(jen DOB-rih. po-PRO-sheh lak-to-kon-TROL)` - Good day. I'd like Lactocontrol, please.
+**You:** Poproszę Lactocontrol. `(po-PRO-sheh lak-to-kon-TROL)` - I'd like Lactocontrol.
 
-**Pharmacist:** Dzień dobry. Jaką ilość? Mamy 30 i 90 tabletek. `(jen DOB-rih. YA-koh EE-loshch? MA-mih TSHIH-jesh-chee ee jeh-vyent-je-SHONT tab-LE-tek)` - Good day. What quantity? We have 30 and 90 tablets.
+**Pharmacist:** Nie mamy. Skończyło się. `(nyeh MA-mih. skon-CHI-wo sheh)` - We don't have it. It's sold out.
 
-**You:** Trzydzieści wystarczy. `(tshih-JESH-chee vih-STAR-chih)` - Thirty is enough.
+**Your options:**
 
----
+**Option A - Ask for alternative:**
+- **You:** Co innego na nietolerancję laktozy? `(tso EEN-ne-go na nyeh-to-le-RAN-tsyeh lak-TO-zih)` - Something else for lactose intolerance?
+- **Pharmacist:** Mamy inny preparat z laktazą. `(MA-mih EEN-nih pre-pa-RAT z lak-TA-zoh)` - We have another product with lactase.
 
-### If They Don't Have the Brand
+**Option B - Ask when available:**
+- **You:** Kiedy będzie? `(KYEH-dih BEN-jeh)` - When will it be available?
 
-**Pharmacist:** Nie mamy Lactocontrol. Mamy inny preparat z laktazą. `(nyeh MA-mih lak-to-kon-TROL. MA-mih EEN-nih pre-pa-RAT z lak-TA-zoh)` - We don't have Lactocontrol. We have another product with lactase.
-
-**You:** Czy działa tak samo? `(chih JA-wa tak SA-mo)` - Does it work the same?
-
-**Pharmacist:** Tak, ten sam skład. Nawet tańszy. `(tak, ten sam skwat. NA-vet TAN-shih)` - Yes, same composition. Even cheaper.
-
-**You:** Dobrze, poproszę. `(DOB-zheh, po-PRO-sheh)` - Okay, I'll take it.
+**Option C - Try another pharmacy:**
+- **You:** Może inna apteka ma? `(MO-zheh EEN-na ap-TEH-ka ma)` - Maybe another pharmacy has it?
 
 ---
 
-## Dialogue - Bloating/Gas (Simethicone)
+## Complication 2: They Don't Understand Your Symptom Description
 
-### Describing the Problem
+**You're describing bloating but they don't understand.**
 
-**You:** Dzień dobry. Mam problem ze wzdęciami. `(jen DOB-rih. mam PRO-blem zeh vzden-CHA-mee)` - Good day. I have a problem with bloating.
+**You:** Mam problem ze wzdęciami. `(mam PRO-blem zeh vzden-CHA-mee)` - I have a problem with bloating.
 
-**Pharmacist:** Jak często? Po jedzeniu? `(yak CHENS-to? po ye-JE-nyoo)` - How often? After eating?
+**Pharmacist:** Słucham? Z czym? `(SWOO-ham? z chim)` - What? With what?
 
-**You:** Tak, prawie po każdym posiłku. `(tak, PRA-vyeh po KAZH-dim po-SHEE-wkoo)` - Yes, almost after every meal.
+**Your options:**
 
----
+**Option A - Point at your stomach:**
+- **You:** *Touch stomach* Tu. Czuję się napompowany. `(too. CHOO-yeh sheh na-pom-PO-va-nih)` - Here. I feel inflated.
 
-### Pharmacist's Recommendation
+**Option B - Use simpler words:**
+- **You:** Brzuch. Gazy. `(bzhookh. GA-zih)` - Stomach. Gas.
 
-**Pharmacist:** Polecam simethicone. Pomaga na gazy i wzdęcia. `(po-LEH-tsam see-me-tee-KON. po-MA-ga na GA-zih ee VZDEN-cha)` - I recommend simethicone. It helps with gas and bloating.
-
-**You:** Jak to brać? `(yak to brach)` - How do I take it?
-
-**Pharmacist:** Jedną tabletkę po jedzeniu. Można do trzech dziennie. `(YED-noh tab-LET-keh po ye-JE-nyoo. MOZH-na do tsheh JEN-nyeh)` - One tablet after eating. Up to three per day.
-
-**You:** Dobrze. Poproszę. `(DOB-zheh. po-PRO-sheh)` - Okay. I'll take it.
+**Option C - Name medicine type:**
+- **You:** Simethicone? `(see-me-tee-KON)` - Simethicone?
+- *Brand names often work*
 
 ---
 
-## Dialogue - General Stomach Pain
+## Complication 3: They Ask Medical Questions You Don't Understand
 
-### Opening
+**Pharmacist asks detailed questions you can't follow.**
 
-**You:** Przepraszam, mam bóle brzucha. Coś na to? `(psheh-PRA-sham, mam BOO-le BZHOO-ha. tsosh na to)` - Excuse me, I have stomach pain. Something for that?
+**Pharmacist:** Czy ma pan objawy refluksu żołądkowo-przełykowego? `(chih ma pan ob-YA-vih re-FLOOK-soo zho-wond-ko-vo pshe-wih-KO-ve-go)` - Do you have symptoms of gastroesophageal reflux?
 
-**Pharmacist:** Jaki ból? Skurcze, pieczenie, czy po jedzeniu? `(YA-kee bool? SKOOR-che, pyeh-CHE-nyeh, chih po ye-JE-nyoo)` - What kind of pain? Cramps, burning, or after eating?
+**You:** *Completely lost*
 
-**Your responses:**
+**Your options:**
 
-**Option A - After dairy:**
-- **You:** Głównie po mleku i serze. `(GWOOV-nyeh po MLE-koo ee SHE-zheh)` - Mainly after milk and cheese.
-- **Pharmacist:** To może nietolerancja laktozy. Polecam enzymy laktazy. `(to MO-zheh nyeh-to-le-RAN-tsya lak-TO-zih. po-LEH-tsam en-ZIH-mih lak-TA-zih)` - That might be lactose intolerance. I recommend lactase enzymes.
+**Option A - Ask for simpler question:**
+- **You:** Przepraszam, nie rozumiem. Prościej? `(psheh-PRA-sham, nyeh ro-ZOO-myem. PROSH-chey)` - Sorry, I don't understand. Simpler?
 
-**Option B - Bloating:**
-- **You:** Wzdęcia i gazy. Czuję się "napompowany." `(VZDEN-cha ee GA-zih. CHOO-yeh sheh na-pom-PO-va-nih)` - Bloating and gas. I feel "inflated."
-- **Pharmacist:** Simethicone powinien pomóc. `(see-me-tee-KON po-VEE-nyen po-MOOTS)` - Simethicone should help.
+**Option B - Answer what you know:**
+- **You:** Nie wiem. Tylko brzuch boli. `(nyeh vyem. TIL-ko bzhookh BO-lee)` - I don't know. Only stomach hurts.
 
-**Option C - Heartburn:**
-- **You:** Pieczenie, szczególnie po ciężkim jedzeniu. `(pyeh-CHE-nyeh, shche-GOOL-nyeh po CHENZH-kim ye-JE-nyoo)` - Burning, especially after heavy food.
-- **Pharmacist:** To zgaga. Polecam antacid lub omeprazol. `(to ZGA-ga. po-LEH-tsam AN-ta-tsid loob o-me-PRA-zol)` - That's heartburn. I recommend antacid or omeprazole.
+**Option C - Say yes/no based on context:**
+- If they point at their chest: probably asking about heartburn
+- If they point at stomach: probably asking about stomach pain
 
 ---
 
-### Payment
+## Complication 4: Medicine Requires Prescription
 
-**Pharmacist:** To będzie dwadzieścia pięć złotych. `(to BEN-jeh dva-JESH-cha pyench ZWO-tih)` - That'll be twenty-five złoty.
+**What you want is prescription-only.**
 
-**You:** Proszę. `(PRO-sheh)` - Here you go.
+**You:** Coś silnego na żołądek. `(tsosh SHEEL-ne-go na zho-WON-dek)` - Something strong for stomach.
 
-**Pharmacist:** Dziękuję. Proszę przeczytać ulotkę. `(jen-KOO-yeh. PRO-sheh pshe-CHIH-tach oo-LOT-keh)` - Thank you. Please read the leaflet.
+**Pharmacist:** Omeprazol na receptę. Bez recepty mamy antacidy. `(o-me-PRA-zol na re-TSEP-teh. bez re-TSEP-tih MA-mih an-TA-tsih-dih)` - Omeprazole is prescription. Without prescription we have antacids.
 
-**You:** Dziękuję, do widzenia. `(jen-KOO-yeh, do vee-JEN-ya)` - Thank you, goodbye.
+**Your options:**
+
+**Option A - Accept OTC option:**
+- **You:** Dobrze, poproszę antacid. `(DOB-zheh, po-PRO-sheh an-TA-tsid)` - Okay, I'll take antacid.
+
+**Option B - Ask about doctor:**
+- **You:** Gdzie mogę dostać receptę? `(gjeh MO-geh DOS-tach re-TSEP-teh)` - Where can I get a prescription?
+
+**Option C - Ask if OTC is enough:**
+- **You:** Czy to wystarczy? `(chih to vih-STAR-chih)` - Is this enough?
+
+---
+
+## Complication 5: They Give Confusing Dosage Instructions
+
+**You don't understand when/how to take it.**
+
+**Pharmacist:** Przed posiłkiem zawierającym laktozę, około piętnaście minut przed jedzeniem... `(pshet po-SHEE-wkyem za-vyeh-RA-yon-tsim lak-TO-zeh, o-KO-wo pyet-NASH-cheh mee-NOOT pshet ye-JE-nyem)` - Before a meal containing lactose, about fifteen minutes before eating...
+
+**Your options:**
+
+**Option A - Ask for written instructions:**
+- **You:** Może pani napisać? `(MO-zheh PA-nee na-PEE-sach)` - Can you write it down?
+
+**Option B - Simplify:**
+- **You:** Przed jedzeniem? Ile? `(pshet ye-JE-nyem? EE-leh)` - Before eating? How many?
+
+**Option C - Confirm understanding:**
+- **You:** Więc jedna tabletka przed mlekiem? `(vyents YED-na tab-LET-ka pshet MLE-kyem)` - So one tablet before milk?
+
+---
+
+## Complication 6: They Recommend Wrong Type of Medicine
+
+**You want lactase enzymes, they think you want heartburn medicine.**
+
+**You:** Coś na żołądek po mleku. `(tsosh na zho-WON-dek po MLE-koo)` - Something for stomach after milk.
+
+**Pharmacist:** Na zgagę? `(na ZGA-geh)` - For heartburn?
+
+**You:** Nie, na nietolerancję laktozy. `(nyeh, na nyeh-to-le-RAN-tsyeh lak-TO-zih)` - No, for lactose intolerance.
+
+**Pharmacist:** A! Enzymy laktazy. `(a! en-ZIH-mih lak-TA-zih)` - Oh! Lactase enzymes.
+
+**Key phrases for clarification:**
+- **You:** Nie trawię mleka. `(nyeh TRA-vyeh MLE-ka)` - I don't digest milk.
+- **You:** Po mleku jest źle. `(po MLE-koo yest zhleh)` - After milk I feel bad.
+- **You:** Laktaza. `(lak-TA-za)` - Lactase.
+
+---
+
+## Complication 7: Price Shock
+
+**The medicine is much more expensive than expected.**
+
+**Pharmacist:** Czterdzieści pięć złotych. `(chter-JESH-chee pyench ZWO-tih)` - Forty-five złoty.
+
+**You:** Czterdzieści pięć?! Jest coś tańszego? `(chter-JESH-chee pyench?! yest tsosh TAN-she-go)` - Forty-five?! Is there something cheaper?
+
+**Pharmacist:** Mamy generyk za dwadzieścia. `(MA-mih ge-NE-rik za dva-JESH-cha)` - We have a generic for twenty.
+
+**Your options:**
+
+**Option A - Take generic:**
+- **You:** Poproszę generyk. `(po-PRO-sheh ge-NE-rik)` - I'll take the generic.
+
+**Option B - Ask if same effect:**
+- **You:** Czy działa tak samo? `(chih JA-wa tak SA-mo)` - Does it work the same?
 
 ---
 
@@ -107,97 +168,69 @@ You're at the apteka (pharmacy). You need something to help with digestive disco
 |--------|---------------|---------|
 | Wzdęcia | VZDEN-cha | Bloating |
 | Gazy | GA-zih | Gas |
-| Brzuch | bzhookh | Stomach/Belly |
-| Ból brzucha | bool BZHOO-ha | Stomach pain |
-| Trawienie | tra-VYEH-nyeh | Digestion |
-| Niestrawność | nyes-TRAV-noshch | Indigestion |
+| Brzuch | bzhookh | Stomach |
+| Żołądek | zho-WON-dek | Stomach (medical) |
 | Zgaga | ZGA-ga | Heartburn |
-| Skurcze | SKOOR-che | Cramps |
-| Pieczenie | pyeh-CHE-nyeh | Burning |
-
----
-
-## Key Vocabulary - Lactose Intolerance
-
-| Polish | Pronunciation | English |
-|--------|---------------|---------|
 | Nietolerancja laktozy | nyeh-to-le-RAN-tsya lak-TO-zih | Lactose intolerance |
 | Laktaza | lak-TA-za | Lactase (enzyme) |
-| Mleko | MLE-ko | Milk |
-| Ser | sehr | Cheese |
-| Nabiał | NA-byaw | Dairy products |
-| Po mlecznym | po MLECH-nim | After dairy |
+| Trawienie | tra-VYEH-nyeh | Digestion |
 
 ---
 
-## Medicine Names & Types
+## Medicine Types
 
 | Polish | Pronunciation | English |
 |--------|---------------|---------|
-| Lactocontrol | lak-to-kon-TROL | Lactocontrol (brand) |
-| Simethicone | see-me-tee-KON | Simethicone |
 | Enzymy | en-ZIH-mih | Enzymes |
+| Antacid | an-TA-tsid | Antacid |
+| Simethicone | see-me-tee-KON | Simethicone |
+| Generyk | ge-NE-rik | Generic |
+| Preparat | pre-pa-RAT | Product/Preparation |
 | Tabletki | tab-LET-kee | Tablets |
-| Kapsułki | kap-SOOW-kee | Capsules |
-| Krople | KROP-le | Drops |
-| Preparat | pre-pa-RAT | Preparation/Product |
 
 ---
 
-## Dosage & Instructions
+## Problem-Solving Phrases
 
 | Polish | Pronunciation | English |
 |--------|---------------|---------|
-| Po jedzeniu | po ye-JE-nyoo | After eating |
-| Przed jedzeniem | pshet ye-JE-nyem | Before eating |
-| W trakcie jedzenia | v TRAK-cheh ye-JE-nya | During eating |
-| Jedną tabletkę | YED-noh tab-LET-keh | One tablet |
-| Dwie tabletki | dvyeh tab-LET-kee | Two tablets |
-| Do trzech dziennie | do tsheh JEN-nyeh | Up to three per day |
-| W razie potrzeby | v RA-zheh po-TSHEH-bih | As needed |
+| Skończyło się | skon-CHI-wo sheh | It's sold out |
+| Co innego? | tso EEN-ne-go | Something else? |
+| Jest coś tańszego? | yest tsosh TAN-she-go | Is there something cheaper? |
+| Czy działa tak samo? | chih JA-wa tak SA-mo | Does it work the same? |
+| Może pani napisać? | MO-zheh PA-nee na-PEE-sach | Can you write it down? |
+| Nie trawię... | nyeh TRA-vyeh | I don't digest... |
 
 ---
 
 ## Cultural Notes
 
-- **Brand names work**: You can ask for specific brands like "Lactocontrol" or "Espumisan" (simethicone) - pharmacists understand.
-- **Generics available**: Pharmacists often suggest cheaper alternatives with the same active ingredient.
-- **No prescription needed**: Most digestive medicines are available without a prescription in Poland.
-- **Pharmacists give advice**: They're trained to recommend appropriate products and explain usage.
-- **Read the leaflet**: "Ulotka" is the patient information leaflet - pharmacists often remind you to read it.
-- **Lactose intolerance is common**: Many Poles are lactose intolerant, so pharmacies stock good options.
-
----
-
-## Useful Phrases
-
-| Polish | Pronunciation | English |
-|--------|---------------|---------|
-| Coś na wzdęcia? | tsosh na VZDEN-cha | Something for bloating? |
-| Nie toleruję laktozy | nyeh to-le-ROO-yeh lak-TO-zih | I don't tolerate lactose |
-| Mam problemy z trawieniem | mam pro-BLE-mih z tra-VYEH-nyem | I have digestion problems |
-| Czy to silne? | chih to SHEEL-ne | Is this strong? |
-| Jak szybko działa? | yak SHIHP-ko JA-wa | How fast does it work? |
-| Czy mogę brać codziennie? | chih MO-geh brach tso-JEN-nyeh | Can I take it daily? |
+- **Generic alternatives**: Polish pharmacists often suggest cheaper generic alternatives. "Generyk" works the same as brand names.
+- **Brand names work**: International brands like Lactocontrol or Espumisan are often recognized.
+- **Over-the-counter**: Many digestive medicines are available without prescription in Poland.
+- **Pharmacist knowledge**: Polish pharmacists can diagnose simple digestive issues and recommend appropriate medicines.
+- **"Skończyło się"**: Common phrase meaning "sold out" - doesn't mean they never have it.
 
 ---
 
 ## Practice Variations
 
 ### Intermediate Version
-- Ask for specific product: "Poproszę Lactocontrol"
-- Respond to questions: "Tak, po jedzeniu"
-- "Dziękuję"
+- Ask by name: "Poproszę simethicone"
+- If unavailable: "Co innego?"
+- Accept: "Dobrze, poproszę"
 
 ### Advanced Version
-- Describe symptoms: "Mam wzdęcia i gazy prawie po każdym posiłku, szczególnie po nabiałę."
-- Ask follow-up: "Czy mogę brać to codziennie, czy tylko doraźnie?"
-- Compare options: "Co jest lepsze - simethicone czy węgiel aktywowany?"
+- Describe problem: "Mam wzdęcia po nabiałę, chyba nietolerancja laktozy"
+- Ask for comparison: "Jaka różnica między tym a tym?"
+- Negotiate price: "Jest coś tańszego z tym samym składem?"
 
 ---
 
 ## Next Steps
 
-- [Cold Medicine for Yourself]({{ '/scenarios/A2/specialty-shops/apteka-cold-medicine-self.html' | relative_url }}) - Buying cough/cold medicine
-- [Describing Symptoms at Apteka]({{ '/scenarios/A2/specialty-shops/apteka-describing-symptoms.html' | relative_url }}) - General symptom description
-- [Buying Basic Medicine]({{ '/scenarios/A1/specialty-shops/apteka-basic-medicine.html' | relative_url }}) (A1) - Simple requests
+**Similar Scenarios:**
+- [Cold Medicine for Yourself]({{ '/scenarios/A2/specialty-shops/apteka-cold-medicine-self.html' | relative_url }}) - Similar pharmacy complications
+- [Describing Symptoms]({{ '/scenarios/A2/specialty-shops/apteka-describing-symptoms.html' | relative_url }}) - General symptom description
+- [Basic Pharmacy Visit]({{ '/scenarios/A1/specialty-shops/apteka-basic-medicine.html' | relative_url }}) (A1) - Simple requests
+
