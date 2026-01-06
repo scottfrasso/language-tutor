@@ -1,7 +1,7 @@
 title: "Polish Language Learning Scenarios"
 description: "Realistic A1/A2 conversation practice for Polish learners living in Poland"
-baseurl: ""
-url: ""
+baseurl: "/language-tutor"
+url: "https://scottfrasso.github.io"
 markdown: kramdown
 
 defaults:

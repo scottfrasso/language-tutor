@@ -1,21 +1,23 @@
+---
+---
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Polish Language Learning Scenarios</title>
-    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>
 <body>
     <header class="site-header">
         <div class="header-content">
             <div class="site-title">
-                <a href="/">Polish Learning Scenarios</a>
+                <a href="{{ '/' | relative_url }}">Polish Learning Scenarios</a>
             </div>
             <nav class="site-nav">
-                <a href="/scenarios/A1/index.html">A1 Scenarios</a>
-                <a href="/scenarios/A2/index.html">A2 Scenarios</a>
-                <a href="/how-to-use.html">How to Use</a>
+                <a href="{{ '/scenarios/A1/index.html' | relative_url }}">A1 Scenarios</a>
+                <a href="{{ '/scenarios/A2/index.html' | relative_url }}">A2 Scenarios</a>
+                <a href="{{ '/how-to-use.html' | relative_url }}">How to Use</a>
             </nav>
         </div>
     </header>
@@ -40,7 +42,7 @@
                         <li>2-4 short exchanges</li>
                         <li>13 scenarios</li>
                     </ul>
-                    <a href="/scenarios/A1/index.html">Start with A1</a>
+                    <a href="{{ '/scenarios/A1/index.html' | relative_url }}">Start with A1</a>
                 </div>
 
                 <div class="card">
@@ -53,7 +55,7 @@
                         <li>5-8 exchanges with complications</li>
                         <li>13 scenarios</li>
                     </ul>
-                    <a href="/scenarios/A2/index.html">Progress to A2</a>
+                    <a href="{{ '/scenarios/A2/index.html' | relative_url }}">Progress to A2</a>
                 </div>
             </div>
         </section>
@@ -93,15 +95,15 @@
             <h3 style="color: #4caf50; margin-top: 2rem;">A1 - Start Here!</h3>
             <ul class="scenario-list">
                 <li>
-                    <a href="/scenarios/A1/specialty-shops/piekarnia-buying-bread.html">🥖 Buying Bread at Piekarnia</a>
+                    <a href="{{ '/scenarios/A1/specialty-shops/piekarnia-buying-bread.html' | relative_url }}">🥖 Buying Bread at Piekarnia</a>
                     <span class="scenario-description">Perfect first scenario - traditional bakery interaction</span>
                 </li>
                 <li>
-                    <a href="/scenarios/A1/grocery-basics/auchan-buying-bread.html">🛒 Buying Bread at Auchan</a>
+                    <a href="{{ '/scenarios/A1/grocery-basics/auchan-buying-bread.html' | relative_url }}">🛒 Buying Bread at Auchan</a>
                     <span class="scenario-description">Supermarket checkout basics</span>
                 </li>
                 <li>
-                    <a href="/scenarios/A1/social/elevator-greeting.html">👋 Greeting Neighbor in Elevator</a>
+                    <a href="{{ '/scenarios/A1/social/elevator-greeting.html' | relative_url }}">👋 Greeting Neighbor in Elevator</a>
                     <span class="scenario-description">Essential neighbor etiquette</span>
                 </li>
             </ul>
@@ -109,15 +111,15 @@
             <h3 style="color: #2196f3; margin-top: 2rem;">A2 - Next Level</h3>
             <ul class="scenario-list">
                 <li>
-                    <a href="/scenarios/A2/specialty-shops/apteka-describing-symptoms.html">💊 Describing Symptoms at Apteka</a>
+                    <a href="{{ '/scenarios/A2/specialty-shops/apteka-describing-symptoms.html' | relative_url }}">💊 Describing Symptoms at Apteka</a>
                     <span class="scenario-description">When you need medicine but don't know the name</span>
                 </li>
                 <li>
-                    <a href="/scenarios/A2/grocery-intermediate/farmers-market-negotiating.html">🍓 Negotiating at Farmers Market</a>
+                    <a href="{{ '/scenarios/A2/grocery-intermediate/farmers-market-negotiating.html' | relative_url }}">🍓 Negotiating at Farmers Market</a>
                     <span class="scenario-description">Getting better prices on bulk purchases</span>
                 </li>
                 <li>
-                    <a href="/scenarios/A2/social/elevator-small-talk.html">💬 Small Talk in Elevator</a>
+                    <a href="{{ '/scenarios/A2/social/elevator-small-talk.html' | relative_url }}">💬 Small Talk in Elevator</a>
                     <span class="scenario-description">Weekend plans conversation</span>
                 </li>
             </ul>
@@ -147,7 +149,7 @@
                 <li><strong>Focus on pronunciation</strong> - Use the phonetic guides (CAPS = stress)</li>
                 <li><strong>Try it in real life</strong> - The best practice is actual conversation</li>
             </ol>
-            <p><a href="/how-to-use.html" style="font-weight: 600;">Read the full guide →</a></p>
+            <p><a href="{{ '/how-to-use.html' | relative_url }}" style="font-weight: 600;">Read the full guide →</a></p>
         </section>
 
         <section style="background-color: #f0f8f0; padding: 2rem; border-radius: 8px;">
@@ -155,8 +157,8 @@
             <p>Created for Polish language learners living in Poland who want to practice realistic conversations beyond textbook dialogues. All scenarios are based on real interactions in Polish shops, markets, and apartment buildings.</p>
             <p><strong>MIT Licensed</strong> - Free to use, modify, and share!</p>
             <p style="margin-top: 1rem;">
-                <a href="https://github.com/[username]/language-tutor" style="font-weight: 600;">View on GitHub</a> |
-                <a href="/LICENSE" style="font-weight: 600;">License</a>
+                <a href="https://github.com/scottfrasso/language-tutor" style="font-weight: 600;">View on GitHub</a> |
+                <a href="{{ '/LICENSE' | relative_url }}" style="font-weight: 600;">License</a>
             </p>
         </section>
     </main>
