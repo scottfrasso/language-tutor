@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }} - Polish Language Learning</title>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+    {% include header.html %}
+
+    <main class="scenario-content">
+        <div class="scenario-header">
+            <div class="breadcrumb">
+                <a href="{{ '/' | relative_url }}">Home</a> &gt;
+                <a href="{{ '/scenarios/' | append: page.level | append: '/index.html' | relative_url }}">{{ page.level }}</a> &gt;
+                <a href="{{ page.url | remove: page.url | split: '/' | slice: 0, 4 | join: '/' | append: '/index.html' | relative_url }}">{{ page.category }}</a>
+            </div>
+            <h1>{{ page.title }}</h1>
+            <div class="scenario-meta">
+                <span class="level-badge level-{{ page.level | downcase }}">{{ page.level }}</span>
+                <span class="difficulty">Difficulty: {{ page.difficulty }}/5</span>
+                <span class="vocab-count">{{ page.vocabulary_count }} words</span>
+            </div>
+        </div>
+
+        <article>
+            {{ content }}
+        </article>
+    </main>
+
+    {% include footer.html %}
+</body>
+</html>
